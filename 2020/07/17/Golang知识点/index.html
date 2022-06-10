@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  
+
+  
+  <title>Golang知识点 | 技术小栈</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="代码规范 减少对象分配：所谓减少对象的分配，实际上是尽量做到，对象的重用  RWMutex的使用主要事项 1、读锁的时候无需等待读锁的结束 2、读锁的时候要等待写锁的结束 3、写锁的时候要等待读锁的结束 4、写锁的时候要等待写锁的结束 闭包 闭包里引用了不作为参数传递进去的值,都是引用传递 https:&#x2F;&#x2F;studygolang.com&#x2F;articles&#x2F;13253?fr&#x3D;sidebar Log4">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Golang知识点">
+<meta property="og:url" content="https://xpfyg.github.io/2020/07/17/Golang%E7%9F%A5%E8%AF%86%E7%82%B9/index.html">
+<meta property="og:site_name" content="技术小栈">
+<meta property="og:description" content="代码规范 减少对象分配：所谓减少对象的分配，实际上是尽量做到，对象的重用  RWMutex的使用主要事项 1、读锁的时候无需等待读锁的结束 2、读锁的时候要等待写锁的结束 3、写锁的时候要等待读锁的结束 4、写锁的时候要等待写锁的结束 闭包 闭包里引用了不作为参数传递进去的值,都是引用传递 https:&#x2F;&#x2F;studygolang.com&#x2F;articles&#x2F;13253?fr&#x3D;sidebar Log4">
+<meta property="og:locale" content="zh">
+<meta property="article:published_time" content="2020-07-17T16:32:55.000Z">
+<meta property="article:modified_time" content="2022-06-10T08:09:12.670Z">
+<meta property="article:author" content="池城">
+<meta name="twitter:card" content="summary">
+  
+    <link rel="alternate" href="/atom.xml" title="技术小栈" type="application/atom+xml">
+  
+  
+    <link rel="icon" href="/favicon.png">
+  
+  
+    <link href="//fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet" type="text/css">
+  
+  
+<link rel="stylesheet" href="/css/style.css">
+
+<meta name="generator" content="Hexo 4.2.1"></head>
+
+<body>
+  <div id="container">
+    <div id="wrap">
+      <header id="header">
+  <div id="banner"></div>
+  <div id="header-outer" class="outer">
+    <div id="header-title" class="inner">
+      <h1 id="logo-wrap">
+        <a href="/" id="logo">技术小栈</a>
+      </h1>
+      
+    </div>
+    <div id="header-inner" class="inner">
+      <nav id="main-nav">
+        <a id="main-nav-toggle" class="nav-icon"></a>
+        
+          <a class="main-nav-link" href="/">Home</a>
+        
+          <a class="main-nav-link" href="/archives">Archives</a>
+        
+      </nav>
+      <nav id="sub-nav">
+        
+          <a id="nav-rss-link" class="nav-icon" href="/atom.xml" title="RSS Feed"></a>
+        
+        <a id="nav-search-btn" class="nav-icon" title="Search"></a>
+      </nav>
+      <div id="search-form-wrap">
+        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://xpfyg.github.io"></form>
+      </div>
+    </div>
+  </div>
+</header>
+      <div class="outer">
+        <section id="main"><article id="post-Golang知识点" class="article article-type-post" itemscope itemprop="blogPost">
+  <div class="article-meta">
+    <a href="/2020/07/17/Golang%E7%9F%A5%E8%AF%86%E7%82%B9/" class="article-date">
+  <time datetime="2020-07-17T16:32:55.000Z" itemprop="datePublished">2020-07-17</time>
+</a>
+    
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 class="article-title" itemprop="name">
+      Golang知识点
+    </h1>
+  
+
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <h3 id="代码规范"><a href="#代码规范" class="headerlink" title="代码规范"></a>代码规范</h3><ul>
+<li>减少对象分配：所谓减少对象的分配，实际上是尽量做到，对象的重用</li>
+</ul>
+<p><strong>RWMutex的使用主要事项</strong></p>
+<p><strong>1、读锁的时候无需等待读锁的结束</strong></p>
+<p><strong>2、读锁的时候要等待写锁的结束</strong></p>
+<p><strong>3、写锁的时候要等待读锁的结束</strong></p>
+<p><strong>4、写锁的时候要等待写锁的结束</strong></p>
+<p>闭包</p>
+<p>闭包里引用了不作为参数传递进去的值,都是引用传递</p>
+<p><a href="https://studygolang.com/articles/13253?fr=sidebar" target="_blank" rel="noopener">https://studygolang.com/articles/13253?fr=sidebar</a></p>
+<p>Log4go</p>
+<p>输出字符中带``\r \n` 无法打印完全，将其转正json即可</p>
+<p>defer是在return之前执行的。这个在 <a href="http://golang.org/ref/spec#defer_statements" target="_blank" rel="noopener">官方文档</a>中是明确说明了的。要使用defer时不踩坑，最重要的一点就是要明白，<strong>return xxx这一条语句并不是一条原子指令!</strong></p>
+<p>函数返回的过程是这样的：先给返回值赋值，然后调用defer表达式，最后才是返回到调用函数中。</p>
+<h3 id="gc调优"><a href="#gc调优" class="headerlink" title="gc调优"></a>gc调优</h3><p>启动 GODEBUG=gctrace=1 go run main.go</p>
+<p><a href="https://studygolang.com/articles/9641" target="_blank" rel="noopener">https://studygolang.com/articles/9641</a></p>
+<p>圾回收信息<code>gc 1 @2.104s 0%: 0.018+1.3+0.076 ms clock, 0.054+0.35/1.0/3.0+0.23 ms cpu, 4-&gt;4-&gt;3 MB, 5 MB goal, 4 P</code>。</p>
+<p><code>1</code> 表示第一次执行<code>@2.104s</code> 表示程序执行的总时间<code>0%</code> 垃圾回收时间占用的百分比，（不知道和谁比？难道是和上面的程序执行总时间，这样比较感觉没意义）<code>0.018+1.3+0.076 ms clock</code> 垃圾回收的时间，分别为STW（stop-the-world）清扫的时间, 并发标记和扫描的时间，STW标记的时间<code>0.054+0.35/1.0/3.0+0.23 ms cpu</code> 垃圾回收占用cpu时间<code>4-&gt;4-&gt;3 MB</code> 堆的大小，gc后堆的大小，存活堆的大小<code>5 MB goal</code> 整体堆的大小<code>4 P</code> 使用的处理器数量</p>
+<p>系统内存回收信息,这个很直白，看单词就知道大概意思了<code>scvg0: inuse: 426, idle: 0, sys: 427, released: 0, consumed: 427 (MB)</code></p>
+<p><code>426</code> 使用多少M内存<code>0</code> 剩下要清除的内存<code>427</code> 系统映射的内存<code>0</code> 释放的系统内存<code>427</code> 申请的系统内存</p>
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="https://xpfyg.github.io/2020/07/17/Golang%E7%9F%A5%E8%AF%86%E7%82%B9/" data-id="cl48641lx0000d0ophzlbcjoa" class="article-share-link">Share</a>
+      
+      
+    </footer>
+  </div>
+  
+    
+<nav id="article-nav">
+  
+    <a href="/2020/07/17/InfluxDB/" id="article-nav-newer" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">Newer</strong>
+      <div class="article-nav-title">
+        
+          InfluxDB
+        
+      </div>
+    </a>
+  
+  
+</nav>
+
+  
+</article>
+
+</section>
+        
+          <aside id="sidebar">
+  
+    
+
+  
+    
+
+  
+    
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Archives</h3>
+    <div class="widget">
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2022/06/">June 2022</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2020/07/">July 2020</a></li></ul>
+    </div>
+  </div>
+
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Recent Posts</h3>
+    <div class="widget">
+      <ul>
+        
+          <li>
+            <a href="/2022/06/10/hello-world/">Hello World</a>
+          </li>
+        
+          <li>
+            <a href="/2020/07/20/hexo%E5%9C%A8github%E4%B8%8A%E5%AE%9E%E7%8E%B0%E8%87%AA%E5%8A%A8%E5%8F%91%E5%B8%83/">hexo在github上实现自动发布</a>
+          </li>
+        
+          <li>
+            <a href="/2020/07/17/InfluxDB/">InfluxDB</a>
+          </li>
+        
+          <li>
+            <a href="/2020/07/17/Golang%E7%9F%A5%E8%AF%86%E7%82%B9/">Golang知识点</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+
+  
+</aside>
+        
+      </div>
+      <footer id="footer">
+  
+  <div class="outer">
+    <div id="footer-info" class="inner">
+      &copy; 2022 池城<br>
+      Powered by <a href="http://hexo.io/" target="_blank">Hexo</a>
+    </div>
+  </div>
+</footer>
+    </div>
+    <nav id="mobile-nav">
+  
+    <a href="/" class="mobile-nav-link">Home</a>
+  
+    <a href="/archives" class="mobile-nav-link">Archives</a>
+  
+</nav>
+    
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+
+
+  
+<link rel="stylesheet" href="/fancybox/jquery.fancybox.css">
+
+  
+<script src="/fancybox/jquery.fancybox.pack.js"></script>
+
+
+
+
+<script src="/js/script.js"></script>
+
+
+
+
+  </div>
+</body>
+</html>

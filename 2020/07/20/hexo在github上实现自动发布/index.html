@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  
+
+  
+  <title>hexo在github上实现自动发布 | 技术小栈</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="前提描述hexo 创建文档后需要将编译后的public目录提交到git线,git page  才能更新，所以有两条代码线，为了减少提交静态代码到git page的操作，通过git action 实现提交hexo代码后自动更新git page的代码 hexo _config.yml修改配置1234deploy:  type: &#39;git&#39;  repo: git@github.com:x">
+<meta property="og:type" content="article">
+<meta property="og:title" content="hexo在github上实现自动发布">
+<meta property="og:url" content="https://xpfyg.github.io/2020/07/20/hexo%E5%9C%A8github%E4%B8%8A%E5%AE%9E%E7%8E%B0%E8%87%AA%E5%8A%A8%E5%8F%91%E5%B8%83/index.html">
+<meta property="og:site_name" content="技术小栈">
+<meta property="og:description" content="前提描述hexo 创建文档后需要将编译后的public目录提交到git线,git page  才能更新，所以有两条代码线，为了减少提交静态代码到git page的操作，通过git action 实现提交hexo代码后自动更新git page的代码 hexo _config.yml修改配置1234deploy:  type: &#39;git&#39;  repo: git@github.com:x">
+<meta property="og:locale" content="zh">
+<meta property="og:image" content="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/72516d86-924e-44b0-a4a9-3fd58c2e719c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%252F20200721%252Fus-west-2%252Fs3%252Faws4_request&X-Amz-Date=20200721T015248Z&X-Amz-Expires=86400&X-Amz-Signature=8b9020c883ab5d06cdfb660cd0e5bcf8f600f15cca664015dbe34a92948986ad&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%253D%22Untitled.png%22">
+<meta property="og:image" content="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/78d8233f-58a0-4f08-8b5e-7422456cd9f0/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%252F20200721%252Fus-west-2%252Fs3%252Faws4_request&X-Amz-Date=20200721T015414Z&X-Amz-Expires=86400&X-Amz-Signature=d3a5687b1c6dd827ac9eb2a84845aea768175533f57c85664291b8a5ce16ad7f&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%253D%22Untitled.png%22">
+<meta property="article:published_time" content="2020-07-20T18:05:12.000Z">
+<meta property="article:modified_time" content="2022-06-10T08:09:12.670Z">
+<meta property="article:author" content="池城">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/72516d86-924e-44b0-a4a9-3fd58c2e719c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%252F20200721%252Fus-west-2%252Fs3%252Faws4_request&X-Amz-Date=20200721T015248Z&X-Amz-Expires=86400&X-Amz-Signature=8b9020c883ab5d06cdfb660cd0e5bcf8f600f15cca664015dbe34a92948986ad&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%253D%22Untitled.png%22">
+  
+    <link rel="alternate" href="/atom.xml" title="技术小栈" type="application/atom+xml">
+  
+  
+    <link rel="icon" href="/favicon.png">
+  
+  
+    <link href="//fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet" type="text/css">
+  
+  
+<link rel="stylesheet" href="/css/style.css">
+
+<meta name="generator" content="Hexo 4.2.1"></head>
+
+<body>
+  <div id="container">
+    <div id="wrap">
+      <header id="header">
+  <div id="banner"></div>
+  <div id="header-outer" class="outer">
+    <div id="header-title" class="inner">
+      <h1 id="logo-wrap">
+        <a href="/" id="logo">技术小栈</a>
+      </h1>
+      
+    </div>
+    <div id="header-inner" class="inner">
+      <nav id="main-nav">
+        <a id="main-nav-toggle" class="nav-icon"></a>
+        
+          <a class="main-nav-link" href="/">Home</a>
+        
+          <a class="main-nav-link" href="/archives">Archives</a>
+        
+      </nav>
+      <nav id="sub-nav">
+        
+          <a id="nav-rss-link" class="nav-icon" href="/atom.xml" title="RSS Feed"></a>
+        
+        <a id="nav-search-btn" class="nav-icon" title="Search"></a>
+      </nav>
+      <div id="search-form-wrap">
+        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://xpfyg.github.io"></form>
+      </div>
+    </div>
+  </div>
+</header>
+      <div class="outer">
+        <section id="main"><article id="post-hexo在github上实现自动发布" class="article article-type-post" itemscope itemprop="blogPost">
+  <div class="article-meta">
+    <a href="/2020/07/20/hexo%E5%9C%A8github%E4%B8%8A%E5%AE%9E%E7%8E%B0%E8%87%AA%E5%8A%A8%E5%8F%91%E5%B8%83/" class="article-date">
+  <time datetime="2020-07-20T18:05:12.000Z" itemprop="datePublished">2020-07-20</time>
+</a>
+    
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 class="article-title" itemprop="name">
+      hexo在github上实现自动发布
+    </h1>
+  
+
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <h3 id="前提描述"><a href="#前提描述" class="headerlink" title="前提描述"></a>前提描述</h3><p>hexo 创建文档后需要将编译后的public目录提交到git线,git page  才能更新，所以有两条代码线，为了减少提交静态代码到git page的操作，通过git action 实现提交hexo代码后自动更新git page的代码</p>
+<h3 id="hexo-config-yml修改配置"><a href="#hexo-config-yml修改配置" class="headerlink" title="hexo _config.yml修改配置"></a>hexo _config.yml修改配置</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">deploy:</span><br><span class="line">  type: &#39;git&#39;</span><br><span class="line">  repo: git@github.com:xpfyg&#x2F;xpfyg.github.io.git</span><br><span class="line">  branch: master</span><br></pre></td></tr></table></figure>
+
+<h3 id="添加密钥对"><a href="#添加密钥对" class="headerlink" title="添加密钥对"></a>添加密钥对</h3><p>1.运行以下终端命令，将电子邮件替换为连接到您的GitHub帐户的电子邮件。</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ssh-keygen -t rsa -C &quot;997052247@qq.com&quot;</span><br></pre></td></tr></table></figure>
+
+<p>2.出现的交互默认回车就好了,我们这里查看public key</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">cat &#x2F;Users&#x2F;chihuan&#x2F;.ssh&#x2F;id_rsa.pub</span><br></pre></td></tr></table></figure>
+
+<p>3.将public key添加到github page项目</p>
+<p><img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/72516d86-924e-44b0-a4a9-3fd58c2e719c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200721%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200721T015248Z&X-Amz-Expires=86400&X-Amz-Signature=8b9020c883ab5d06cdfb660cd0e5bcf8f600f15cca664015dbe34a92948986ad&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22" alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/72516d86-924e-44b0-a4a9-3fd58c2e719c/Untitled.png"></p>
+<p>4.将private key添加到github hexo项目</p>
+<p><img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/78d8233f-58a0-4f08-8b5e-7422456cd9f0/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200721%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200721T015414Z&X-Amz-Expires=86400&X-Amz-Signature=d3a5687b1c6dd827ac9eb2a84845aea768175533f57c85664291b8a5ce16ad7f&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22" alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/78d8233f-58a0-4f08-8b5e-7422456cd9f0/Untitled.png"></p>
+<h3 id="在hxeo源码项目中配置配置github-workflows"><a href="#在hxeo源码项目中配置配置github-workflows" class="headerlink" title="在hxeo源码项目中配置配置github workflows"></a>在hxeo源码项目中配置配置github workflows</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br></pre></td><td class="code"><pre><span class="line">name: Hexo Auto-Deploy</span><br><span class="line">on:</span><br><span class="line">  push:</span><br><span class="line">    branches: [ master ]</span><br><span class="line">  pull_request:</span><br><span class="line">    branches: [ master ]</span><br><span class="line"></span><br><span class="line">jobs:</span><br><span class="line">  build:</span><br><span class="line">    name: Hexo Auto-Deploy by GitHub Actions</span><br><span class="line">    runs-on: ubuntu-latest</span><br><span class="line"></span><br><span class="line">    steps:</span><br><span class="line">    - name: 1. git checkout...</span><br><span class="line">      uses: actions&#x2F;checkout@v1</span><br><span class="line">      </span><br><span class="line">    - name: 2. setup nodejs...</span><br><span class="line">      uses: actions&#x2F;setup-node@v1</span><br><span class="line">    </span><br><span class="line">    - name: 3. install hexo...</span><br><span class="line">      run: |</span><br><span class="line">        npm install hexo-cli -g</span><br><span class="line">        npm install hexo-deployer-git</span><br><span class="line">        npm install</span><br><span class="line">        </span><br><span class="line">    - name: 4. hexo generate public files...</span><br><span class="line">      run: |</span><br><span class="line">        hexo clean</span><br><span class="line">        hexo g  </span><br><span class="line">    - name: 5. hexo config ...</span><br><span class="line">      env:</span><br><span class="line">          ACTION_DEPLOY_KEY: $&#123;&#123; secrets.hexo &#125;&#125;</span><br><span class="line">      run: |</span><br><span class="line">          # set up private key for deploy</span><br><span class="line">          mkdir -p ~&#x2F;.ssh&#x2F;</span><br><span class="line">          echo &quot;$ACTION_DEPLOY_KEY&quot; &gt; ~&#x2F;.ssh&#x2F;id_rsa</span><br><span class="line">          chmod 600 ~&#x2F;.ssh&#x2F;id_rsa</span><br><span class="line">          ssh-keyscan github.com &gt;&gt; ~&#x2F;.ssh&#x2F;known_hosts</span><br><span class="line">          # set git infomation</span><br><span class="line">          git config --global user.name &#39;xpfyg&#39;</span><br><span class="line">          git config --global user.email &#39;997052247@qq.com&#39;</span><br><span class="line">          # install dependencies</span><br><span class="line">          npm i -g hexo-cli</span><br><span class="line">          npm i</span><br><span class="line">     </span><br><span class="line">    - name: 6. hexo deploy ...</span><br><span class="line">      run: </span><br><span class="line">        hexo d</span><br></pre></td></tr></table></figure>
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="https://xpfyg.github.io/2020/07/20/hexo%E5%9C%A8github%E4%B8%8A%E5%AE%9E%E7%8E%B0%E8%87%AA%E5%8A%A8%E5%8F%91%E5%B8%83/" data-id="cl48641ma0004d0op53y2e079" class="article-share-link">Share</a>
+      
+      
+    </footer>
+  </div>
+  
+    
+<nav id="article-nav">
+  
+    <a href="/2022/06/10/hello-world/" id="article-nav-newer" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">Newer</strong>
+      <div class="article-nav-title">
+        
+          Hello World
+        
+      </div>
+    </a>
+  
+  
+    <a href="/2020/07/17/InfluxDB/" id="article-nav-older" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">Older</strong>
+      <div class="article-nav-title">InfluxDB</div>
+    </a>
+  
+</nav>
+
+  
+</article>
+
+</section>
+        
+          <aside id="sidebar">
+  
+    
+
+  
+    
+
+  
+    
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Archives</h3>
+    <div class="widget">
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2022/06/">June 2022</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2020/07/">July 2020</a></li></ul>
+    </div>
+  </div>
+
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Recent Posts</h3>
+    <div class="widget">
+      <ul>
+        
+          <li>
+            <a href="/2022/06/10/hello-world/">Hello World</a>
+          </li>
+        
+          <li>
+            <a href="/2020/07/20/hexo%E5%9C%A8github%E4%B8%8A%E5%AE%9E%E7%8E%B0%E8%87%AA%E5%8A%A8%E5%8F%91%E5%B8%83/">hexo在github上实现自动发布</a>
+          </li>
+        
+          <li>
+            <a href="/2020/07/17/InfluxDB/">InfluxDB</a>
+          </li>
+        
+          <li>
+            <a href="/2020/07/17/Golang%E7%9F%A5%E8%AF%86%E7%82%B9/">Golang知识点</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+
+  
+</aside>
+        
+      </div>
+      <footer id="footer">
+  
+  <div class="outer">
+    <div id="footer-info" class="inner">
+      &copy; 2022 池城<br>
+      Powered by <a href="http://hexo.io/" target="_blank">Hexo</a>
+    </div>
+  </div>
+</footer>
+    </div>
+    <nav id="mobile-nav">
+  
+    <a href="/" class="mobile-nav-link">Home</a>
+  
+    <a href="/archives" class="mobile-nav-link">Archives</a>
+  
+</nav>
+    
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+
+
+  
+<link rel="stylesheet" href="/fancybox/jquery.fancybox.css">
+
+  
+<script src="/fancybox/jquery.fancybox.pack.js"></script>
+
+
+
+
+<script src="/js/script.js"></script>
+
+
+
+
+  </div>
+</body>
+</html>

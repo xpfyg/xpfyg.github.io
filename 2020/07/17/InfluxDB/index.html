@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  
+
+  
+  <title>InfluxDB | 技术小栈</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="文档 https:&#x2F;&#x2F;jasper-zhang1.gitbooks.io&#x2F;influxdb&#x2F;content&#x2F;Guide&#x2F;writing_data.html https:&#x2F;&#x2F;www.cnblogs.com&#x2F;gaoguangjun&#x2F;p&#x2F;8513032.html https:&#x2F;&#x2F;blog.csdn.net&#x2F;yue530tomtom&#x2F;article&#x2F;details&#x2F;82625561 https:&#x2F;&#x2F;seg">
+<meta property="og:type" content="article">
+<meta property="og:title" content="InfluxDB">
+<meta property="og:url" content="https://xpfyg.github.io/2020/07/17/InfluxDB/index.html">
+<meta property="og:site_name" content="技术小栈">
+<meta property="og:description" content="文档 https:&#x2F;&#x2F;jasper-zhang1.gitbooks.io&#x2F;influxdb&#x2F;content&#x2F;Guide&#x2F;writing_data.html https:&#x2F;&#x2F;www.cnblogs.com&#x2F;gaoguangjun&#x2F;p&#x2F;8513032.html https:&#x2F;&#x2F;blog.csdn.net&#x2F;yue530tomtom&#x2F;article&#x2F;details&#x2F;82625561 https:&#x2F;&#x2F;seg">
+<meta property="og:locale" content="zh">
+<meta property="article:published_time" content="2020-07-17T17:05:51.000Z">
+<meta property="article:modified_time" content="2022-06-10T08:09:12.670Z">
+<meta property="article:author" content="池城">
+<meta name="twitter:card" content="summary">
+  
+    <link rel="alternate" href="/atom.xml" title="技术小栈" type="application/atom+xml">
+  
+  
+    <link rel="icon" href="/favicon.png">
+  
+  
+    <link href="//fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet" type="text/css">
+  
+  
+<link rel="stylesheet" href="/css/style.css">
+
+<meta name="generator" content="Hexo 4.2.1"></head>
+
+<body>
+  <div id="container">
+    <div id="wrap">
+      <header id="header">
+  <div id="banner"></div>
+  <div id="header-outer" class="outer">
+    <div id="header-title" class="inner">
+      <h1 id="logo-wrap">
+        <a href="/" id="logo">技术小栈</a>
+      </h1>
+      
+    </div>
+    <div id="header-inner" class="inner">
+      <nav id="main-nav">
+        <a id="main-nav-toggle" class="nav-icon"></a>
+        
+          <a class="main-nav-link" href="/">Home</a>
+        
+          <a class="main-nav-link" href="/archives">Archives</a>
+        
+      </nav>
+      <nav id="sub-nav">
+        
+          <a id="nav-rss-link" class="nav-icon" href="/atom.xml" title="RSS Feed"></a>
+        
+        <a id="nav-search-btn" class="nav-icon" title="Search"></a>
+      </nav>
+      <div id="search-form-wrap">
+        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://xpfyg.github.io"></form>
+      </div>
+    </div>
+  </div>
+</header>
+      <div class="outer">
+        <section id="main"><article id="post-InfluxDB" class="article article-type-post" itemscope itemprop="blogPost">
+  <div class="article-meta">
+    <a href="/2020/07/17/InfluxDB/" class="article-date">
+  <time datetime="2020-07-17T17:05:51.000Z" itemprop="datePublished">2020-07-17</time>
+</a>
+    
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 class="article-title" itemprop="name">
+      InfluxDB
+    </h1>
+  
+
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <p>文档</p>
+<p><a href="https://jasper-zhang1.gitbooks.io/influxdb/content/Guide/writing_data.html" target="_blank" rel="noopener">https://jasper-zhang1.gitbooks.io/influxdb/content/Guide/writing_data.html</a></p>
+<p><a href="https://www.cnblogs.com/gaoguangjun/p/8513032.html" target="_blank" rel="noopener">https://www.cnblogs.com/gaoguangjun/p/8513032.html</a></p>
+<p><a href="https://blog.csdn.net/yue530tomtom/article/details/82625561" target="_blank" rel="noopener">https://blog.csdn.net/yue530tomtom/article/details/82625561</a></p>
+<p><a href="https://segmentfault.com/a/1190000018862405#articleHeader6" target="_blank" rel="noopener">https://segmentfault.com/a/1190000018862405#articleHeader6</a></p>
+<p><strong>sharding</strong></p>
+<p><a href="https://blog.csdn.net/suzy1030/article/details/81459029" target="_blank" rel="noopener">https://blog.csdn.net/suzy1030/article/details/81459029</a></p>
+<p>启动</p>
+<ul>
+<li>Mac</li>
+</ul>
+<p>brew services start influxdb</p>
+<ul>
+<li><p>连接</p>
+</li>
+<li><p>连接本地</p>
+</li>
+</ul>
+<p>influx -precision rfc3339</p>
+<ul>
+<li>连接远程</li>
+</ul>
+<p>influx -host 39.106.178.240 -port 8086 -password shopex123 -username shopex -precision rfc3339</p>
+<p>创建 InfluxDB</p>
+<p>文档</p>
+<p><a href="https://jasper-zhang1.gitbooks.io/influxdb/content/Guide/writing_data.html" target="_blank" rel="noopener">https://jasper-zhang1.gitbooks.io/influxdb/content/Guide/writing_data.html</a></p>
+<p><a href="https://www.cnblogs.com/gaoguangjun/p/8513032.html" target="_blank" rel="noopener">https://www.cnblogs.com/gaoguangjun/p/8513032.html</a></p>
+<p><a href="https://blog.csdn.net/yue530tomtom/article/details/82625561" target="_blank" rel="noopener">https://blog.csdn.net/yue530tomtom/article/details/82625561</a></p>
+<p><a href="https://segmentfault.com/a/1190000018862405#articleHeader6" target="_blank" rel="noopener">https://segmentfault.com/a/1190000018862405#articleHeader6</a></p>
+<p><strong>sharding</strong></p>
+<p><a href="https://blog.csdn.net/suzy1030/article/details/81459029" target="_blank" rel="noopener">https://blog.csdn.net/suzy1030/article/details/81459029</a></p>
+<p>启动</p>
+<ul>
+<li>Mac</li>
+</ul>
+<p>brew services start influxdb</p>
+<ul>
+<li><p>连接</p>
+</li>
+<li><p>连接本地</p>
+</li>
+</ul>
+<p>influx -precision rfc3339</p>
+<ul>
+<li>连接远程</li>
+</ul>
+<p>influx -host 39.106.178.240 -port 8086 -password shopex123 -username shopex -precision rfc3339</p>
+<p>创建</p>
+<blockquote>
+<p>create database cadvisor ## 创建数据库cadvisor</p>
+</blockquote>
+<blockquote>
+<p>show databases</p>
+</blockquote>
+<p>name: databases</p>
+<p>name</p>
+<hr>
+<p>_internal</p>
+<p>cadvisor</p>
+<blockquote>
+<p>CREATE USER testuser WITH PASSWORD ‘testpwd’ ## 创建用户和设置密码</p>
+</blockquote>
+<blockquote>
+<p>GRANT ALL PRIVILEGES ON cadvisor TO testuser ## 授权数据库给指定用户</p>
+</blockquote>
+<blockquote>
+<p>create user “username” with password ‘password’ with all privileges ## 创建管理元用户</p>
+</blockquote>
+<blockquote>
+<p>CREATE RETENTION POLICY “cadvisor_retention” ON “cadvisor” DURATION 30d REPLICATION 1 DEFAULT ## 创建默认的数据保留策略，设置保存时间30天，副本为1<br>InfluxDB</p>
+</blockquote>
+<p>文档</p>
+<p><a href="https://jasper-zhang1.gitbooks.io/influxdb/content/Guide/writing_data.html" target="_blank" rel="noopener">https://jasper-zhang1.gitbooks.io/influxdb/content/Guide/writing_data.html</a></p>
+<p><a href="https://www.cnblogs.com/gaoguangjun/p/8513032.html" target="_blank" rel="noopener">https://www.cnblogs.com/gaoguangjun/p/8513032.html</a></p>
+<p><a href="https://blog.csdn.net/yue530tomtom/article/details/82625561" target="_blank" rel="noopener">https://blog.csdn.net/yue530tomtom/article/details/82625561</a></p>
+<p><a href="https://segmentfault.com/a/1190000018862405#articleHeader6" target="_blank" rel="noopener">https://segmentfault.com/a/1190000018862405#articleHeader6</a></p>
+<p><strong>sharding</strong></p>
+<p><a href="https://blog.csdn.net/suzy1030/article/details/81459029" target="_blank" rel="noopener">https://blog.csdn.net/suzy1030/article/details/81459029</a></p>
+<p>启动</p>
+<ul>
+<li>Mac</li>
+</ul>
+<p>brew services start influxdb</p>
+<ul>
+<li><p>连接</p>
+</li>
+<li><p>连接本地</p>
+</li>
+</ul>
+<p>influx -precision rfc3339</p>
+<ul>
+<li>连接远程</li>
+</ul>
+<p>influx -host 39.106.178.240 -port 8086 -password shopex123 -username shopex -precision rfc3339</p>
+<p>创建</p>
+<blockquote>
+<p>create database cadvisor ## 创建数据库cadvisor</p>
+</blockquote>
+<blockquote>
+<p>show databases</p>
+</blockquote>
+<p>name: databases</p>
+<p>name</p>
+<hr>
+<p>_internal</p>
+<p>cadvisor</p>
+<blockquote>
+<p>CREATE USER testuser WITH PASSWORD ‘testpwd’ ## 创建用户和设置密码</p>
+</blockquote>
+<blockquote>
+<p>GRANT ALL PRIVILEGES ON cadvisor TO testuser ## 授权数据库给指定用户</p>
+</blockquote>
+<blockquote>
+<p>create user “username” with password ‘password’ with all privileges ## 创建管理元用户</p>
+</blockquote>
+<blockquote>
+<p>CREATE RETENTION POLICY “cadvisor_retention” ON “cadvisor” DURATION 30d REPLICATION 1 DEFAULT ## 创建默认的数据保留策略，设置保存时间30天，副本为1</p>
+</blockquote>
+<blockquote>
+<p>create database cadvisor ## 创建数据库cadvisor</p>
+</blockquote>
+<blockquote>
+<p>show databases</p>
+</blockquote>
+<p>name: databases</p>
+<p>name</p>
+<hr>
+<p>_internal</p>
+<p>cadvisor</p>
+<blockquote>
+<p>CREATE USER testuser WITH PASSWORD ‘testpwd’ ## 创建用户和设置密码</p>
+</blockquote>
+<blockquote>
+<p>GRANT ALL PRIVILEGES ON cadvisor TO testuser ## 授权数据库给指定用户</p>
+</blockquote>
+<blockquote>
+<p>create user “username” with password ‘password’ with all privileges ## 创建管理元用户</p>
+</blockquote>
+<blockquote>
+<p>CREATE RETENTION POLICY “cadvisor_retention” ON “cadvisor” DURATION 30d REPLICATION 1 DEFAULT ## 创建默认的数据保留策略，设置保存时间30天，副本为1</p>
+</blockquote>
+<p>查询条件</p>
+<p>查询教程 <a href="https://www.cnblogs.com/yihuihui/p/11386691.html" target="_blank" rel="noopener">https://www.cnblogs.com/yihuihui/p/11386691.html</a></p>
+<p>value 如果是字符则用单引号</p>
+<p>select * from “order_pool” where “tid”=’1072849218408210376’</p>
+<p>select count(amount) from order_pool where time&gt;1593360000s and time&lt;1593964800s</p>
+<p>select top(count,1) from (select count(amount) from order_pool group by to_node_type limit 1)</p>
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="https://xpfyg.github.io/2020/07/17/InfluxDB/" data-id="cl48641m60002d0op3ko317dd" class="article-share-link">Share</a>
+      
+      
+    </footer>
+  </div>
+  
+    
+<nav id="article-nav">
+  
+    <a href="/2020/07/20/hexo%E5%9C%A8github%E4%B8%8A%E5%AE%9E%E7%8E%B0%E8%87%AA%E5%8A%A8%E5%8F%91%E5%B8%83/" id="article-nav-newer" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">Newer</strong>
+      <div class="article-nav-title">
+        
+          hexo在github上实现自动发布
+        
+      </div>
+    </a>
+  
+  
+    <a href="/2020/07/17/Golang%E7%9F%A5%E8%AF%86%E7%82%B9/" id="article-nav-older" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">Older</strong>
+      <div class="article-nav-title">Golang知识点</div>
+    </a>
+  
+</nav>
+
+  
+</article>
+
+</section>
+        
+          <aside id="sidebar">
+  
+    
+
+  
+    
+
+  
+    
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Archives</h3>
+    <div class="widget">
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2022/06/">June 2022</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2020/07/">July 2020</a></li></ul>
+    </div>
+  </div>
+
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Recent Posts</h3>
+    <div class="widget">
+      <ul>
+        
+          <li>
+            <a href="/2022/06/10/hello-world/">Hello World</a>
+          </li>
+        
+          <li>
+            <a href="/2020/07/20/hexo%E5%9C%A8github%E4%B8%8A%E5%AE%9E%E7%8E%B0%E8%87%AA%E5%8A%A8%E5%8F%91%E5%B8%83/">hexo在github上实现自动发布</a>
+          </li>
+        
+          <li>
+            <a href="/2020/07/17/InfluxDB/">InfluxDB</a>
+          </li>
+        
+          <li>
+            <a href="/2020/07/17/Golang%E7%9F%A5%E8%AF%86%E7%82%B9/">Golang知识点</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+
+  
+</aside>
+        
+      </div>
+      <footer id="footer">
+  
+  <div class="outer">
+    <div id="footer-info" class="inner">
+      &copy; 2022 池城<br>
+      Powered by <a href="http://hexo.io/" target="_blank">Hexo</a>
+    </div>
+  </div>
+</footer>
+    </div>
+    <nav id="mobile-nav">
+  
+    <a href="/" class="mobile-nav-link">Home</a>
+  
+    <a href="/archives" class="mobile-nav-link">Archives</a>
+  
+</nav>
+    
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+
+
+  
+<link rel="stylesheet" href="/fancybox/jquery.fancybox.css">
+
+  
+<script src="/fancybox/jquery.fancybox.pack.js"></script>
+
+
+
+
+<script src="/js/script.js"></script>
+
+
+
+
+  </div>
+</body>
+</html>
