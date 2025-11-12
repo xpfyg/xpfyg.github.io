@@ -18,10 +18,11 @@ category: 剧集
 
 
 ### 影视详情
-  **片名**：政权
-  **年份**：2024
-  **评分**：⭐ 8.0/10
-  **简介**：本剧会讲诉一个现代欧洲政权在一年之内开始瓦解的故事，温丝莱特出演新晋上任的总理；
+
+**片名**：政权
+**年份**：2024
+**评分**：⭐ 8.0/10
+**简介**：本剧会讲诉一个现代欧洲政权在一年之内开始瓦解的故事，温丝莱特出演新晋上任的总理；
 
 <div class="movie-info">
   
@@ -51,15 +52,15 @@ category: 剧集
 ## 相关推荐
 
 
-- [长｜乐｜曲 (2024)](/resources/resource-189-长乐曲.html) - 剧集
+- [长乐曲](/resources/resource-189-长乐曲.html) - 剧集
 
-- [打黑.Black.Storm.2024.2160p.WEB-DL.H265.EDR.DDP5.1.Atmos](/resources/resource-194-打黑.html) - 剧集
+- [打黑](/resources/resource-194-打黑.html) - 剧集
 
 - [俗女养成记](/resources/resource-193-俗女养成记.html) - 剧集
 
 - [边水往事](/resources/resource-199-边水往事.html) - 剧集
 
-- [群星（2024）4K HDR 杜比视界 高码率 外挂中英特效字幕](/resources/resource-187-群星.html) - 剧集
+- [群星](/resources/resource-187-群星.html) - 剧集
 
 
 ---

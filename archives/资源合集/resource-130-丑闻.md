@@ -18,10 +18,11 @@ category: 剧集
 
 
 ### 影视详情
-  **片名**：丑闻
-  **年份**：2024
-  **评分**：⭐ 8.0/10
-  **简介**：讲述了想要拥有世界的女人和另一位为了复仇不惜一切的女人之间展开的故事
+
+**片名**：丑闻
+**年份**：2024
+**评分**：⭐ 8.0/10
+**简介**：讲述了想要拥有世界的女人和另一位为了复仇不惜一切的女人之间展开的故事
 
 <div class="movie-info">
   
@@ -55,11 +56,11 @@ category: 剧集
 
 - [边水往事](/resources/resource-199-边水往事.html) - 剧集
 
-- [打黑.Black.Storm.2024.2160p.WEB-DL.H265.EDR.DDP5.1.Atmos](/resources/resource-194-打黑.html) - 剧集
+- [打黑](/resources/resource-194-打黑.html) - 剧集
 
 - [瑞克和莫蒂](/resources/resource-200-瑞克和莫蒂.html) - 剧集
 
-- [长｜乐｜曲 (2024)](/resources/resource-189-长乐曲.html) - 剧集
+- [长乐曲](/resources/resource-189-长乐曲.html) - 剧集
 
 
 ---

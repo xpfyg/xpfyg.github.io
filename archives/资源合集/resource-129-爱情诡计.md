@@ -18,10 +18,11 @@ category: 剧集
 
 
 ### 影视详情
-  **片名**：爱情诡计
-  **年份**：2024
-  **评分**：⭐ 8.0/10
-  **简介**：Pleng是一个美丽、富有、聪明的高中女孩，她最好的朋友是自己家女佣的女儿Wan ，她们从未想过要分开。有一天Wan告诉Pleng她最终还是要结婚的。Pleng计划为Wan找一个好男人，然而这个计划却让Pleng意识到了自己对Wan的感情。她们的亲密关系随着Pleng父亲自杀的枪声而被打断，Pleng的母亲也心脏病发作。失去双亲陷入人生低谷的Pleng给Wan留下一封书信后独自离开。多年后她们再次相遇，但Wan已结婚。
+
+**片名**：爱情诡计
+**年份**：2024
+**评分**：⭐ 8.0/10
+**简介**：Pleng是一个美丽、富有、聪明的高中女孩，她最好的朋友是自己家女佣的女儿Wan ，她们从未想过要分开。有一天Wan告诉Pleng她最终还是要结婚的。Pleng计划为Wan找一个好男人，然而这个计划却让Pleng意识到了自己对Wan的感情。她们的亲密关系随着Pleng父亲自杀的枪声而被打断，Pleng的母亲也心脏病发作。失去双亲陷入人生低谷的Pleng给Wan留下一封书信后独自离开。多年后她们再次相遇，但Wan已结婚。
 
 <div class="movie-info">
   
@@ -53,11 +54,11 @@ category: 剧集
 
 - [边水往事](/resources/resource-199-边水往事.html) - 剧集
 
-- [打黑.Black.Storm.2024.2160p.WEB-DL.H265.EDR.DDP5.1.Atmos](/resources/resource-194-打黑.html) - 剧集
+- [打黑](/resources/resource-194-打黑.html) - 剧集
 
 - [瑞克和莫蒂](/resources/resource-200-瑞克和莫蒂.html) - 剧集
 
-- [长｜乐｜曲 (2024)](/resources/resource-189-长乐曲.html) - 剧集
+- [长乐曲](/resources/resource-189-长乐曲.html) - 剧集
 
 
 ---

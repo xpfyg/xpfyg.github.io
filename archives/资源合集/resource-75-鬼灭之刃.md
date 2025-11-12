@@ -18,10 +18,11 @@ category: 剧集
 
 
 ### 影视详情
-  **片名**：鬼灭之刃
-  **年份**：2019
-  **评分**：⭐ 8.0/10
-  **简介**：时值日本大正时期。
+
+**片名**：鬼灭之刃
+**年份**：2019
+**评分**：⭐ 8.0/10
+**简介**：时值日本大正时期。
 
 传说太阳下山后，有恶鬼出没吃人。亦有猎鬼人斩杀恶鬼、保护人们。
 
@@ -63,11 +64,11 @@ category: 剧集
 
 - [边水往事](/resources/resource-199-边水往事.html) - 剧集
 
-- [打黑.Black.Storm.2024.2160p.WEB-DL.H265.EDR.DDP5.1.Atmos](/resources/resource-194-打黑.html) - 剧集
+- [打黑](/resources/resource-194-打黑.html) - 剧集
 
 - [瑞克和莫蒂](/resources/resource-200-瑞克和莫蒂.html) - 剧集
 
-- [长｜乐｜曲 (2024)](/resources/resource-189-长乐曲.html) - 剧集
+- [长乐曲](/resources/resource-189-长乐曲.html) - 剧集
 
 
 ---

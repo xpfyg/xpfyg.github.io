@@ -18,10 +18,11 @@ category: 剧集
 
 
 ### 影视详情
-  **片名**：破产姐妹
-  **年份**：2011
-  **评分**：⭐ 8.0/10
-  **简介**：在纽约市布鲁克林区，两个身份背景完全不同的都市女孩——Max 生在穷人家庭，而 Caroline 生在富人家庭。Caroline 家道中落，令她不得不去 Max 工作的饭店打工赚钱。两人商量着筹集 25 万美元资金来共同开创新事业。
+
+**片名**：破产姐妹
+**年份**：2011
+**评分**：⭐ 8.0/10
+**简介**：在纽约市布鲁克林区，两个身份背景完全不同的都市女孩——Max 生在穷人家庭，而 Caroline 生在富人家庭。Caroline 家道中落，令她不得不去 Max 工作的饭店打工赚钱。两人商量着筹集 25 万美元资金来共同开创新事业。
 
 <div class="movie-info">
   
@@ -55,11 +56,11 @@ category: 剧集
 
 - [边水往事](/resources/resource-199-边水往事.html) - 剧集
 
-- [打黑.Black.Storm.2024.2160p.WEB-DL.H265.EDR.DDP5.1.Atmos](/resources/resource-194-打黑.html) - 剧集
+- [打黑](/resources/resource-194-打黑.html) - 剧集
 
 - [瑞克和莫蒂](/resources/resource-200-瑞克和莫蒂.html) - 剧集
 
-- [长｜乐｜曲 (2024)](/resources/resource-189-长乐曲.html) - 剧集
+- [长乐曲](/resources/resource-189-长乐曲.html) - 剧集
 
 
 ---
