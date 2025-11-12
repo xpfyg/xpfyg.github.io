@@ -18,12 +18,6 @@ category: 剧集
 
 
 ### 影视详情
-
-<div class="movie-info">
-  
-  <img src="https://image.tmdb.org/t/p/w500/sWDtPJHjQkFkdROEpYaQFFULRZl.jpg" alt="指环王：力量之戒" class="poster" />
-  
-
   **片名**：指环王：力量之戒
   **年份**：2022
   **评分**：⭐ 8.0/10
@@ -32,6 +26,11 @@ category: 剧集
 一组为人熟悉的人物和全新的角色，他们必须对抗邪恶势力在中土世界再度崛起。从迷雾山脉的最深处、林顿壮丽的森林、努曼诺尔的海岛王国到地图的最边缘，这些领土和角色将联手创造传奇，即使他们不在人世后仍流芳百世。
 
 本剧设定在托尔金的《霍比特人》和《指环王》事件前的数千年，将带领观众回到那个年代。
+
+<div class="movie-info">
+  
+  <img src="https://image.tmdb.org/t/p/w500/sWDtPJHjQkFkdROEpYaQFFULRZl.jpg" alt="指环王：力量之戒" class="poster" />
+  
 </div>
 
 
@@ -51,8 +50,7 @@ category: 剧集
   </a>
 </div>
 
-> ⚠️ 提示：点击上方按钮将跳转到网盘分享页面
-> 📋 如提示需要提取码，请查看分享页面说明
+> ⚠️ 提示：本站无需关注或注册，直接点击链接即可跳转到网盘页面下载资源
 
 ## 相关推荐
 

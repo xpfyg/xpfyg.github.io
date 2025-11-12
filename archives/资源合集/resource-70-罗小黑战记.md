@@ -18,18 +18,17 @@ category: 剧集
 
 
 ### 影视详情
-
-<div class="movie-info">
-  
-  <img src="https://image.tmdb.org/t/p/w500/bDhBjhFknuPx3mcCInuTa3XaQmw.jpg" alt="罗小黑战记" class="poster" />
-  
-
   **片名**：罗小黑战记
   **年份**：2011
   **评分**：⭐ 8.0/10
   **简介**：《罗小黑战记》是中国大陆独立动画制作人MTJJ及其工作室制作的网络连载漫画及动画剧集系列作品。
 
 猫妖小黑盗取天明珠被谛听发现，被打回原形重伤而逃，在流落街头之时被罗小白带回了家，起名罗小黑。有一天小黑突然变成了人形，告诉小白自己要暂时离开去完成师父交给自己的任务。却在离开之后因为师傅交给自己的任务又回到了小白身边，等待着他们的会是什么呢……
+
+<div class="movie-info">
+  
+  <img src="https://image.tmdb.org/t/p/w500/bDhBjhFknuPx3mcCInuTa3XaQmw.jpg" alt="罗小黑战记" class="poster" />
+  
 </div>
 
 
@@ -49,8 +48,7 @@ category: 剧集
   </a>
 </div>
 
-> ⚠️ 提示：点击上方按钮将跳转到网盘分享页面
-> 📋 如提示需要提取码，请查看分享页面说明
+> ⚠️ 提示：本站无需关注或注册，直接点击链接即可跳转到网盘页面下载资源
 
 ## 相关推荐
 

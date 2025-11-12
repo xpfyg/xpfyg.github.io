@@ -18,16 +18,15 @@ category: 剧集
 
 
 ### 影视详情
+  **片名**：基督山伯爵
+  **年份**：2025
+  **评分**：⭐ 8.0/10
+  **简介**：埃德蒙·唐泰斯（Edmond Dantès）是一位被诬陷叛国的年轻水手，被囚禁在马赛附近的伊夫堡（Château d’If）。他成功逃脱后，化名为基督山伯爵（The Count of Monte Cristo），并策划对那些陷害他的人进行精心的报复。
 
 <div class="movie-info">
   
   <img src="https://image.tmdb.org/t/p/w500/sEBdK9PE5xgyt9N1pWPb5DnMrQc.jpg" alt="基督山伯爵" class="poster" />
   
-
-  **片名**：基督山伯爵
-  **年份**：2025
-  **评分**：⭐ 8.0/10
-  **简介**：埃德蒙·唐泰斯（Edmond Dantès）是一位被诬陷叛国的年轻水手，被囚禁在马赛附近的伊夫堡（Château d’If）。他成功逃脱后，化名为基督山伯爵（The Count of Monte Cristo），并策划对那些陷害他的人进行精心的报复。
 </div>
 
 
@@ -47,8 +46,7 @@ category: 剧集
   </a>
 </div>
 
-> ⚠️ 提示：点击上方按钮将跳转到网盘分享页面
-> 📋 如提示需要提取码，请查看分享页面说明
+> ⚠️ 提示：本站无需关注或注册，直接点击链接即可跳转到网盘页面下载资源
 
 ## 相关推荐
 

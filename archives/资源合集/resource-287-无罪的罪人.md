@@ -18,12 +18,6 @@ category: 电影
 
 
 ### 影视详情
-
-<div class="movie-info">
-  
-  <img src="https://image.tmdb.org/t/p/w500/6NmTbdNlvpKRxh5PPyj6GT8C37d.jpg" alt="Presumed Innocent" class="poster" />
-  
-
   **片名**：Presumed Innocent
   **年份**：2024
   **评分**：⭐ 8.0/10
@@ -32,6 +26,11 @@ category: 电影
 该剧改编自斯考特·杜罗所著同名小说，讲述芝加哥检察官办公室发生了一起可怕的谋杀案后，检察官之一拉斯蒂·萨比奇(吉伦哈尔)成了犯罪嫌疑人。在被告为维持家庭和婚姻而奋斗的过程中，探索痴迷、性、政治以及爱情的力量和局限性。
 
 内伽饰演拉斯蒂妻子芭芭拉，是名艺术家、画廊老板和母亲，她的生活在丈夫被指控谋杀他的情妇后被颠覆了，她在处理受伤的心和破碎的婚姻时也为家人而战，并与丈夫广为人知的审判作斗争。
+
+<div class="movie-info">
+  
+  <img src="https://image.tmdb.org/t/p/w500/6NmTbdNlvpKRxh5PPyj6GT8C37d.jpg" alt="Presumed Innocent" class="poster" />
+  
 </div>
 
 
@@ -51,8 +50,7 @@ category: 电影
   </a>
 </div>
 
-> ⚠️ 提示：点击上方按钮将跳转到网盘分享页面
-> 📋 如提示需要提取码，请查看分享页面说明
+> ⚠️ 提示：本站无需关注或注册，直接点击链接即可跳转到网盘页面下载资源
 
 ## 相关推荐
 

@@ -18,12 +18,6 @@ category: 剧集
 
 
 ### 影视详情
-
-<div class="movie-info">
-  
-  <img src="https://image.tmdb.org/t/p/w500/qW7CNX22XJIpR68WYWcayZDlj8K.jpg" alt="解密" class="poster" />
-  
-
   **片名**：解密
   **年份**：2016
   **评分**：⭐ 8.0/10
@@ -34,6 +28,11 @@ category: 剧集
 该剧于2016年6月20日在湖南卫视金鹰独播剧场播出。7月25日在贵州卫视黄金剧场二轮播出。
 
 2016年11月2日，第12届中美电影节举行盛大开幕式暨“金天使奖”年度颁奖典礼，《解密》获得优秀电视剧金天使奖，导演安建凭借《解密》获得金天使最佳中国导演奖。2017年2月，该剧获得第十一届电视制片业“电视剧优秀作品”奖。
+
+<div class="movie-info">
+  
+  <img src="https://image.tmdb.org/t/p/w500/qW7CNX22XJIpR68WYWcayZDlj8K.jpg" alt="解密" class="poster" />
+  
 </div>
 
 
@@ -53,8 +52,7 @@ category: 剧集
   </a>
 </div>
 
-> ⚠️ 提示：点击上方按钮将跳转到网盘分享页面
-> 📋 如提示需要提取码，请查看分享页面说明
+> ⚠️ 提示：本站无需关注或注册，直接点击链接即可跳转到网盘页面下载资源
 
 ## 相关推荐
 

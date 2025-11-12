@@ -18,12 +18,6 @@ category: 剧集
 
 
 ### 影视详情
-
-<div class="movie-info">
-  
-  <img src="https://image.tmdb.org/t/p/w500/rFN7h3SKGNYFSYWwb4WkzkAOXhW.jpg" alt="死神 千年血战篇" class="poster" />
-  
-
   **片名**：死神 千年血战篇
   **年份**：2022
   **评分**：⭐ 8.0/10
@@ -58,6 +52,11 @@ category: 剧集
 　　一切都走向终结。
 
 　　黑崎一护，最后的战斗开始了——
+
+<div class="movie-info">
+  
+  <img src="https://image.tmdb.org/t/p/w500/rFN7h3SKGNYFSYWwb4WkzkAOXhW.jpg" alt="死神 千年血战篇" class="poster" />
+  
 </div>
 
 
@@ -77,8 +76,7 @@ category: 剧集
   </a>
 </div>
 
-> ⚠️ 提示：点击上方按钮将跳转到网盘分享页面
-> 📋 如提示需要提取码，请查看分享页面说明
+> ⚠️ 提示：本站无需关注或注册，直接点击链接即可跳转到网盘页面下载资源
 
 ## 相关推荐
 
