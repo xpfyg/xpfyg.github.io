@@ -2,7 +2,7 @@
 title: 金庸武侠世界 - 免费夸克网盘资源分享
 description: 金庸武侠世界 - 南宋末年，金兵入侵，朝廷奸臣当道。平民义士郭啸天、杨铁心两家指腹为婚，后为金兵所害。全真教道士丘处机与江南七怪定下赌约：分别寻找杨、郭后人并传授他们武功，于十八年后在醉仙楼比试高低。郭靖、杨康分别在江南七怪与丘处机的教养下长大成人。 18年后，郭靖奉师命南下，与“东邪”黄药师之女黄蓉一见如故，彼此倾。免费夸克网盘资源分享，在线观看下载。
 keywords: 金庸武侠世界,剧集,夸克网盘,网盘资源,免费下载,在线观看,J) 金丨庸丨武侠丨世界 4K [NF三版][更新至30集],2024
-date: 2025-11-12 14:46:30
+date: 2025-11-12 15:02:32
 updated: 2025-11-04
 category: 剧集
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/rrdw2G3uBHPzbEcL0sRIhk6LWPO.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《金庸武侠世界》资源**](https://pan.quark.cn/s/a22c0a326416)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/a22c0a326416" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《金庸武侠世界》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/rrdw2G3uBHPzbEcL0sRIhk6LWPO.jpg
 
 <small>
 📝 页面ID: 210
-⏰ 生成时间: 2025-11-12 14:46:30
+⏰ 生成时间: 2025-11-12 15:02:32
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/rrdw2G3uBHPzbEcL0sRIhk6LWPO.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-210-金庸武侠世界.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:46:30",
+  "dateCreated": "2025-11-12 15:02:32",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/rrdw2G3uBHPzbEcL0sRIhk6LWPO.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/rrdw2G3uBHPzbEcL0sRIhk6LWPO.jpg",
   
-  "datePublished": "2025-11-12 14:46:30",
+  "datePublished": "2025-11-12 15:02:32",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

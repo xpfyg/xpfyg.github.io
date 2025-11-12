@@ -2,7 +2,7 @@
 title: 杀人回忆 - 免费夸克网盘资源分享
 description: 杀人回忆 - 本片长居韩国电影 Top 100 的首位。电影以 1986 年起震撼韩国的 6 年内 10 宗连环奸杀案为背景。1986年，京畿道某处发现了一名女尸。该名女子死去前曾遭人强奸。两个月后，以相同手法的奸杀案再度出现。斗满发现现场留下颇多死者的头发，来推断行凶者专挑选有脱发毛病的女子为行凶对象。另一方面。免费夸克网盘资源分享，在线观看下载。
 keywords: 杀人回忆,电影,夸克网盘,网盘资源,免费下载,在线观看,杀人回忆 韩国 4K原盘REMUX 内封字幕,2003
-date: 2025-11-12 14:47:08
+date: 2025-11-12 15:02:33
 updated: 2025-11-04
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/uvXoFNJ0iaifW3abKKHmGfnoPmU.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《杀人回忆》资源**](https://pan.quark.cn/s/c2119998eb7b)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/c2119998eb7b" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《杀人回忆》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/uvXoFNJ0iaifW3abKKHmGfnoPmU.jpg
 
 <small>
 📝 页面ID: 139
-⏰ 生成时间: 2025-11-12 14:47:08
+⏰ 生成时间: 2025-11-12 15:02:33
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/uvXoFNJ0iaifW3abKKHmGfnoPmU.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-139-杀人回忆.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:47:08",
+  "dateCreated": "2025-11-12 15:02:33",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/uvXoFNJ0iaifW3abKKHmGfnoPmU.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/uvXoFNJ0iaifW3abKKHmGfnoPmU.jpg",
   
-  "datePublished": "2025-11-12 14:47:08",
+  "datePublished": "2025-11-12 15:02:33",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

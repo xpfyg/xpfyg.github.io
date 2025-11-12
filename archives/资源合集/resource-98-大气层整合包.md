@@ -2,7 +2,7 @@
 title: 大气层整合包 - 免费夸克网盘资源分享
 description: 大气层整合包 资源，提供免费夸克网盘分享链接，支持在线观看和高速下载。
 keywords: 大气层整合包,资源,夸克网盘,网盘资源,免费下载,在线观看
-date: 2025-11-12 14:48:00
+date: 2025-11-12 15:02:34
 updated: 2025-11-03
 category: 合集
 tags:
@@ -43,10 +43,10 @@ twitter:description: 大气层整合包 资源，提供免费夸克网盘分享�
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《大气层整合包》资源**](https://pan.quark.cn/s/29688aba9368)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/29688aba9368" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《大气层整合包》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -78,7 +78,7 @@ twitter:description: 大气层整合包 资源，提供免费夸克网盘分享�
 
 <small>
 📝 页面ID: 98
-⏰ 生成时间: 2025-11-12 14:48:00
+⏰ 生成时间: 2025-11-12 15:02:34
 🔄 最后更新: 2025-11-03
 </small>
 
@@ -128,7 +128,7 @@ twitter:description: 大气层整合包 资源，提供免费夸克网盘分享�
   "url": "https://xpfyg.github.io/archives/资源合集/resource-98-大气层整合包.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-03",
-  "dateCreated": "2025-11-12 14:48:00",
+  "dateCreated": "2025-11-12 15:02:34",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -204,7 +204,7 @@ twitter:description: 大气层整合包 资源，提供免费夸克网盘分享�
   "headline": "大气层整合包 - 免费夸克网盘资源分享",
   "description": "大气层整合包 资源，提供免费夸克网盘分享链接，支持在线观看和高速下载。",
   
-  "datePublished": "2025-11-12 14:48:00",
+  "datePublished": "2025-11-12 15:02:34",
   "dateModified": "2025-11-03",
   "author": {
     "@type": "Organization",

@@ -2,7 +2,7 @@
 title: 我的三体 - 免费夸克网盘资源分享
 description: 我的三体 - 天文学家叶文洁被带到军方绝秘计划「红岸工程」，向宇宙发出地球文明的第一声啼鸣。四光年外的「三体文明」正逃离母星，接收到了地球发来的信息。对人性绝望的叶文洁向三体人暴露了地球的坐标，彻底改变了人类的命运。科学家汪淼进入神秘的网络游戏《三体》，接触到了地球上应对三体人到来而形成的一个秘密组织（ETO），。免费夸克网盘资源分享，在线观看下载。
 keywords: 我的三体,剧集,夸克网盘,网盘资源,免费下载,在线观看,2014
-date: 2025-11-12 14:46:55
+date: 2025-11-12 15:02:33
 updated: 2025-11-04
 category: 剧集
 tags:
@@ -65,10 +65,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/wZUio8U3OwiNOAE33naAFmeHRUQ.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《我的三体》资源**](https://pan.quark.cn/s/ff73fc1f1586)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/ff73fc1f1586" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《我的三体》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -100,7 +100,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/wZUio8U3OwiNOAE33naAFmeHRUQ.jpg
 
 <small>
 📝 页面ID: 160
-⏰ 生成时间: 2025-11-12 14:46:55
+⏰ 生成时间: 2025-11-12 15:02:33
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -171,7 +171,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/wZUio8U3OwiNOAE33naAFmeHRUQ.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-160-我的三体.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:46:55",
+  "dateCreated": "2025-11-12 15:02:33",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -249,7 +249,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/wZUio8U3OwiNOAE33naAFmeHRUQ.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/wZUio8U3OwiNOAE33naAFmeHRUQ.jpg",
   
-  "datePublished": "2025-11-12 14:46:55",
+  "datePublished": "2025-11-12 15:02:33",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

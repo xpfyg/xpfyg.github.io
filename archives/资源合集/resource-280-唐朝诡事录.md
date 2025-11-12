@@ -2,7 +2,7 @@
 title: 唐朝诡事录 - 免费夸克网盘资源分享
 description: 唐朝诡事录 剧集资源，提供免费夸克网盘分享链接，支持在线观看和高速下载。
 keywords: 唐朝诡事录,剧集,夸克网盘,网盘资源,免费下载,在线观看,唐朝诡事录之西行,2024
-date: 2025-11-12 14:46:11
+date: 2025-11-12 15:02:32
 updated: 2025-11-05
 category: 剧集
 tags:
@@ -65,10 +65,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/3bPISPqi4ZJF2nLzQqKRACSMbcg.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《唐朝诡事录》资源**](https://pan.quark.cn/s/5b0b8c560040)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/5b0b8c560040" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《唐朝诡事录》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -100,7 +100,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/3bPISPqi4ZJF2nLzQqKRACSMbcg.jpg
 
 <small>
 📝 页面ID: 280
-⏰ 生成时间: 2025-11-12 14:46:11
+⏰ 生成时间: 2025-11-12 15:02:32
 🔄 最后更新: 2025-11-05
 </small>
 
@@ -171,7 +171,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/3bPISPqi4ZJF2nLzQqKRACSMbcg.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-280-唐朝诡事录.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-05",
-  "dateCreated": "2025-11-12 14:46:11",
+  "dateCreated": "2025-11-12 15:02:32",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -249,7 +249,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/3bPISPqi4ZJF2nLzQqKRACSMbcg.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/3bPISPqi4ZJF2nLzQqKRACSMbcg.jpg",
   
-  "datePublished": "2025-11-12 14:46:11",
+  "datePublished": "2025-11-12 15:02:32",
   "dateModified": "2025-11-05",
   "author": {
     "@type": "Organization",

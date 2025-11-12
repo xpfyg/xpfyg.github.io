@@ -4,7 +4,7 @@ description: 雪中悍刀行 - 为逃避做隋珠公主的驸马，“天下第�
 
 　　三年游历归来，韬光养晦的徐凤年洗去浮尘，始终不想按照老爹铺好的人生轨道走，更不愿接手北椋，因为成为北椋王，就意味着要成为一个没有。免费夸克网盘资源分享，在线观看下载。
 keywords: 雪中悍刀行,剧集,夸克网盘,网盘资源,免费下载,在线观看,雪中悍刀行 ,2021
-date: 2025-11-12 14:46:24
+date: 2025-11-12 15:02:32
 updated: 2025-11-04
 category: 剧集
 tags:
@@ -75,10 +75,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/zecTpdhk8iuQ7WtQiwbtwNdTpCn.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《雪中悍刀行》资源**](https://pan.quark.cn/s/c1b51f5d4d82)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/c1b51f5d4d82" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《雪中悍刀行》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -110,7 +110,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/zecTpdhk8iuQ7WtQiwbtwNdTpCn.jpg
 
 <small>
 📝 页面ID: 243
-⏰ 生成时间: 2025-11-12 14:46:24
+⏰ 生成时间: 2025-11-12 15:02:32
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -183,7 +183,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/zecTpdhk8iuQ7WtQiwbtwNdTpCn.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-243-雪中悍刀行.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:46:24",
+  "dateCreated": "2025-11-12 15:02:32",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -263,7 +263,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/zecTpdhk8iuQ7WtQiwbtwNdTpCn.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/zecTpdhk8iuQ7WtQiwbtwNdTpCn.jpg",
   
-  "datePublished": "2025-11-12 14:46:24",
+  "datePublished": "2025-11-12 15:02:32",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

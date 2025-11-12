@@ -2,7 +2,7 @@
 title: 瑞克和莫蒂 - 免费夸克网盘资源分享
 description: 瑞克和莫蒂 - 天才兼疯子科学家瑞克，在失踪多年后突然回到女儿贝丝的身边，并且在她的车库里搞了一个科学实验室。瑞克有一把“传送门枪”，可以穿越到宇宙的各个次元。孙子莫蒂莫名其妙就成了他的助手，经常被拖进他的自制太空船内，跟他一同开展各种疯狂刺激的宇宙冒险。女儿女婿对他的疯狂行为感到不满，却又对这个天才科学家无可奈何。免费夸克网盘资源分享，在线观看下载。
 keywords: 瑞克和莫蒂,剧集,夸克网盘,网盘资源,免费下载,在线观看,2013
-date: 2025-11-12 14:45:29
+date: 2025-11-12 15:02:30
 updated: 2025-11-11
 category: 剧集
 tags:
@@ -65,10 +65,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/mPbGr0IjNxLsxXIJ7QeUtZK0RLH.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《瑞克和莫蒂》资源**](https://pan.quark.cn/s/8c23b739b361)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/8c23b739b361" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《瑞克和莫蒂》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -100,7 +100,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/mPbGr0IjNxLsxXIJ7QeUtZK0RLH.jpg
 
 <small>
 📝 页面ID: 200
-⏰ 生成时间: 2025-11-12 14:45:29
+⏰ 生成时间: 2025-11-12 15:02:30
 🔄 最后更新: 2025-11-11
 </small>
 
@@ -171,7 +171,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/mPbGr0IjNxLsxXIJ7QeUtZK0RLH.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-200-瑞克和莫蒂.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-11",
-  "dateCreated": "2025-11-12 14:45:29",
+  "dateCreated": "2025-11-12 15:02:30",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -249,7 +249,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/mPbGr0IjNxLsxXIJ7QeUtZK0RLH.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/mPbGr0IjNxLsxXIJ7QeUtZK0RLH.jpg",
   
-  "datePublished": "2025-11-12 14:45:29",
+  "datePublished": "2025-11-12 15:02:30",
   "dateModified": "2025-11-11",
   "author": {
     "@type": "Organization",

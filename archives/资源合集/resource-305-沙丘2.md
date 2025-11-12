@@ -2,7 +2,7 @@
 title: 沙丘2 - 免费夸克网盘资源分享
 description: 沙丘2 - 电影《沙丘魔堡》是美国的科幻电影，故事发生在一个遥远的未来世界，那时人类的文明是由帝国、垄断恒星间运输的宇宙协会、掌握行星领土的领主共同支撑。沙丹四世是已知宇宙的帝王，他凭借索多长突击队控制着帝国，使反抗势力不敢妄动。凯勒丹因具威慑力而被送到沙的行星，这里出产能让宇航员具备特殊能力的香料，大部分香料。免费夸克网盘资源分享，在线观看下载。
 keywords: 沙丘2,电影,夸克网盘,网盘资源,免费下载,在线观看,沙丘魔堡2000,2000
-date: 2025-11-12 14:45:39
+date: 2025-11-12 15:02:31
 updated: 2025-11-06
 category: 电影
 tags:
@@ -65,10 +65,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/iIf5XeuuBKPtG6H7MfWLirbJGrQ.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《沙丘2》资源**](https://pan.quark.cn/s/a6249e3f1c0f)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/a6249e3f1c0f" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《沙丘2》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -100,7 +100,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/iIf5XeuuBKPtG6H7MfWLirbJGrQ.jpg
 
 <small>
 📝 页面ID: 305
-⏰ 生成时间: 2025-11-12 14:45:39
+⏰ 生成时间: 2025-11-12 15:02:31
 🔄 最后更新: 2025-11-06
 </small>
 
@@ -171,7 +171,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/iIf5XeuuBKPtG6H7MfWLirbJGrQ.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-305-沙丘2.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-06",
-  "dateCreated": "2025-11-12 14:45:39",
+  "dateCreated": "2025-11-12 15:02:31",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -249,7 +249,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/iIf5XeuuBKPtG6H7MfWLirbJGrQ.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/iIf5XeuuBKPtG6H7MfWLirbJGrQ.jpg",
   
-  "datePublished": "2025-11-12 14:45:39",
+  "datePublished": "2025-11-12 15:02:31",
   "dateModified": "2025-11-06",
   "author": {
     "@type": "Organization",

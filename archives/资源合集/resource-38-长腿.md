@@ -2,7 +2,7 @@
 title: 长腿 - 免费夸克网盘资源分享
 description: 长腿 - 影片讲述了联邦调查局特工李·哈克受命调查一桩悬而未决的连环杀人案件，哈克发现与凶手有私人关系，因此必须在他再次发动袭击之前阻止他。。免费夸克网盘资源分享，在线观看下载。
 keywords: 长腿,电影,夸克网盘,网盘资源,免费下载,在线观看,长腿 2024 4K REMUX,2024
-date: 2025-11-12 14:47:53
+date: 2025-11-12 15:02:34
 updated: 2025-11-04
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/7UNGXGeRO49RVfsV6CYxsW1cn3a.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《长腿》资源**](https://pan.quark.cn/s/7ab91343b89f)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/7ab91343b89f" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《长腿》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/7UNGXGeRO49RVfsV6CYxsW1cn3a.jpg
 
 <small>
 📝 页面ID: 38
-⏰ 生成时间: 2025-11-12 14:47:53
+⏰ 生成时间: 2025-11-12 15:02:34
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/7UNGXGeRO49RVfsV6CYxsW1cn3a.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-38-长腿.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:47:53",
+  "dateCreated": "2025-11-12 15:02:34",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/7UNGXGeRO49RVfsV6CYxsW1cn3a.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/7UNGXGeRO49RVfsV6CYxsW1cn3a.jpg",
   
-  "datePublished": "2025-11-12 14:47:53",
+  "datePublished": "2025-11-12 15:02:34",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

@@ -2,7 +2,7 @@
 title: 四驱兄弟 - 免费夸克网盘资源分享
 description: 四驱兄弟 - 《四驱兄弟》是日本漫画家越田哲弘在日本著名杂志《快乐龙》上连载(台湾于漫画杂志《王牌小子》上连载,香港于《co-co!》上连载)的经典漫画，并以此为架构制作而成的超人气动画，是以玩具（迷你四驱车）、动画、电影、游戏、CD、收集卡、贴纸等各种媒介热销的动漫作品。整套动画共由三部分（《爆走兄弟Let’s。免费夸克网盘资源分享，在线观看下载。
 keywords: 四驱兄弟,剧集,夸克网盘,网盘资源,免费下载,在线观看,四驱兄弟（1996） S01 - S03集全集 1080P 国日双语音轨 中文字幕,1996
-date: 2025-11-12 14:47:04
+date: 2025-11-12 15:02:33
 updated: 2025-11-04
 category: 剧集
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/vAVeXJU5kYBy2qeI8ZBz3GUKt5H.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《四驱兄弟》资源**](https://pan.quark.cn/s/a17b0f463855)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/a17b0f463855" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《四驱兄弟》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/vAVeXJU5kYBy2qeI8ZBz3GUKt5H.jpg
 
 <small>
 📝 页面ID: 146
-⏰ 生成时间: 2025-11-12 14:47:04
+⏰ 生成时间: 2025-11-12 15:02:33
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/vAVeXJU5kYBy2qeI8ZBz3GUKt5H.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-146-四驱兄弟.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:47:04",
+  "dateCreated": "2025-11-12 15:02:33",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/vAVeXJU5kYBy2qeI8ZBz3GUKt5H.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/vAVeXJU5kYBy2qeI8ZBz3GUKt5H.jpg",
   
-  "datePublished": "2025-11-12 14:47:04",
+  "datePublished": "2025-11-12 15:02:33",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

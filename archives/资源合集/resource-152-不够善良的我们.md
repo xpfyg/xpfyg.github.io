@@ -2,7 +2,7 @@
 title: 不够善良的我们 - 免费夸克网盘资源分享
 description: 不够善良的我们 - 面临四十不惑的人妻简庆芬，有个老公体贴儿子听话的幸福家庭，日子别无所求但了无新意，需要一点目标来寻求刺激。倒杯红酒想起过去，刚出社会时同事Rebecca是她的假想敌，同天生日还常撞同件上衣，连喜欢的男人都是同一类型。止不住好奇的她立刻上网搜寻，发现Rebecca时常把心情写在社群，生活自在男友还比她。免费夸克网盘资源分享，在线观看下载。
 keywords: 不够善良的我们,剧集,夸克网盘,网盘资源,免费下载,在线观看,不够善良的我们 4K [2024][国剧],2024
-date: 2025-11-12 14:47:01
+date: 2025-11-12 15:02:33
 updated: 2025-11-04
 category: 剧集
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/7ggfjWnYnAkonbZhsdzM2pRr5rP.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《不够善良的我们》资源**](https://pan.quark.cn/s/3fa9ddca44b4)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/3fa9ddca44b4" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《不够善良的我们》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/7ggfjWnYnAkonbZhsdzM2pRr5rP.jpg
 
 <small>
 📝 页面ID: 152
-⏰ 生成时间: 2025-11-12 14:47:01
+⏰ 生成时间: 2025-11-12 15:02:33
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/7ggfjWnYnAkonbZhsdzM2pRr5rP.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-152-不够善良的我们.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:47:01",
+  "dateCreated": "2025-11-12 15:02:33",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/7ggfjWnYnAkonbZhsdzM2pRr5rP.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/7ggfjWnYnAkonbZhsdzM2pRr5rP.jpg",
   
-  "datePublished": "2025-11-12 14:47:01",
+  "datePublished": "2025-11-12 15:02:33",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

@@ -2,7 +2,7 @@
 title: 怦然心动 - 免费夸克网盘资源分享
 description: 怦然心动 - Tina因为难产而选择自己离开人世而保住女儿，并给女儿留下了八封信。女儿Anjali八岁时，收到了母亲的最后一封信，信中讲述了她的父母以及另一个叫Anjali的女孩之间的故事，而那也是她为何给她的女儿取名为Anjali的原因。在大学时代，Tina和Anjali同时爱着Rahul，但Rahul却只把A。免费夸克网盘资源分享，在线观看下载。
 keywords: 怦然心动,电影,夸克网盘,网盘资源,免费下载,在线观看,怦然心动 蓝光原盘REMUX 内封字幕,1998
-date: 2025-11-12 14:47:20
+date: 2025-11-12 15:02:33
 updated: 2025-11-04
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/wGuRv4SSRWcnPdgYsGc94fr3tCv.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《怦然心动》资源**](https://pan.quark.cn/s/b50c976ff17f)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/b50c976ff17f" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《怦然心动》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/wGuRv4SSRWcnPdgYsGc94fr3tCv.jpg
 
 <small>
 📝 页面ID: 114
-⏰ 生成时间: 2025-11-12 14:47:20
+⏰ 生成时间: 2025-11-12 15:02:33
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/wGuRv4SSRWcnPdgYsGc94fr3tCv.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-114-怦然心动.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:47:20",
+  "dateCreated": "2025-11-12 15:02:33",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/wGuRv4SSRWcnPdgYsGc94fr3tCv.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/wGuRv4SSRWcnPdgYsGc94fr3tCv.jpg",
   
-  "datePublished": "2025-11-12 14:47:20",
+  "datePublished": "2025-11-12 15:02:33",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

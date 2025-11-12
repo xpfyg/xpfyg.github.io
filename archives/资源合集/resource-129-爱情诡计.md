@@ -2,7 +2,7 @@
 title: 爱情诡计 - 免费夸克网盘资源分享
 description: 爱情诡计 - Pleng是一个美丽、富有、聪明的高中女孩，她最好的朋友是自己家女佣的女儿Wan ，她们从未想过要分开。有一天Wan告诉Pleng她最终还是要结婚的。Pleng计划为Wan找一个好男人，然而这个计划却让Pleng意识到了自己对Wan的感情。她们的亲密关系随着Pleng父亲自杀的枪声而被打断，Plen。免费夸克网盘资源分享，在线观看下载。
 keywords: 爱情诡计,剧集,夸克网盘,网盘资源,免费下载,在线观看,2024
-date: 2025-11-12 14:47:14
+date: 2025-11-12 15:02:33
 updated: 2025-11-04
 category: 剧集
 tags:
@@ -65,10 +65,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/ZVwHaA6cU2HwQtYCW9qVM7VXE0.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《爱情诡计》资源**](https://pan.quark.cn/s/775da91683ac)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/775da91683ac" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《爱情诡计》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -100,7 +100,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/ZVwHaA6cU2HwQtYCW9qVM7VXE0.jpg
 
 <small>
 📝 页面ID: 129
-⏰ 生成时间: 2025-11-12 14:47:14
+⏰ 生成时间: 2025-11-12 15:02:33
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -171,7 +171,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/ZVwHaA6cU2HwQtYCW9qVM7VXE0.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-129-爱情诡计.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:47:14",
+  "dateCreated": "2025-11-12 15:02:33",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -249,7 +249,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/ZVwHaA6cU2HwQtYCW9qVM7VXE0.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/ZVwHaA6cU2HwQtYCW9qVM7VXE0.jpg",
   
-  "datePublished": "2025-11-12 14:47:14",
+  "datePublished": "2025-11-12 15:02:33",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

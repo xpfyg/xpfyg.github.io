@@ -2,7 +2,7 @@
 title: 下一个素熙 - 免费夸克网盘资源分享
 description: 下一个素熙 - 一名女高中生被学校安排到客户服务热线担任外判实习，却最终结束了自己的生命。女刑警起初只是对自杀案作例行调查，然而她逐渐发现事件背后的残酷现实……。免费夸克网盘资源分享，在线观看下载。
 keywords: 下一个素熙,电影,夸克网盘,网盘资源,免费下载,在线观看,下一个素熙 韩国 2022 蓝光原盘REMUX DIY原盘中字,2022
-date: 2025-11-12 14:47:35
+date: 2025-11-12 15:02:34
 updated: 2025-11-04
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/30l9Kw4L8Id9HHNyOBiMBZXSJIc.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《下一个素熙》资源**](https://pan.quark.cn/s/a07862c13729)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/a07862c13729" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《下一个素熙》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/30l9Kw4L8Id9HHNyOBiMBZXSJIc.jpg
 
 <small>
 📝 页面ID: 100
-⏰ 生成时间: 2025-11-12 14:47:35
+⏰ 生成时间: 2025-11-12 15:02:34
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/30l9Kw4L8Id9HHNyOBiMBZXSJIc.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-100-下一个素熙.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:47:35",
+  "dateCreated": "2025-11-12 15:02:34",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/30l9Kw4L8Id9HHNyOBiMBZXSJIc.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/30l9Kw4L8Id9HHNyOBiMBZXSJIc.jpg",
   
-  "datePublished": "2025-11-12 14:47:35",
+  "datePublished": "2025-11-12 15:02:34",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

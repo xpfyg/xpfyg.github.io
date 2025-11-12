@@ -2,7 +2,7 @@
 title: 白月梵星 - 免费夸克网盘资源分享
 description: 白月梵星 - 本剧改编自星零小说《白烁上神》，讲述将军府嫡女白烁为报恩而立志修仙，寻仙途中意外搭救妖族大神梵樾，二人不打不相识，从相互利用到互生爱意、双向奔赴，纵然隔着千重困难，但爱足以打破一切限制，拥抱最真的彼此的故事。。免费夸克网盘资源分享，在线观看下载。
 keywords: 白月梵星,剧集,夸克网盘,网盘资源,免费下载,在线观看,白丨月丨梵丨星（2025）4K 杜比全景声 内封简繁英多国软字幕 更新中,2025
-date: 2025-11-12 14:47:41
+date: 2025-11-12 15:02:34
 updated: 2025-11-04
 category: 剧集
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/5toSGvdIqhGjEeIxf35YXxMlpmm.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《白月梵星》资源**](https://pan.quark.cn/s/784b2e186303)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/784b2e186303" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《白月梵星》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/5toSGvdIqhGjEeIxf35YXxMlpmm.jpg
 
 <small>
 📝 页面ID: 88
-⏰ 生成时间: 2025-11-12 14:47:41
+⏰ 生成时间: 2025-11-12 15:02:34
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/5toSGvdIqhGjEeIxf35YXxMlpmm.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-88-白月梵星.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:47:41",
+  "dateCreated": "2025-11-12 15:02:34",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/5toSGvdIqhGjEeIxf35YXxMlpmm.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/5toSGvdIqhGjEeIxf35YXxMlpmm.jpg",
   
-  "datePublished": "2025-11-12 14:47:41",
+  "datePublished": "2025-11-12 15:02:34",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

@@ -2,7 +2,7 @@
 title: 双狼 - 免费夸克网盘资源分享
 description: 双狼 - 同为职业“清理工”的两人意外撞单，接到了同一个任务——掩盖一起犯罪现场。迫于局势，互相看不顺眼的两位“孤狼”被迫联手，摆脱一连串的致命麻烦。然而，他们发现整件事正逐渐失控……。免费夸克网盘资源分享，在线观看下载。
 keywords: 双狼,电影,夸克网盘,网盘资源,免费下载,在线观看,2024
-date: 2025-11-12 14:47:12
+date: 2025-11-12 15:02:33
 updated: 2025-11-04
 category: 电影
 tags:
@@ -65,10 +65,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/6zH6ebZLYldYxpz8sdAcYX2b7h.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《双狼》资源**](https://pan.quark.cn/s/72d98931d43e)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/72d98931d43e" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《双狼》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -100,7 +100,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/6zH6ebZLYldYxpz8sdAcYX2b7h.jpg
 
 <small>
 📝 页面ID: 133
-⏰ 生成时间: 2025-11-12 14:47:12
+⏰ 生成时间: 2025-11-12 15:02:33
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -171,7 +171,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/6zH6ebZLYldYxpz8sdAcYX2b7h.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-133-双狼.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:47:12",
+  "dateCreated": "2025-11-12 15:02:33",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -249,7 +249,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/6zH6ebZLYldYxpz8sdAcYX2b7h.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/6zH6ebZLYldYxpz8sdAcYX2b7h.jpg",
   
-  "datePublished": "2025-11-12 14:47:12",
+  "datePublished": "2025-11-12 15:02:33",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

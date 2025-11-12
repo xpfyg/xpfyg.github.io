@@ -2,7 +2,7 @@
 title: 布达拉宫 - 免费夸克网盘资源分享
 description: 布达拉宫 - 首部布达拉宫全景式纪录片。从历史、建筑、文物、艺术、人文民俗、自然环保、现代生活等方面，全方位展现这座人类文化瑰宝的全貌。通过《铸文明》《绘此生》《筑生态》《愿有情》《织福泽》《寻墨迹》《镌印记》的7集篇章，讲述围绕着布达拉宫，如何创造、传承、守望民族文化的鲜活故事。 本片以人文历史与传承为脉络，以。免费夸克网盘资源分享，在线观看下载。
 keywords: 布达拉宫,剧集,夸克网盘,网盘资源,免费下载,在线观看,[布达拉宫].The.Potala.Palace.2024.S01.2160p.50fps.WEB-DL.HEVC.DV.DDP.2Audio,2024
-date: 2025-11-12 14:46:48
+date: 2025-11-12 15:02:33
 updated: 2025-11-04
 category: 剧集
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/zUTGXLn2zlhvFY8NGlbdmtlgfM0.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《布达拉宫》资源**](https://pan.quark.cn/s/add91481b693)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/add91481b693" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《布达拉宫》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/zUTGXLn2zlhvFY8NGlbdmtlgfM0.jpg
 
 <small>
 📝 页面ID: 173
-⏰ 生成时间: 2025-11-12 14:46:48
+⏰ 生成时间: 2025-11-12 15:02:33
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/zUTGXLn2zlhvFY8NGlbdmtlgfM0.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-173-布达拉宫.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:46:48",
+  "dateCreated": "2025-11-12 15:02:33",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/zUTGXLn2zlhvFY8NGlbdmtlgfM0.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/zUTGXLn2zlhvFY8NGlbdmtlgfM0.jpg",
   
-  "datePublished": "2025-11-12 14:46:48",
+  "datePublished": "2025-11-12 15:02:33",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

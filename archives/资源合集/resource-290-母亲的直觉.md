@@ -2,7 +2,7 @@
 title: 母亲的直觉 - 免费夸克网盘资源分享
 description: 母亲的直觉 - 20世纪60年代，闺蜜兼邻居爱丽丝和席琳都过着田园诗般的传统生活，有修剪整齐的草坪、成功的丈夫和同龄的儿子。一场不幸的事故，打破了完美和谐的生活，内疚、猜疑和妄想症加在一起破坏了这对姐妹之间的纽带，成为了水火不容的敌人……亡子之痛， 谁该负责？永远不要低估任何一个母亲，由母性本能一层层揭示的阴暗面是。免费夸克网盘资源分享，在线观看下载。
 keywords: 母亲的直觉,电影,夸克网盘,网盘资源,免费下载,在线观看,母亲的直觉 (2024),2024
-date: 2025-11-12 14:46:05
+date: 2025-11-12 15:02:31
 updated: 2025-11-06
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/8eCZJ5OKwRvjP5bOGSrErN18Kzg.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《母亲的直觉》资源**](https://pan.quark.cn/s/eadf7d56217d)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/eadf7d56217d" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《母亲的直觉》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/8eCZJ5OKwRvjP5bOGSrErN18Kzg.jpg
 
 <small>
 📝 页面ID: 290
-⏰ 生成时间: 2025-11-12 14:46:05
+⏰ 生成时间: 2025-11-12 15:02:31
 🔄 最后更新: 2025-11-06
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/8eCZJ5OKwRvjP5bOGSrErN18Kzg.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-290-母亲的直觉.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-06",
-  "dateCreated": "2025-11-12 14:46:05",
+  "dateCreated": "2025-11-12 15:02:31",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/8eCZJ5OKwRvjP5bOGSrErN18Kzg.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/8eCZJ5OKwRvjP5bOGSrErN18Kzg.jpg",
   
-  "datePublished": "2025-11-12 14:46:05",
+  "datePublished": "2025-11-12 15:02:31",
   "dateModified": "2025-11-06",
   "author": {
     "@type": "Organization",

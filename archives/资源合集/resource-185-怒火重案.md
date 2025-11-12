@@ -2,7 +2,7 @@
 title: 怒火重案 - 免费夸克网盘资源分享
 description: 怒火重案 - 香港動作殿堂級導演陳木勝最後遺作，傾力執導心血結晶，甄子丹與謝霆鋒上演世紀大戰  重案組警察張崇邦（甄子丹飾）在圍剿國際毒梟時，遇上了一幫「黑吃黑」的蒙面悍匪，冷血屠殺警察。面對員警慘死，張崇邦努力追查悍匪行蹤，驚訝發現首領竟是昔日戰友邱剛敖（謝霆鋒飾）。原來邱剛敖曾是警隊的明日之星，他與張崇邦更是。免费夸克网盘资源分享，在线观看下载。
 keywords: 怒火重案,电影,夸克网盘,网盘资源,免费下载,在线观看,《怒火重案 》4K原盘REMUX 国粤双音 内封字幕,怒火·重案,2021
-date: 2025-11-12 14:46:40
+date: 2025-11-12 15:02:32
 updated: 2025-11-04
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/oRe2vGWYh1p8NuG9SwFkVW4Iec5.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《怒火重案》资源**](https://pan.quark.cn/s/d444f36f7373)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/d444f36f7373" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《怒火重案》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/oRe2vGWYh1p8NuG9SwFkVW4Iec5.jpg
 
 <small>
 📝 页面ID: 185
-⏰ 生成时间: 2025-11-12 14:46:40
+⏰ 生成时间: 2025-11-12 15:02:32
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/oRe2vGWYh1p8NuG9SwFkVW4Iec5.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-185-怒火重案.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:46:40",
+  "dateCreated": "2025-11-12 15:02:32",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/oRe2vGWYh1p8NuG9SwFkVW4Iec5.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/oRe2vGWYh1p8NuG9SwFkVW4Iec5.jpg",
   
-  "datePublished": "2025-11-12 14:46:40",
+  "datePublished": "2025-11-12 15:02:32",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

@@ -2,7 +2,7 @@
 title: 老男孩 - 免费夸克网盘资源分享
 description: 老男孩 - 女儿生日那天，中年男子吴大修（崔岷植饰）在醉酒回家路上，突遭不明身份的人绑架失踪。就此，他毫无理由地被囚禁在一个神秘的私人监狱中。寻死未果的吴大修，每天看电视，三餐吃煎饺。通过电视，他得知妻子已遭杀害，女儿下落不明，自己更被怀疑为凶手。就此，吴大修开始锻炼身体，决心复仇，并在牢中度过漫长的15年..。免费夸克网盘资源分享，在线观看下载。
 keywords: 老男孩,电影,夸克网盘,网盘资源,免费下载,在线观看,韩国 老男孩 4K原盘REMUX 杜比视界 内封字幕,2003
-date: 2025-11-12 14:46:22
+date: 2025-11-12 15:02:32
 updated: 2025-11-04
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/3oQbLtBkYN4Y0Om7LiSqwg7l8Jv.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《老男孩》资源**](https://pan.quark.cn/s/c20392db3236)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/c20392db3236" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《老男孩》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/3oQbLtBkYN4Y0Om7LiSqwg7l8Jv.jpg
 
 <small>
 📝 页面ID: 259
-⏰ 生成时间: 2025-11-12 14:46:22
+⏰ 生成时间: 2025-11-12 15:02:32
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/3oQbLtBkYN4Y0Om7LiSqwg7l8Jv.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-259-老男孩.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:46:22",
+  "dateCreated": "2025-11-12 15:02:32",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/3oQbLtBkYN4Y0Om7LiSqwg7l8Jv.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/3oQbLtBkYN4Y0Om7LiSqwg7l8Jv.jpg",
   
-  "datePublished": "2025-11-12 14:46:22",
+  "datePublished": "2025-11-12 15:02:32",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

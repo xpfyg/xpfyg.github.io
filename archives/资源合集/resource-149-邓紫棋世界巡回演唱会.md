@@ -2,7 +2,7 @@
 title: 邓紫棋世界巡回演唱会 - 免费夸克网盘资源分享
 description: 邓紫棋世界巡回演唱会 - G.E.M.邓紫棋 “X.X.X. LIVE” 2013演唱会即将在4月12-16日一连五晚于红馆举行。刚于IFPI获得全年最高销量本地女歌手奖的新天后GEM，这次更将以香港为首站，展开包括中国内地、台湾、澳门、新西兰、澳洲、马来西亚、加拿大及美国等超过21个城市的世界巡回。  新演唱会定名为「邓紫。免费夸克网盘资源分享，在线观看下载。
 keywords: 邓紫棋世界巡回演唱会,电影,夸克网盘,网盘资源,免费下载,在线观看,邓紫棋2013世界巡回演唱会.GEM.蓝光原盘,邓紫棋 G.E.M. X.X.X. 世界巡回演唱会,2013
-date: 2025-11-12 14:47:02
+date: 2025-11-12 15:02:33
 updated: 2025-11-04
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/jvsjRx6F41L0vxtZ7zFx7yWQ4oE.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《邓紫棋世界巡回演唱会》资源**](https://pan.quark.cn/s/5d6f1a3ade0f)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/5d6f1a3ade0f" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《邓紫棋世界巡回演唱会》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/jvsjRx6F41L0vxtZ7zFx7yWQ4oE.jpg
 
 <small>
 📝 页面ID: 149
-⏰ 生成时间: 2025-11-12 14:47:02
+⏰ 生成时间: 2025-11-12 15:02:33
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/jvsjRx6F41L0vxtZ7zFx7yWQ4oE.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-149-邓紫棋世界巡回演唱会.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:47:02",
+  "dateCreated": "2025-11-12 15:02:33",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/jvsjRx6F41L0vxtZ7zFx7yWQ4oE.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/jvsjRx6F41L0vxtZ7zFx7yWQ4oE.jpg",
   
-  "datePublished": "2025-11-12 14:47:02",
+  "datePublished": "2025-11-12 15:02:33",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

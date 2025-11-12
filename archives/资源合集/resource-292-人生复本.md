@@ -4,7 +4,7 @@ description: 人生复本 - 　　《人生复本》被誉为十年来最好的�
 
 　　剧集围绕Jason Dessen（Joel Edgerton饰）展开，他是一位物理学家、教授，也是个恋家的男人。有一天夜里，从芝加哥街头步行回家时，Jason被绑架进入了自己人生的另一个版本。面对自己可能经历的多元。免费夸克网盘资源分享，在线观看下载。
 keywords: 人生复本,剧集,夸克网盘,网盘资源,免费下载,在线观看,人生复本  2024,Dark Matter,2024
-date: 2025-11-12 14:46:09
+date: 2025-11-12 15:02:31
 updated: 2025-11-05
 category: 剧集
 tags:
@@ -75,10 +75,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/4PpgPvpgdHpZBQAbD6b7zizFDj5.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《人生复本》资源**](https://pan.quark.cn/s/3d0273f931ab)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/3d0273f931ab" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《人生复本》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -110,7 +110,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/4PpgPvpgdHpZBQAbD6b7zizFDj5.jpg
 
 <small>
 📝 页面ID: 292
-⏰ 生成时间: 2025-11-12 14:46:09
+⏰ 生成时间: 2025-11-12 15:02:31
 🔄 最后更新: 2025-11-05
 </small>
 
@@ -183,7 +183,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/4PpgPvpgdHpZBQAbD6b7zizFDj5.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-292-人生复本.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-05",
-  "dateCreated": "2025-11-12 14:46:09",
+  "dateCreated": "2025-11-12 15:02:31",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -263,7 +263,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/4PpgPvpgdHpZBQAbD6b7zizFDj5.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/4PpgPvpgdHpZBQAbD6b7zizFDj5.jpg",
   
-  "datePublished": "2025-11-12 14:46:09",
+  "datePublished": "2025-11-12 15:02:31",
   "dateModified": "2025-11-05",
   "author": {
     "@type": "Organization",

@@ -2,7 +2,7 @@
 title: 火星救援 - 免费夸克网盘资源分享
 description: 火星救援 - 载人航天宇宙飞船阿瑞斯3号成功抵达火星，谁知一场破坏力极其巨大的风暴向宇航员们袭来，阿瑞斯3号被迫中断任务，紧急返航。撤离途中，宇航员马克·沃特尼（马特·达蒙 Matt Damon 饰）被飞船上吹落的零件击中，由于生还希望渺茫，队友们只得匆匆返航，并向世人宣告他已牺牲的事实。出乎意料的是，马克以极低。免费夸克网盘资源分享，在线观看下载。
 keywords: 火星救援,电影,夸克网盘,网盘资源,免费下载,在线观看, 火星救援 (2015) 4K HDR 蓝光 国英音轨 内封特效字幕 加长版,2015
-date: 2025-11-12 14:46:14
+date: 2025-11-12 15:02:32
 updated: 2025-11-05
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/5HUENHVv7wlqwptGkBmEmQkIBAV.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《火星救援》资源**](https://pan.quark.cn/s/2b8079d8bdcf)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/2b8079d8bdcf" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《火星救援》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/5HUENHVv7wlqwptGkBmEmQkIBAV.jpg
 
 <small>
 📝 页面ID: 235
-⏰ 生成时间: 2025-11-12 14:46:14
+⏰ 生成时间: 2025-11-12 15:02:32
 🔄 最后更新: 2025-11-05
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/5HUENHVv7wlqwptGkBmEmQkIBAV.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-235-火星救援.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-05",
-  "dateCreated": "2025-11-12 14:46:14",
+  "dateCreated": "2025-11-12 15:02:32",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/5HUENHVv7wlqwptGkBmEmQkIBAV.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/5HUENHVv7wlqwptGkBmEmQkIBAV.jpg",
   
-  "datePublished": "2025-11-12 14:46:14",
+  "datePublished": "2025-11-12 15:02:32",
   "dateModified": "2025-11-05",
   "author": {
     "@type": "Organization",

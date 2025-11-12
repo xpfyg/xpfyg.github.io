@@ -2,7 +2,7 @@
 title: 心迷宫 - 免费夸克网盘资源分享
 description: 心迷宫 - 　　一个青年在一次争执中失手杀死了同村的痞子，被迫逃亡。他没有想过会用这样的方式逃离安逸的生活，离开之际却惊人的发现宿命早已将他和父亲紧紧连接在一起，走或留他都将失去一切。一个饱受家庭暴力摧残的留守女人，在曾经恋人的怀抱里找到了慰藉。黑暗里绝望的女人与情夫密谋杀夫，可当莽夫的死讯真的传来时，情夫却避。免费夸克网盘资源分享，在线观看下载。
 keywords: 心迷宫,电影,夸克网盘,网盘资源,免费下载,在线观看,心迷宫 (2014) 4K  高码,2014
-date: 2025-11-12 14:46:31
+date: 2025-11-12 15:02:32
 updated: 2025-11-04
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/a7Eb5korUAji3X4eiN6ybE1r9yn.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《心迷宫》资源**](https://pan.quark.cn/s/2dcce29df6a6)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/2dcce29df6a6" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《心迷宫》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/a7Eb5korUAji3X4eiN6ybE1r9yn.jpg
 
 <small>
 📝 页面ID: 208
-⏰ 生成时间: 2025-11-12 14:46:31
+⏰ 生成时间: 2025-11-12 15:02:32
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/a7Eb5korUAji3X4eiN6ybE1r9yn.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-208-心迷宫.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:46:31",
+  "dateCreated": "2025-11-12 15:02:32",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/a7Eb5korUAji3X4eiN6ybE1r9yn.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/a7Eb5korUAji3X4eiN6ybE1r9yn.jpg",
   
-  "datePublished": "2025-11-12 14:46:31",
+  "datePublished": "2025-11-12 15:02:32",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

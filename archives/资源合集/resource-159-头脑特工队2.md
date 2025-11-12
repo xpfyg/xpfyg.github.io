@@ -2,7 +2,7 @@
 title: 头脑特工队2 - 免费夸克网盘资源分享
 description: 头脑特工队2 - 小女孩莱莉刚步入青春期，在她的大脑总部，正经历着一场突如其来的大拆迁，为意想不到的新情绪腾出空间。一直以来配合默契的情绪小伙伴乐乐、忧忧、怒怒、怕怕和厌厌，在新情绪焦焦的突然到来时变得不知所措，并且她看起来不是孤身一人。。免费夸克网盘资源分享，在线观看下载。
 keywords: 头脑特工队2,电影,夸克网盘,网盘资源,免费下载,在线观看,头丨脑丨特丨工丨队丨2 (2024) 4K DV DDP5.1 Atmos 外挂简英,2024
-date: 2025-11-12 14:46:57
+date: 2025-11-12 15:02:33
 updated: 2025-11-04
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/gK3jUOpCRlL6uGPhN8PcARt8MZn.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《头脑特工队2》资源**](https://pan.quark.cn/s/635608b5b3a2)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/635608b5b3a2" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《头脑特工队2》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/gK3jUOpCRlL6uGPhN8PcARt8MZn.jpg
 
 <small>
 📝 页面ID: 159
-⏰ 生成时间: 2025-11-12 14:46:57
+⏰ 生成时间: 2025-11-12 15:02:33
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/gK3jUOpCRlL6uGPhN8PcARt8MZn.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-159-头脑特工队2.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:46:57",
+  "dateCreated": "2025-11-12 15:02:33",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/gK3jUOpCRlL6uGPhN8PcARt8MZn.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/gK3jUOpCRlL6uGPhN8PcARt8MZn.jpg",
   
-  "datePublished": "2025-11-12 14:46:57",
+  "datePublished": "2025-11-12 15:02:33",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

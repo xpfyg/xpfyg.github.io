@@ -2,7 +2,7 @@
 title: 心灵奇旅 - 免费夸克网盘资源分享
 description: 心灵奇旅 - 热爱爵士乐的中学音乐教师乔伊·高纳（杰米·福克斯 配）不懈地追逐梦想，最终获得梦寐以求的登台演奏机会。可因为一次意外事故，乔伊的肉体几近死亡，而灵魂却误入了一个人类经验之外的奇幻之境——“生之来处”。原来，“生之来处”是所有灵魂先于地球之前而存在的独特空间。在这里，人类的自我意识在生命诞生之前先在地。免费夸克网盘资源分享，在线观看下载。
 keywords: 心灵奇旅,电影,夸克网盘,网盘资源,免费下载,在线观看,Top167.心灵奇旅 (2020)【4K蓝光原盘REMUX】【HDR10&杜比全景声国英双语】内封简繁英双语特效字幕[43.9G],2020
-date: 2025-11-12 14:45:42
+date: 2025-11-12 15:02:31
 updated: 2025-11-06
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/yhyY94umEO1XkaxJAZJSMJk9hgt.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《心灵奇旅》资源**](https://pan.quark.cn/s/bab2bb59e559)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/bab2bb59e559" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《心灵奇旅》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/yhyY94umEO1XkaxJAZJSMJk9hgt.jpg
 
 <small>
 📝 页面ID: 317
-⏰ 生成时间: 2025-11-12 14:45:42
+⏰ 生成时间: 2025-11-12 15:02:31
 🔄 最后更新: 2025-11-06
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/yhyY94umEO1XkaxJAZJSMJk9hgt.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-317-心灵奇旅.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-06",
-  "dateCreated": "2025-11-12 14:45:42",
+  "dateCreated": "2025-11-12 15:02:31",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/yhyY94umEO1XkaxJAZJSMJk9hgt.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/yhyY94umEO1XkaxJAZJSMJk9hgt.jpg",
   
-  "datePublished": "2025-11-12 14:45:42",
+  "datePublished": "2025-11-12 15:02:31",
   "dateModified": "2025-11-06",
   "author": {
     "@type": "Organization",

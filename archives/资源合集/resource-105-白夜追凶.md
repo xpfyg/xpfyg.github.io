@@ -2,7 +2,7 @@
 title: 白夜追凶 - 免费夸克网盘资源分享
 description: 白夜追凶 - 一场灭门惨案，让原本逍遥浪荡的关宏宇成了在逃的通缉嫌犯。身为刑侦支队队长的双胞胎哥哥关宏峰，誓要查出真相，但出于亲属回避的原则，警队禁止关宏峰参与灭门案的调查工作，关宏峰义愤辞职。调任了代支队长的周巡处于破案压力，也为了追寻关宏宇的下落，他设计让离职的关宏峰以“编外顾问”的身份继续参与各大重案要案的。免费夸克网盘资源分享，在线观看下载。
 keywords: 白夜追凶,剧集,夸克网盘,网盘资源,免费下载,在线观看,白丨夜丨追凶（两季） 4K 国语中字,2017
-date: 2025-11-12 14:47:32
+date: 2025-11-12 15:02:33
 updated: 2025-11-04
 category: 剧集
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/v2DKSpCC3fIQi1OE6pYilWDJH99.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《白夜追凶》资源**](https://pan.quark.cn/s/f7e8af6449f3)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/f7e8af6449f3" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《白夜追凶》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/v2DKSpCC3fIQi1OE6pYilWDJH99.jpg
 
 <small>
 📝 页面ID: 105
-⏰ 生成时间: 2025-11-12 14:47:32
+⏰ 生成时间: 2025-11-12 15:02:33
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/v2DKSpCC3fIQi1OE6pYilWDJH99.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-105-白夜追凶.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:47:32",
+  "dateCreated": "2025-11-12 15:02:33",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/v2DKSpCC3fIQi1OE6pYilWDJH99.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/v2DKSpCC3fIQi1OE6pYilWDJH99.jpg",
   
-  "datePublished": "2025-11-12 14:47:32",
+  "datePublished": "2025-11-12 15:02:33",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

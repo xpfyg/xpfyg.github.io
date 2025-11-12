@@ -2,7 +2,7 @@
 title: 绿皮书 - 免费夸克网盘资源分享
 description: 绿皮书 - 托尼（维果·莫腾森 Viggo Mortensen 饰）是一个吊儿郎当游手好闲的混混，在一家夜总会做侍者。这间夜总会因故要停业几个月，可托尼所要支付的房租和生活费不会因此取消，所以他的当务之急是去寻找另一份工作来填补这几个月的空缺。在这个节骨眼上，一位名叫唐雪莉（马赫沙拉·阿里 Mahershala。免费夸克网盘资源分享，在线观看下载。
 keywords: 绿皮书,电影,夸克网盘,网盘资源,免费下载,在线观看,绿皮书 (2018) 4K HDR 蓝光 国英音轨 内封双语特效字幕,2018
-date: 2025-11-12 14:45:32
+date: 2025-11-12 15:02:31
 updated: 2025-11-11
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/kjO6OdgVK9UimXupZcGIuQy2pbO.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《绿皮书》资源**](https://pan.quark.cn/s/b41322c21067)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/b41322c21067" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《绿皮书》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/kjO6OdgVK9UimXupZcGIuQy2pbO.jpg
 
 <small>
 📝 页面ID: 244
-⏰ 生成时间: 2025-11-12 14:45:32
+⏰ 生成时间: 2025-11-12 15:02:31
 🔄 最后更新: 2025-11-11
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/kjO6OdgVK9UimXupZcGIuQy2pbO.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-244-绿皮书.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-11",
-  "dateCreated": "2025-11-12 14:45:32",
+  "dateCreated": "2025-11-12 15:02:31",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/kjO6OdgVK9UimXupZcGIuQy2pbO.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/kjO6OdgVK9UimXupZcGIuQy2pbO.jpg",
   
-  "datePublished": "2025-11-12 14:45:32",
+  "datePublished": "2025-11-12 15:02:31",
   "dateModified": "2025-11-11",
   "author": {
     "@type": "Organization",

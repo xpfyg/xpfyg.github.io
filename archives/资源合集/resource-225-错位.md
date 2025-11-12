@@ -2,7 +2,7 @@
 title: 错位 - 免费夸克网盘资源分享
 description: 错位 - 刑警姜光明（马伊琍 饰）和石落（高至霆 饰）在调查一起案件时，偶然发现作家顾己鸣（佟大为 饰）的小说中所描绘的犯罪现场与自己正在调查的案发现场离奇重合，虚构与现实交错，一切真的只是巧合？而小说的出现也为二人的追查提供了新的方向，但与此同时也将他们引向了更深的迷局......案中案，谜中谜，隐藏在幕后。免费夸克网盘资源分享，在线观看下载。
 keywords: 错位,电影,夸克网盘,网盘资源,免费下载,在线观看,2024
-date: 2025-11-12 14:46:15
+date: 2025-11-12 15:02:32
 updated: 2025-11-05
 category: 电影
 tags:
@@ -65,10 +65,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/7gazZhvjdzJKRuA4bF6YOoYdRDW.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《错位》资源**](https://pan.quark.cn/s/9feaa9397c04)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/9feaa9397c04" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《错位》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -100,7 +100,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/7gazZhvjdzJKRuA4bF6YOoYdRDW.jpg
 
 <small>
 📝 页面ID: 225
-⏰ 生成时间: 2025-11-12 14:46:15
+⏰ 生成时间: 2025-11-12 15:02:32
 🔄 最后更新: 2025-11-05
 </small>
 
@@ -171,7 +171,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/7gazZhvjdzJKRuA4bF6YOoYdRDW.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-225-错位.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-05",
-  "dateCreated": "2025-11-12 14:46:15",
+  "dateCreated": "2025-11-12 15:02:32",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -249,7 +249,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/7gazZhvjdzJKRuA4bF6YOoYdRDW.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/7gazZhvjdzJKRuA4bF6YOoYdRDW.jpg",
   
-  "datePublished": "2025-11-12 14:46:15",
+  "datePublished": "2025-11-12 15:02:32",
   "dateModified": "2025-11-05",
   "author": {
     "@type": "Organization",

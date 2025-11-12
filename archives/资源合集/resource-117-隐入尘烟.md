@@ -2,7 +2,7 @@
 title: 隐入尘烟 - 免费夸克网盘资源分享
 description: 隐入尘烟 - 偏远贫穷的西北农村，祖辈劳作的农民生于土，归于土。贫困户马有铁（武仁林 饰）与哥嫂同住，木讷憨厚，所陪伴他的只有那头同样任劳任怨的小毛驴。而手脚残疾且不能生育的曹贵英（海清 饰）更是自幼备受白眼和欺凌。这两个孤寂之人，在家人的撮合下，仿佛丢掉包袱一般被撮合到了一起。有铁珍惜这卑微而难得的“家”，大大。免费夸克网盘资源分享，在线观看下载。
 keywords: 隐入尘烟,电影,夸克网盘,网盘资源,免费下载,在线观看,隐入尘烟 (2022) 4K,2022
-date: 2025-11-12 14:47:19
+date: 2025-11-12 15:02:33
 updated: 2025-11-04
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/wJ8Jc6FC5wOaD8ifNQjXJf2x0DQ.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《隐入尘烟》资源**](https://pan.quark.cn/s/0d91d8eae802)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/0d91d8eae802" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《隐入尘烟》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/wJ8Jc6FC5wOaD8ifNQjXJf2x0DQ.jpg
 
 <small>
 📝 页面ID: 117
-⏰ 生成时间: 2025-11-12 14:47:19
+⏰ 生成时间: 2025-11-12 15:02:33
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/wJ8Jc6FC5wOaD8ifNQjXJf2x0DQ.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-117-隐入尘烟.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:47:19",
+  "dateCreated": "2025-11-12 15:02:33",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/wJ8Jc6FC5wOaD8ifNQjXJf2x0DQ.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/wJ8Jc6FC5wOaD8ifNQjXJf2x0DQ.jpg",
   
-  "datePublished": "2025-11-12 14:47:19",
+  "datePublished": "2025-11-12 15:02:33",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

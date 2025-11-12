@@ -2,7 +2,7 @@
 title: 超级战舰 - 免费夸克网盘资源分享
 description: 超级战舰 - 　　故事灵感来自孩之宝同名畅销战棋游戏“战舰攻防战”， 电影讲述海军中尉Alex被上级派往美国飞弹驱逐舰上履行职务，在一次海上演习时，舰队惊动了隐匿在太平洋深海的外星巨形母舰，来者不善，人类为保卫地球，力阻浩劫，在海上与外星战舰展开殊死战斗。Alex联同未婚妻、任职指挥官的兄长Stone、海军士官队。免费夸克网盘资源分享，在线观看下载。
 keywords: 超级战舰,电影,夸克网盘,网盘资源,免费下载,在线观看,超级战舰（2012）4K HDR 蓝光 国英音轨 国配简繁 中英特效四字幕,2012
-date: 2025-11-12 14:46:26
+date: 2025-11-12 15:02:32
 updated: 2025-11-04
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/vgvz5xNVpgcB0VjAGHhVEuXH3XE.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《超级战舰》资源**](https://pan.quark.cn/s/0c3cf67a7a71)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/0c3cf67a7a71" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《超级战舰》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/vgvz5xNVpgcB0VjAGHhVEuXH3XE.jpg
 
 <small>
 📝 页面ID: 238
-⏰ 生成时间: 2025-11-12 14:46:26
+⏰ 生成时间: 2025-11-12 15:02:32
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/vgvz5xNVpgcB0VjAGHhVEuXH3XE.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-238-超级战舰.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:46:26",
+  "dateCreated": "2025-11-12 15:02:32",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/vgvz5xNVpgcB0VjAGHhVEuXH3XE.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/vgvz5xNVpgcB0VjAGHhVEuXH3XE.jpg",
   
-  "datePublished": "2025-11-12 14:46:26",
+  "datePublished": "2025-11-12 15:02:32",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

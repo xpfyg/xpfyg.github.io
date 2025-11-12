@@ -2,7 +2,7 @@
 title: The Knockout - 免费夸克网盘资源分享
 description: The Knockout 电影资源，提供免费夸克网盘分享链接，支持在线观看和高速下载。
 keywords: The Knockout,电影,夸克网盘,网盘资源,免费下载,在线观看,The.Knockout.S01.2023.2160p.WEB-DL.H265.DDP5.1-BlackTV,1932
-date: 2025-11-12 14:46:08
+date: 2025-11-12 15:02:31
 updated: 2025-11-05
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/qOiIlEdiu6T3oM2G380fVGunOyo.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《The Knockout》资源**](https://pan.quark.cn/s/4eb7e71f3400)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/4eb7e71f3400" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《The Knockout》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/qOiIlEdiu6T3oM2G380fVGunOyo.jpg
 
 <small>
 📝 页面ID: 300
-⏰ 生成时间: 2025-11-12 14:46:08
+⏰ 生成时间: 2025-11-12 15:02:31
 🔄 最后更新: 2025-11-05
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/qOiIlEdiu6T3oM2G380fVGunOyo.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-300-The-Knockout.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-05",
-  "dateCreated": "2025-11-12 14:46:08",
+  "dateCreated": "2025-11-12 15:02:31",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/qOiIlEdiu6T3oM2G380fVGunOyo.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/qOiIlEdiu6T3oM2G380fVGunOyo.jpg",
   
-  "datePublished": "2025-11-12 14:46:08",
+  "datePublished": "2025-11-12 15:02:31",
   "dateModified": "2025-11-05",
   "author": {
     "@type": "Organization",

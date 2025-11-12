@@ -2,7 +2,7 @@
 title: 目中无人 - 免费夸克网盘资源分享
 description: 目中无人 - 武艺高强的盲眼捉刀人成瞎子（谢苗 饰）偶然救下了惨遭灭门的张小渔（杨恩又 饰）。在孤儿小渔的软磨硬泡下，成瞎子无奈将其留在身边并教其本领，小渔也等待着时机准备复仇……。免费夸克网盘资源分享，在线观看下载。
 keywords: 目中无人,电影,夸克网盘,网盘资源,免费下载,在线观看,目中无人 两部（2024）4K高码率 全景声,目中无人2,2024
-date: 2025-11-12 14:46:17
+date: 2025-11-12 15:02:32
 updated: 2025-11-05
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/isVAfZn5orLcUwoI1IUWPMWHmPV.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《目中无人》资源**](https://pan.quark.cn/s/3ba652ca4e5c)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/3ba652ca4e5c" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《目中无人》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/isVAfZn5orLcUwoI1IUWPMWHmPV.jpg
 
 <small>
 📝 页面ID: 246
-⏰ 生成时间: 2025-11-12 14:46:17
+⏰ 生成时间: 2025-11-12 15:02:32
 🔄 最后更新: 2025-11-05
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/isVAfZn5orLcUwoI1IUWPMWHmPV.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-246-目中无人.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-05",
-  "dateCreated": "2025-11-12 14:46:17",
+  "dateCreated": "2025-11-12 15:02:32",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/isVAfZn5orLcUwoI1IUWPMWHmPV.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/isVAfZn5orLcUwoI1IUWPMWHmPV.jpg",
   
-  "datePublished": "2025-11-12 14:46:17",
+  "datePublished": "2025-11-12 15:02:32",
   "dateModified": "2025-11-05",
   "author": {
     "@type": "Organization",

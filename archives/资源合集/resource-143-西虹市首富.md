@@ -2,7 +2,7 @@
 title: 西虹市首富 - 免费夸克网盘资源分享
 description: 西虹市首富 - 　　西虹市丙级球队大翔队的守门员王多鱼（沈腾 饰）因比赛失利被教练开除，一筹莫展之际王多鱼突然收到神秘人士金老板（张晨光 饰）的邀请，被告知自己竟然是保险大亨王老太爷（李立群 饰）的唯一继承人，遗产高达百亿！但是王老太爷给出了一个非常奇葩的条件，那就是要求王多鱼在一个月内花光十亿，还不能告诉身边人，。免费夸克网盘资源分享，在线观看下载。
 keywords: 西虹市首富,电影,夸克网盘,网盘资源,免费下载,在线观看,西虹市首富.2018.4K.国语.中字.60fps,2018
-date: 2025-11-12 14:47:05
+date: 2025-11-12 15:02:33
 updated: 2025-11-04
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/AlvbSlFnAAnE7k3r2INbG5Ydb3K.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《西虹市首富》资源**](https://pan.quark.cn/s/0fffe96d8e77)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/0fffe96d8e77" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《西虹市首富》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/AlvbSlFnAAnE7k3r2INbG5Ydb3K.jpg
 
 <small>
 📝 页面ID: 143
-⏰ 生成时间: 2025-11-12 14:47:05
+⏰ 生成时间: 2025-11-12 15:02:33
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/AlvbSlFnAAnE7k3r2INbG5Ydb3K.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-143-西虹市首富.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:47:05",
+  "dateCreated": "2025-11-12 15:02:33",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/AlvbSlFnAAnE7k3r2INbG5Ydb3K.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/AlvbSlFnAAnE7k3r2INbG5Ydb3K.jpg",
   
-  "datePublished": "2025-11-12 14:47:05",
+  "datePublished": "2025-11-12 15:02:33",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

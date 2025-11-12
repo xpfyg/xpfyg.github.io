@@ -2,7 +2,7 @@
 title: 活着 - 免费夸克网盘资源分享
 description: 活着 - 富少福贵（葛优 饰）嗜赌成性，妻子家珍（巩俐 饰）屡劝无果后带着女儿凤霞离开了他。当夜，福贵输光所有家产气死父亲，被迫靠变卖母亲首饰租间破屋过活。一年后，家珍手拉凤霞怀抱刚出世的儿子有庆回到家中，福贵痛改前非，开始靠演皮影戏过起安份守己的日子。但好景不常，内战时期，福贵被国民党抓去当劳工，一番辗转终。免费夸克网盘资源分享，在线观看下载。
 keywords: 活着,电影,夸克网盘,网盘资源,免费下载,在线观看,活 着 (1994) 1080P 蓝光REMUX原盘 国语 内封简繁中字 32G,1994
-date: 2025-11-12 14:47:01
+date: 2025-11-12 15:02:33
 updated: 2025-11-04
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/jx5VmZsJIWQ1g6YX60Fk0tkMxxL.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《活着》资源**](https://pan.quark.cn/s/8582b54a41d3)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/8582b54a41d3" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《活着》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/jx5VmZsJIWQ1g6YX60Fk0tkMxxL.jpg
 
 <small>
 📝 页面ID: 154
-⏰ 生成时间: 2025-11-12 14:47:01
+⏰ 生成时间: 2025-11-12 15:02:33
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/jx5VmZsJIWQ1g6YX60Fk0tkMxxL.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-154-活着.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:47:01",
+  "dateCreated": "2025-11-12 15:02:33",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/jx5VmZsJIWQ1g6YX60Fk0tkMxxL.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/jx5VmZsJIWQ1g6YX60Fk0tkMxxL.jpg",
   
-  "datePublished": "2025-11-12 14:47:01",
+  "datePublished": "2025-11-12 15:02:33",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

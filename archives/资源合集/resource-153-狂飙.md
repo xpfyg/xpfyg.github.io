@@ -2,7 +2,7 @@
 title: 狂飙 - 免费夸克网盘资源分享
 description: 狂飙 - 京海市一线刑警安欣（张译 饰），在与黑恶势力的斗争中，不断遭到保护伞的打击，始终无法将犯罪分子绳之以法。全国政法队伍教育整顿工作开展后，临江省派出指导组入驻京海，联合公检法司各部门，清除了政法队伍内部的腐败分子，粉碎了黑恶势力的保护伞，一举铲除了盘踞京海多年的强盛集团。。免费夸克网盘资源分享，在线观看下载。
 keywords: 狂飙,剧集,夸克网盘,网盘资源,免费下载,在线观看,狂飙 (2023),2023
-date: 2025-11-12 14:47:01
+date: 2025-11-12 15:02:33
 updated: 2025-11-04
 category: 剧集
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/6sbKSe7x3dFetFCdXmDkgE0t6H2.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《狂飙》资源**](https://pan.quark.cn/s/f9abf1c63b0f)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/f9abf1c63b0f" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《狂飙》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/6sbKSe7x3dFetFCdXmDkgE0t6H2.jpg
 
 <small>
 📝 页面ID: 153
-⏰ 生成时间: 2025-11-12 14:47:01
+⏰ 生成时间: 2025-11-12 15:02:33
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/6sbKSe7x3dFetFCdXmDkgE0t6H2.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-153-狂飙.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:47:01",
+  "dateCreated": "2025-11-12 15:02:33",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/6sbKSe7x3dFetFCdXmDkgE0t6H2.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/6sbKSe7x3dFetFCdXmDkgE0t6H2.jpg",
   
-  "datePublished": "2025-11-12 14:47:01",
+  "datePublished": "2025-11-12 15:02:33",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

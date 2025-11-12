@@ -2,7 +2,7 @@
 title: 上甘岭 - 免费夸克网盘资源分享
 description: 上甘岭 - 抗美援朝进入最关键的决胜阶段了。美军在板门店谈判期间，暗中调集大量军队，发动突然袭击。美军目标很明确，就是攻占上甘岭，以此作为据点，进而夺取五圣山，一次增加谈判的筹码。 在上甘岭守卫的是中国人民解放军某部八连。面对比我方多得多的敌军，解放军没有退缩，而是选择了顽强抵抗，以此拖延美军时间，粉碎敌人阴谋。免费夸克网盘资源分享，在线观看下载。
 keywords: 上甘岭,电影,夸克网盘,网盘资源,免费下载,在线观看,上.甘.岭（2024）,1956
-date: 2025-11-12 14:47:16
+date: 2025-11-12 15:02:33
 updated: 2025-11-04
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/geskV26OwCivlt5evcVHOca1bXI.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《上甘岭》资源**](https://pan.quark.cn/s/d09aab25dc5f)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/d09aab25dc5f" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《上甘岭》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/geskV26OwCivlt5evcVHOca1bXI.jpg
 
 <small>
 📝 页面ID: 125
-⏰ 生成时间: 2025-11-12 14:47:16
+⏰ 生成时间: 2025-11-12 15:02:33
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/geskV26OwCivlt5evcVHOca1bXI.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-125-上甘岭.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:47:16",
+  "dateCreated": "2025-11-12 15:02:33",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/geskV26OwCivlt5evcVHOca1bXI.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/geskV26OwCivlt5evcVHOca1bXI.jpg",
   
-  "datePublished": "2025-11-12 14:47:16",
+  "datePublished": "2025-11-12 15:02:33",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

@@ -2,7 +2,7 @@
 title: 信条 - 免费夸克网盘资源分享
 description: 信条 - 乌克兰基辅国家歌剧院，一伙蒙面歹徒突然闯入演出大厅，挟持在场数百名音乐家和观众。未过多久，乌克兰特警部队迅速赶到，并按照既定战术突入进去。与此同时，几名神秘之人换上特警部队肩章，趁乱潜入歌剧院，救出被困的美国大使。神秘人之一的男主（约翰·大卫·华盛顿 John David Washington 饰）。免费夸克网盘资源分享，在线观看下载。
 keywords: 信条,电影,夸克网盘,网盘资源,免费下载,在线观看,《信条》 4K REMUX原盘 杜比视界 国英双音 特效字幕,2020
-date: 2025-11-12 14:45:54
+date: 2025-11-12 15:02:31
 updated: 2025-11-06
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/qs13cxcA7tVTBq0WcgJ9GGplXnK.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《信条》资源**](https://pan.quark.cn/s/5e5326a0f4df)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/5e5326a0f4df" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《信条》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/qs13cxcA7tVTBq0WcgJ9GGplXnK.jpg
 
 <small>
 📝 页面ID: 241
-⏰ 生成时间: 2025-11-12 14:45:54
+⏰ 生成时间: 2025-11-12 15:02:31
 🔄 最后更新: 2025-11-06
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/qs13cxcA7tVTBq0WcgJ9GGplXnK.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-241-信条.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-06",
-  "dateCreated": "2025-11-12 14:45:54",
+  "dateCreated": "2025-11-12 15:02:31",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/qs13cxcA7tVTBq0WcgJ9GGplXnK.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/qs13cxcA7tVTBq0WcgJ9GGplXnK.jpg",
   
-  "datePublished": "2025-11-12 14:45:54",
+  "datePublished": "2025-11-12 15:02:31",
   "dateModified": "2025-11-06",
   "author": {
     "@type": "Organization",

@@ -2,7 +2,7 @@
 title: 独立日 - 免费夸克网盘资源分享
 description: 独立日 - 未来某年的7月2日，美国各地的监视站发现一艘巨大飞船接近了地球。飞船发出的无线电信号干扰了地球的通信卫星信号，并放出了多艘直径达15英里的子飞船飞抵地球上各大城市的上空。外星飞船敌友未明，电脑工程师戴维破译出外星人发出的无线电信号，但是为时已晚，7月3日，外星人的飞船开始攻击地球，人类文明瞬间遭到巨。免费夸克网盘资源分享，在线观看下载。
 keywords: 独立日,电影,夸克网盘,网盘资源,免费下载,在线观看,独立日1-2部（1996-2016）合集 4K HDR 蓝光 国英音轨 内封特效字幕,1996
-date: 2025-11-12 14:45:37
+date: 2025-11-12 15:02:31
 updated: 2025-11-09
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/uHste8571HwFndZdxCPML1HzZOz.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《独立日》资源**](https://pan.quark.cn/s/28dd5cbb10d8)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/28dd5cbb10d8" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《独立日》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/uHste8571HwFndZdxCPML1HzZOz.jpg
 
 <small>
 📝 页面ID: 237
-⏰ 生成时间: 2025-11-12 14:45:37
+⏰ 生成时间: 2025-11-12 15:02:31
 🔄 最后更新: 2025-11-09
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/uHste8571HwFndZdxCPML1HzZOz.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-237-独立日.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-09",
-  "dateCreated": "2025-11-12 14:45:37",
+  "dateCreated": "2025-11-12 15:02:31",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/uHste8571HwFndZdxCPML1HzZOz.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/uHste8571HwFndZdxCPML1HzZOz.jpg",
   
-  "datePublished": "2025-11-12 14:45:37",
+  "datePublished": "2025-11-12 15:02:31",
   "dateModified": "2025-11-09",
   "author": {
     "@type": "Organization",

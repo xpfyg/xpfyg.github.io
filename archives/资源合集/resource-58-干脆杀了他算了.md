@@ -2,7 +2,7 @@
 title: 干脆杀了他算了 - 免费夸克网盘资源分享
 description: 干脆杀了他算了 - 姐姐善英和弟弟智英离开繁忙的城市，搬到了僻静的乡村。为了村庄的幸福和繁荣，青年会长张大根和李长凤三夜以继日地努力，被安静的村庄增添活力的两姐妹迷住了。还有执着于两姐妹的可疑男人和扰乱村庄的通缉犯！这个男人，那个男人，村里所有的男人都陷入了疯狂的欲望陷阱。结果陷入陷阱的两姐妹的家里发生了无法想象的事情。免费夸克网盘资源分享，在线观看下载。
 keywords: 干脆杀了他算了,电影,夸克网盘,网盘资源,免费下载,在线观看,G-干脆面,2025
-date: 2025-11-12 14:47:48
+date: 2025-11-12 15:02:34
 updated: 2025-11-04
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/jU4ZTkJxO2EjBGkUZ4XT9o2Opu9.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《干脆杀了他算了》资源**](https://pan.quark.cn/s/df5f5ac872ab)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/df5f5ac872ab" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《干脆杀了他算了》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/jU4ZTkJxO2EjBGkUZ4XT9o2Opu9.jpg
 
 <small>
 📝 页面ID: 58
-⏰ 生成时间: 2025-11-12 14:47:48
+⏰ 生成时间: 2025-11-12 15:02:34
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/jU4ZTkJxO2EjBGkUZ4XT9o2Opu9.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-58-干脆杀了他算了.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:47:48",
+  "dateCreated": "2025-11-12 15:02:34",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/jU4ZTkJxO2EjBGkUZ4XT9o2Opu9.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/jU4ZTkJxO2EjBGkUZ4XT9o2Opu9.jpg",
   
-  "datePublished": "2025-11-12 14:47:48",
+  "datePublished": "2025-11-12 15:02:34",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

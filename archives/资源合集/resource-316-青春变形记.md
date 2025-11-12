@@ -2,7 +2,7 @@
 title: 青春变形记 - 免费夸克网盘资源分享
 description: 青春变形记 - 13岁的女孩小美成长于一个典型的亚裔家庭之中，家里经营着一间作为旅游景点对外开放的祠堂，祠堂里供奉着家族的祖先。小美的母亲是一个对孩子关怀备至又略微有些神经质的女人，在母亲面前，小美总是扮演着乖乖女的角色，可实际上，小美和所有的同龄孩子一样，调皮、好动，并且开始对异性产生了兴趣。在学校里，和小美玩的。免费夸克网盘资源分享，在线观看下载。
 keywords: 青春变形记,电影,夸克网盘,网盘资源,免费下载,在线观看,青春变形记 (2022) 4K HDR,2022
-date: 2025-11-12 14:45:43
+date: 2025-11-12 15:02:31
 updated: 2025-11-06
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/mejVAFgO9oJ3h9UpzuEmTbN5HYz.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《青春变形记》资源**](https://pan.quark.cn/s/6ac0e3012878)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/6ac0e3012878" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《青春变形记》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/mejVAFgO9oJ3h9UpzuEmTbN5HYz.jpg
 
 <small>
 📝 页面ID: 316
-⏰ 生成时间: 2025-11-12 14:45:43
+⏰ 生成时间: 2025-11-12 15:02:31
 🔄 最后更新: 2025-11-06
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/mejVAFgO9oJ3h9UpzuEmTbN5HYz.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-316-青春变形记.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-06",
-  "dateCreated": "2025-11-12 14:45:43",
+  "dateCreated": "2025-11-12 15:02:31",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/mejVAFgO9oJ3h9UpzuEmTbN5HYz.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/mejVAFgO9oJ3h9UpzuEmTbN5HYz.jpg",
   
-  "datePublished": "2025-11-12 14:45:43",
+  "datePublished": "2025-11-12 15:02:31",
   "dateModified": "2025-11-06",
   "author": {
     "@type": "Organization",

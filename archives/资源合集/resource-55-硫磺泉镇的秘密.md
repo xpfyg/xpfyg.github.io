@@ -2,7 +2,7 @@
 title: 硫磺泉镇的秘密 - 免费夸克网盘资源分享
 description: 硫磺泉镇的秘密 - 格里芬·坎贝尔与家人们搬到硫磺泉镇，入住古老的特雷蒙酒店。整个镇子都相信这家酒店闹鬼，鬼魂是三十多年前失踪的女孩萨凡纳。格里芬和他的新朋友哈珀试图解开女孩身上的谜团，却找到了穿越回过去契机，他们发现，破解谜团的机密在于找到格里芬的亲生父亲！。免费夸克网盘资源分享，在线观看下载。
 keywords: 硫磺泉镇的秘密,剧集,夸克网盘,网盘资源,免费下载,在线观看,【美剧】硫磺泉镇的秘密【1-3季】,2021
-date: 2025-11-12 14:47:49
+date: 2025-11-12 15:02:34
 updated: 2025-11-04
 category: 剧集
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/poRZqp7i1kRoDvtLtxPQkTMdsLB.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《硫磺泉镇的秘密》资源**](https://pan.quark.cn/s/e52cf95e4229)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/e52cf95e4229" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《硫磺泉镇的秘密》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/poRZqp7i1kRoDvtLtxPQkTMdsLB.jpg
 
 <small>
 📝 页面ID: 55
-⏰ 生成时间: 2025-11-12 14:47:49
+⏰ 生成时间: 2025-11-12 15:02:34
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/poRZqp7i1kRoDvtLtxPQkTMdsLB.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-55-硫磺泉镇的秘密.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:47:49",
+  "dateCreated": "2025-11-12 15:02:34",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/poRZqp7i1kRoDvtLtxPQkTMdsLB.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/poRZqp7i1kRoDvtLtxPQkTMdsLB.jpg",
   
-  "datePublished": "2025-11-12 14:47:49",
+  "datePublished": "2025-11-12 15:02:34",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

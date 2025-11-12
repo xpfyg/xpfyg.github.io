@@ -2,7 +2,7 @@
 title: 影后 - 免费夸克网盘资源分享
 description: 影后 - 八卦杂志总喜欢用竞争视角去形容同期出道的薛亚之（谢盈萱 饰）和周凡（杨谨华 饰），但这一点都无伤这对好姊妹的友谊，因为一直以来她们都是彼此的依靠，直到薛亚之决定要嫁给李子齐（薛仕凌 饰）这天。而这场变调的婚礼，像一把利刃，狠狠地划开了这对挚友的情感，也划开了两位女演员此后的命运，过往的一对好友如今变。免费夸克网盘资源分享，在线观看下载。
 keywords: 影后,剧集,夸克网盘,网盘资源,免费下载,在线观看,影.后（2024）,2024
-date: 2025-11-12 14:47:44
+date: 2025-11-12 15:02:34
 updated: 2025-11-04
 category: 剧集
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/6cAOhoHUwKGLD32fwRPBlmMqEYy.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《影后》资源**](https://pan.quark.cn/s/8cac0a93605a)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/8cac0a93605a" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《影后》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/6cAOhoHUwKGLD32fwRPBlmMqEYy.jpg
 
 <small>
 📝 页面ID: 72
-⏰ 生成时间: 2025-11-12 14:47:44
+⏰ 生成时间: 2025-11-12 15:02:34
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/6cAOhoHUwKGLD32fwRPBlmMqEYy.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-72-影后.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:47:44",
+  "dateCreated": "2025-11-12 15:02:34",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/6cAOhoHUwKGLD32fwRPBlmMqEYy.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/6cAOhoHUwKGLD32fwRPBlmMqEYy.jpg",
   
-  "datePublished": "2025-11-12 14:47:44",
+  "datePublished": "2025-11-12 15:02:34",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

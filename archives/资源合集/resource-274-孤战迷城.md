@@ -2,7 +2,7 @@
 title: 孤战迷城 - 免费夸克网盘资源分享
 description: 孤战迷城 - 1945年抗战接近尾声，日军将大批毒气弹偷偷运抵中国。军统王牌特工欧孝安，在冒死逃出毒气研究所“810”的过程中受伤，意外被同是特工的覃墨卿所救 ，醒后却发现自己缺失了近四年记忆。在揭露日军阴谋的过程中，欧孝安与覃墨卿频频联手，最终撕掉了日本特务的假面，并同时认定了自己地下党的身份。然而更大危机也在。免费夸克网盘资源分享，在线观看下载。
 keywords: 孤战迷城,剧集,夸克网盘,网盘资源,免费下载,在线观看,孤战迷城（2024）,2024
-date: 2025-11-12 14:46:12
+date: 2025-11-12 15:02:32
 updated: 2025-11-05
 category: 剧集
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/xaSEwXuU4NP2bbg4NILri1Ofa7A.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《孤战迷城》资源**](https://pan.quark.cn/s/5e0b1cf70d03)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/5e0b1cf70d03" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《孤战迷城》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/xaSEwXuU4NP2bbg4NILri1Ofa7A.jpg
 
 <small>
 📝 页面ID: 274
-⏰ 生成时间: 2025-11-12 14:46:12
+⏰ 生成时间: 2025-11-12 15:02:32
 🔄 最后更新: 2025-11-05
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/xaSEwXuU4NP2bbg4NILri1Ofa7A.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-274-孤战迷城.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-05",
-  "dateCreated": "2025-11-12 14:46:12",
+  "dateCreated": "2025-11-12 15:02:32",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/xaSEwXuU4NP2bbg4NILri1Ofa7A.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/xaSEwXuU4NP2bbg4NILri1Ofa7A.jpg",
   
-  "datePublished": "2025-11-12 14:46:12",
+  "datePublished": "2025-11-12 15:02:32",
   "dateModified": "2025-11-05",
   "author": {
     "@type": "Organization",

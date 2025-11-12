@@ -2,7 +2,7 @@
 title: 加勒比海盗 - 免费夸克网盘资源分享
 description: 加勒比海盗 - 迷人的杰克船长又回来了，这次，他遇到了更为强大的敌人——传说中的不死人大卫·琼斯，他驾驶着让人恐惧的“飞行荷兰人”号快船，在速度与装备上，没有任何船能够超越它。杰克船长欠下琼斯一个血债，他必须赶在最后时限到来之前，找到破解的方法，否则他会永远背负血债，并且在余生永远成为琼斯的奴隶。。免费夸克网盘资源分享，在线观看下载。
 keywords: 加勒比海盗,电影,夸克网盘,网盘资源,免费下载,在线观看,加勒比海盗系列五部合集 4K 2160P SDR 内嵌中英硬字幕,加勒比海盗2：聚魂棺,2006
-date: 2025-11-12 14:46:34
+date: 2025-11-12 15:02:32
 updated: 2025-11-04
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/72vRdR3iT2vv1ZpYmveOvnFJgJk.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《加勒比海盗》资源**](https://pan.quark.cn/s/505cb1c3205e)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/505cb1c3205e" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《加勒比海盗》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/72vRdR3iT2vv1ZpYmveOvnFJgJk.jpg
 
 <small>
 📝 页面ID: 196
-⏰ 生成时间: 2025-11-12 14:46:34
+⏰ 生成时间: 2025-11-12 15:02:32
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/72vRdR3iT2vv1ZpYmveOvnFJgJk.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-196-加勒比海盗.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:46:34",
+  "dateCreated": "2025-11-12 15:02:32",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/72vRdR3iT2vv1ZpYmveOvnFJgJk.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/72vRdR3iT2vv1ZpYmveOvnFJgJk.jpg",
   
-  "datePublished": "2025-11-12 14:46:34",
+  "datePublished": "2025-11-12 15:02:32",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

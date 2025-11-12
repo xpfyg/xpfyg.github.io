@@ -2,7 +2,7 @@
 title: 断背山 - 免费夸克网盘资源分享
 description: 断背山 - 美国怀俄明州的西部，沉默寡言的农夫恩尼斯·德·玛尔（希斯·莱杰 饰）和热情开朗的牛仔杰克·特威斯特（杰克·吉伦哈尔 饰)一道被派到山上牧羊，那里人迹罕至，他们只有与羊群为伴，生活单调无味。一个天寒地冻的夜晚，在酒精与荷尔蒙的作用下，他们做了“不该做的事情”，也就此他们在断背山上度过了人生中最美好的时。免费夸克网盘资源分享，在线观看下载。
 keywords: 断背山,电影,夸克网盘,网盘资源,免费下载,在线观看,《断背山》 李安-奥斯卡 4K REMUX原盘 杜比视界 特效字幕,2005
-date: 2025-11-12 14:47:16
+date: 2025-11-12 15:02:33
 updated: 2025-11-04
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/fo9yZVC2nwgr3RpGoUGKaeEzHo8.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《断背山》资源**](https://pan.quark.cn/s/d0e2e6d22a80)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/d0e2e6d22a80" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《断背山》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/fo9yZVC2nwgr3RpGoUGKaeEzHo8.jpg
 
 <small>
 📝 页面ID: 126
-⏰ 生成时间: 2025-11-12 14:47:16
+⏰ 生成时间: 2025-11-12 15:02:33
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/fo9yZVC2nwgr3RpGoUGKaeEzHo8.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-126-断背山.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:47:16",
+  "dateCreated": "2025-11-12 15:02:33",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/fo9yZVC2nwgr3RpGoUGKaeEzHo8.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/fo9yZVC2nwgr3RpGoUGKaeEzHo8.jpg",
   
-  "datePublished": "2025-11-12 14:47:16",
+  "datePublished": "2025-11-12 15:02:33",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

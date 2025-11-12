@@ -2,7 +2,7 @@
 title: 帝国的毁灭 - 免费夸克网盘资源分享
 description: 帝国的毁灭 - 　　本片取材自约阿希姆·费斯特2002年的著作《希特勒的末日》和希特勒的私人秘书特劳德尔·荣格同年的回忆录《直到最后时刻》，曾获得奥斯卡最佳外语片奖的提名。 荣格自从1942年被希特勒雇佣为秘书后，转眼到了1945年3月，苏联大军兵临城下，纳粹德国政府内人心惶惶。不但重要的亲信希姆莱和戈林相继叛离希。免费夸克网盘资源分享，在线观看下载。
 keywords: 帝国的毁灭,电影,夸克网盘,网盘资源,免费下载,在线观看,帝国的毁灭 4K原盘REMUX,2004
-date: 2025-11-12 14:45:59
+date: 2025-11-12 15:02:31
 updated: 2025-11-06
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/z02w9CnmtsIhohqcaVWoRvFfSEp.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《帝国的毁灭》资源**](https://pan.quark.cn/s/0de89add535b)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/0de89add535b" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《帝国的毁灭》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/z02w9CnmtsIhohqcaVWoRvFfSEp.jpg
 
 <small>
 📝 页面ID: 33
-⏰ 生成时间: 2025-11-12 14:45:59
+⏰ 生成时间: 2025-11-12 15:02:31
 🔄 最后更新: 2025-11-06
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/z02w9CnmtsIhohqcaVWoRvFfSEp.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-33-帝国的毁灭.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-06",
-  "dateCreated": "2025-11-12 14:45:59",
+  "dateCreated": "2025-11-12 15:02:31",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/z02w9CnmtsIhohqcaVWoRvFfSEp.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/z02w9CnmtsIhohqcaVWoRvFfSEp.jpg",
   
-  "datePublished": "2025-11-12 14:45:59",
+  "datePublished": "2025-11-12 15:02:31",
   "dateModified": "2025-11-06",
   "author": {
     "@type": "Organization",

@@ -2,7 +2,7 @@
 title: 三体 - 免费夸克网盘资源分享
 description: 三体 - 　　2007年，地球基础科学出现了异常的扰动，一时间科学界风雨飘飘，人心惶惶。离奇自杀的科学家，近乎神迹的倒计时，行事隐秘的科学边界，神秘莫测的《三体》游戏。纳米科学家汪淼被警官史强带到联合作战中心，并潜入名为“科学边界”的组织协助调查。迷雾之中，汪淼接触到一个名为ETO的组织，发现其幕后统帅竟是自。免费夸克网盘资源分享，在线观看下载。
 keywords: 三体,剧集,夸克网盘,网盘资源,免费下载,在线观看,S三体 剧版（2023）4K 高码率 60帧 无片头 多版本最全合集,2023
-date: 2025-11-12 14:45:58
+date: 2025-11-12 15:02:31
 updated: 2025-11-06
 category: 剧集
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/q2sNliRi4j0ncXKUO1x0MldR20A.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《三体》资源**](https://pan.quark.cn/s/94b94fbd2249)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/94b94fbd2249" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《三体》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/q2sNliRi4j0ncXKUO1x0MldR20A.jpg
 
 <small>
 📝 页面ID: 270
-⏰ 生成时间: 2025-11-12 14:45:58
+⏰ 生成时间: 2025-11-12 15:02:31
 🔄 最后更新: 2025-11-06
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/q2sNliRi4j0ncXKUO1x0MldR20A.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-270-三体.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-06",
-  "dateCreated": "2025-11-12 14:45:58",
+  "dateCreated": "2025-11-12 15:02:31",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/q2sNliRi4j0ncXKUO1x0MldR20A.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/q2sNliRi4j0ncXKUO1x0MldR20A.jpg",
   
-  "datePublished": "2025-11-12 14:45:58",
+  "datePublished": "2025-11-12 15:02:31",
   "dateModified": "2025-11-06",
   "author": {
     "@type": "Organization",

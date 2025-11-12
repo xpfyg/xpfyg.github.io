@@ -2,7 +2,7 @@
 title: 如龙 - 免费夸克网盘资源分享
 description: 如龙 - 加利福尼亚州，1870 年代。牛仔林肯“林克”巴特利特发现旧金山有一场中国妇女的奴隶拍卖会，他介入并从拍卖会上购买了中国人金成，意图释放她。但林克并没有想到，让她自由是不够的。她要去哪里？金不会说英语，她只会被别人剥削。林克把金带回家当管家。林克的母亲马·巴特利特对一个中国女孩住在她家感到不高兴，当。免费夸克网盘资源分享，在线观看下载。
 keywords: 如龙,电影,夸克网盘,网盘资源,免费下载,在线观看,如龙（2024）,步行如龙,1960
-date: 2025-11-12 14:47:17
+date: 2025-11-12 15:02:33
 updated: 2025-11-04
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/9bvMy7zA2BMUfH7L9sQU5FwWKN6.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《如龙》资源**](https://pan.quark.cn/s/0f4dceb1337d)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/0f4dceb1337d" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《如龙》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/9bvMy7zA2BMUfH7L9sQU5FwWKN6.jpg
 
 <small>
 📝 页面ID: 123
-⏰ 生成时间: 2025-11-12 14:47:17
+⏰ 生成时间: 2025-11-12 15:02:33
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/9bvMy7zA2BMUfH7L9sQU5FwWKN6.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-123-如龙.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:47:17",
+  "dateCreated": "2025-11-12 15:02:33",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/9bvMy7zA2BMUfH7L9sQU5FwWKN6.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/9bvMy7zA2BMUfH7L9sQU5FwWKN6.jpg",
   
-  "datePublished": "2025-11-12 14:47:17",
+  "datePublished": "2025-11-12 15:02:33",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

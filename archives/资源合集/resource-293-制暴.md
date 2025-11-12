@@ -2,7 +2,7 @@
 title: 制暴 - 免费夸克网盘资源分享
 description: 制暴 - 某集团董事长成杰（包贝尔 饰）受“大师”指点，需与一名女子发生关系为自己转运；他将目标锁定为自己公司员工“单亲妈妈”韩梅，强暴伤害其致植物人，事后却在媒体面前谎称是对方勾引自己，并让怀孕的妻子配合演戏，成功扭转舆论。韩梅的姐妹女警邱一昭（蒋璐霞 饰）坚信成杰在说谎并开启调查，在取证过程中受到恶势力的。免费夸克网盘资源分享，在线观看下载。
 keywords: 制暴,电影,夸克网盘,网盘资源,免费下载,在线观看,Z#暴（2024）4K EDR 杜比视界 国语中字,2024
-date: 2025-11-12 14:46:09
+date: 2025-11-12 15:02:31
 updated: 2025-11-05
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/fWCgVvtdnqygEK3V8RmlmfATyL0.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《制暴》资源**](https://pan.quark.cn/s/3e1593c0b26b)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/3e1593c0b26b" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《制暴》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/fWCgVvtdnqygEK3V8RmlmfATyL0.jpg
 
 <small>
 📝 页面ID: 293
-⏰ 生成时间: 2025-11-12 14:46:09
+⏰ 生成时间: 2025-11-12 15:02:31
 🔄 最后更新: 2025-11-05
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/fWCgVvtdnqygEK3V8RmlmfATyL0.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-293-制暴.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-05",
-  "dateCreated": "2025-11-12 14:46:09",
+  "dateCreated": "2025-11-12 15:02:31",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/fWCgVvtdnqygEK3V8RmlmfATyL0.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/fWCgVvtdnqygEK3V8RmlmfATyL0.jpg",
   
-  "datePublished": "2025-11-12 14:46:09",
+  "datePublished": "2025-11-12 15:02:31",
   "dateModified": "2025-11-05",
   "author": {
     "@type": "Organization",

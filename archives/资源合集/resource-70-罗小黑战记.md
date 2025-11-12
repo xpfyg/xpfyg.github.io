@@ -4,7 +4,7 @@ description: 罗小黑战记 - 《罗小黑战记》是中国大陆独立动画�
 
 猫妖小黑盗取天明珠被谛听发现，被打回原形重伤而逃，在流落街头之时被罗小白带回了家，起名罗小黑。有一天小黑突然变成了人形，告诉小白自己要暂时离开去完成师父交给自己的任务。却在离开之后因为师傅交给自己的任务。免费夸克网盘资源分享，在线观看下载。
 keywords: 罗小黑战记,剧集,夸克网盘,网盘资源,免费下载,在线观看,罗小黑战记电影版,2011
-date: 2025-11-12 14:47:45
+date: 2025-11-12 15:02:34
 updated: 2025-11-04
 category: 剧集
 tags:
@@ -75,10 +75,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/bDhBjhFknuPx3mcCInuTa3XaQmw.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《罗小黑战记》资源**](https://pan.quark.cn/s/b7c68bcae7a9)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/b7c68bcae7a9" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《罗小黑战记》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -110,7 +110,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/bDhBjhFknuPx3mcCInuTa3XaQmw.jpg
 
 <small>
 📝 页面ID: 70
-⏰ 生成时间: 2025-11-12 14:47:45
+⏰ 生成时间: 2025-11-12 15:02:34
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -183,7 +183,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/bDhBjhFknuPx3mcCInuTa3XaQmw.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-70-罗小黑战记.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:47:45",
+  "dateCreated": "2025-11-12 15:02:34",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -263,7 +263,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/bDhBjhFknuPx3mcCInuTa3XaQmw.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/bDhBjhFknuPx3mcCInuTa3XaQmw.jpg",
   
-  "datePublished": "2025-11-12 14:47:45",
+  "datePublished": "2025-11-12 15:02:34",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

@@ -2,7 +2,7 @@
 title: 新闻女王 两季 - 免费夸克网盘资源分享
 description: 新闻女王 两季 - 收视最高的六点半新闻报道是主播的必争之地。在新闻电视部，资深主播文慧心和梁景仁分成两派、平分秋色，前者一番兴风作浪，终攀上管理层之位。黄金时段女主播的空缺，引发连场风暴。。免费夸克网盘资源分享，在线观看下载。
 keywords: 新闻女王 两季,剧集,夸克网盘,网盘资源,免费下载,在线观看,新闻女王 4K国粤 两季,新闻女王,2023
-date: 2025-11-12 14:45:31
+date: 2025-11-12 15:02:31
 updated: 2025-11-11
 category: 剧集
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/9nrVW6P44OPw2pxkAgEI5fMfjl.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《新闻女王 两季》资源**](https://pan.quark.cn/s/bba05581bae5)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/bba05581bae5" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《新闻女王 两季》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/9nrVW6P44OPw2pxkAgEI5fMfjl.jpg
 
 <small>
 📝 页面ID: 322
-⏰ 生成时间: 2025-11-12 14:45:31
+⏰ 生成时间: 2025-11-12 15:02:31
 🔄 最后更新: 2025-11-11
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/9nrVW6P44OPw2pxkAgEI5fMfjl.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-322-新闻女王-两季.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-11",
-  "dateCreated": "2025-11-12 14:45:31",
+  "dateCreated": "2025-11-12 15:02:31",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/9nrVW6P44OPw2pxkAgEI5fMfjl.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/9nrVW6P44OPw2pxkAgEI5fMfjl.jpg",
   
-  "datePublished": "2025-11-12 14:45:31",
+  "datePublished": "2025-11-12 15:02:31",
   "dateModified": "2025-11-11",
   "author": {
     "@type": "Organization",

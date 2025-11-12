@@ -2,7 +2,7 @@
 title: 瞬息全宇宙 - 免费夸克网盘资源分享
 description: 瞬息全宇宙 - 在美国某个普普通通的亚裔社区，生活着伊芙琳（杨紫琼 饰）一家四口。伊年过半百，和怯懦无能的丈夫威蒙德（关继威 饰）苦心经营小小的洗衣店。她的老爸（吴汉章 饰）行动不便，需要照顾；女儿乔伊（许玮伦 饰）特立独行，叛逆暴躁。生活看不到希望，只有敷衍和苦挨。某天，伊芙琳硬着头皮去税务局报税的时候，威蒙德突。免费夸克网盘资源分享，在线观看下载。
 keywords: 瞬息全宇宙,电影,夸克网盘,网盘资源,免费下载,在线观看,瞬息全宇宙（2022）【4K蓝光原盘REMUX】【杜比视界&杜比全景声】内封简繁英双语特效字幕[70.2G],2022
-date: 2025-11-12 14:45:47
+date: 2025-11-12 15:02:31
 updated: 2025-11-06
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/p8ulGTtp2Syv2U5H32FcWoBQb9v.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《瞬息全宇宙》资源**](https://pan.quark.cn/s/6d896190c0cb)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/6d896190c0cb" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《瞬息全宇宙》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/p8ulGTtp2Syv2U5H32FcWoBQb9v.jpg
 
 <small>
 📝 页面ID: 310
-⏰ 生成时间: 2025-11-12 14:45:47
+⏰ 生成时间: 2025-11-12 15:02:31
 🔄 最后更新: 2025-11-06
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/p8ulGTtp2Syv2U5H32FcWoBQb9v.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-310-瞬息全宇宙.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-06",
-  "dateCreated": "2025-11-12 14:45:47",
+  "dateCreated": "2025-11-12 15:02:31",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/p8ulGTtp2Syv2U5H32FcWoBQb9v.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/p8ulGTtp2Syv2U5H32FcWoBQb9v.jpg",
   
-  "datePublished": "2025-11-12 14:45:47",
+  "datePublished": "2025-11-12 15:02:31",
   "dateModified": "2025-11-06",
   "author": {
     "@type": "Organization",

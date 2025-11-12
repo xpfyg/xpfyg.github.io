@@ -2,7 +2,7 @@
 title: 无名之火 - 免费夸克网盘资源分享
 description: 无名之火 - 薛铭（贾冰 饰）本是个胸无大志的人，因为一次酒后救火成了小城里的大英雄。但薛铭知道自己是假的，真正的救人者生命垂危。良心的谴责让薛铭毅然说出实情，他从大英雄变成了大骗子，而薛铭则决定利用热度为真英雄筹款，终于也成了自己的英雄。。免费夸克网盘资源分享，在线观看下载。
 keywords: 无名之火,剧集,夸克网盘,网盘资源,免费下载,在线观看,无名之火（2024） 4K高码率 60帧率版 剧情 喜剧(1),2024
-date: 2025-11-12 14:46:27
+date: 2025-11-12 15:02:32
 updated: 2025-11-04
 category: 剧集
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/6aseemI5Qa29q91lxNa6sdhKQo9.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《无名之火》资源**](https://pan.quark.cn/s/aa7f6d00ef60)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/aa7f6d00ef60" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《无名之火》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/6aseemI5Qa29q91lxNa6sdhKQo9.jpg
 
 <small>
 📝 页面ID: 234
-⏰ 生成时间: 2025-11-12 14:46:27
+⏰ 生成时间: 2025-11-12 15:02:32
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/6aseemI5Qa29q91lxNa6sdhKQo9.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-234-无名之火.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:46:27",
+  "dateCreated": "2025-11-12 15:02:32",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/6aseemI5Qa29q91lxNa6sdhKQo9.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/6aseemI5Qa29q91lxNa6sdhKQo9.jpg",
   
-  "datePublished": "2025-11-12 14:46:27",
+  "datePublished": "2025-11-12 15:02:32",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

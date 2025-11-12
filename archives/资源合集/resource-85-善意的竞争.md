@@ -2,7 +2,7 @@
 title: 善意的竞争 - 免费夸克网盘资源分享
 description: 善意的竞争 - 在这所精英学校里，两位年轻学生面对无情的竞争、严苛的期望与虚假的承诺，进而建立了一段复杂而微妙的关系。。免费夸克网盘资源分享，在线观看下载。
 keywords: 善意的竞争,剧集,夸克网盘,网盘资源,免费下载,在线观看,2025
-date: 2025-11-12 14:47:54
+date: 2025-11-12 15:02:34
 updated: 2025-11-04
 category: 剧集
 tags:
@@ -65,10 +65,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/sVp3DHlZKWNvkff78zrJYRPmmAT.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《善意的竞争》资源**](https://pan.quark.cn/s/42b455dba57e)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/42b455dba57e" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《善意的竞争》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -100,7 +100,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/sVp3DHlZKWNvkff78zrJYRPmmAT.jpg
 
 <small>
 📝 页面ID: 85
-⏰ 生成时间: 2025-11-12 14:47:54
+⏰ 生成时间: 2025-11-12 15:02:34
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -171,7 +171,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/sVp3DHlZKWNvkff78zrJYRPmmAT.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-85-善意的竞争.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:47:54",
+  "dateCreated": "2025-11-12 15:02:34",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -249,7 +249,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/sVp3DHlZKWNvkff78zrJYRPmmAT.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/sVp3DHlZKWNvkff78zrJYRPmmAT.jpg",
   
-  "datePublished": "2025-11-12 14:47:54",
+  "datePublished": "2025-11-12 15:02:34",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

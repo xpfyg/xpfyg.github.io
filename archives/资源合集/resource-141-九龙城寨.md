@@ -2,7 +2,7 @@
 title: 九龙城寨 - 免费夸克网盘资源分享
 description: 九龙城寨 - 　　东北街霸阿能流落至香港，刚偷渡上岸就遭到警察盘查，幸得留学归来的佳慧将其救下。而佳慧的父亲重病过世，其掌管的城寨南区被各方势力虎视眈眈。阿能及时出手护住佳慧，并在阿坤牵线之下结识西区红姐欲重整城寨秩序。此时盘踞北区多年的神秘恶势力伸出魔爪......。免费夸克网盘资源分享，在线观看下载。
 keywords: 九龙城寨,电影,夸克网盘,网盘资源,免费下载,在线观看,九龙城寨（2024）REMUX蓝光原盘 TrueHD 7.1  国粤双语音轨,2021
-date: 2025-11-12 14:47:07
+date: 2025-11-12 15:02:33
 updated: 2025-11-04
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/uJH1ytLV1NQJOnIYZywJkUsaR83.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《九龙城寨》资源**](https://pan.quark.cn/s/73a2062bd6ad)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/73a2062bd6ad" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《九龙城寨》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/uJH1ytLV1NQJOnIYZywJkUsaR83.jpg
 
 <small>
 📝 页面ID: 141
-⏰ 生成时间: 2025-11-12 14:47:07
+⏰ 生成时间: 2025-11-12 15:02:33
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/uJH1ytLV1NQJOnIYZywJkUsaR83.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-141-九龙城寨.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:47:07",
+  "dateCreated": "2025-11-12 15:02:33",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/uJH1ytLV1NQJOnIYZywJkUsaR83.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/uJH1ytLV1NQJOnIYZywJkUsaR83.jpg",
   
-  "datePublished": "2025-11-12 14:47:07",
+  "datePublished": "2025-11-12 15:02:33",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

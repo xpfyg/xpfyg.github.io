@@ -2,7 +2,7 @@
 title: 半泽直树 - 免费夸克网盘资源分享
 description: 半泽直树 - 在泡沫经济时期，进入东京中央银行的银行职员半泽直树一边同银行内外的“敌人”斗争，一边贯彻自己的信念“不能像机器一样对待身边的人”，对待恶人要“以牙还牙，加倍奉还”。。免费夸克网盘资源分享，在线观看下载。
 keywords: 半泽直树,剧集,夸克网盘,网盘资源,免费下载,在线观看,半泽直树 2季全,2013
-date: 2025-11-12 14:46:54
+date: 2025-11-12 15:02:33
 updated: 2025-11-04
 category: 剧集
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/m5kpwUaZH1EpClrBbkruvzCsNU9.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《半泽直树》资源**](https://pan.quark.cn/s/04f1881756dd)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/04f1881756dd" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《半泽直树》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/m5kpwUaZH1EpClrBbkruvzCsNU9.jpg
 
 <small>
 📝 页面ID: 162
-⏰ 生成时间: 2025-11-12 14:46:54
+⏰ 生成时间: 2025-11-12 15:02:33
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/m5kpwUaZH1EpClrBbkruvzCsNU9.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-162-半泽直树.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:46:54",
+  "dateCreated": "2025-11-12 15:02:33",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/m5kpwUaZH1EpClrBbkruvzCsNU9.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/m5kpwUaZH1EpClrBbkruvzCsNU9.jpg",
   
-  "datePublished": "2025-11-12 14:46:54",
+  "datePublished": "2025-11-12 15:02:33",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

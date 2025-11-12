@@ -2,7 +2,7 @@
 title: 暴君 - 免费夸克网盘资源分享
 description: 暴君 - 韩国秘密执行的计划被美国情报机构发现，美方要求终止该计划，但是在韩国国家情报院移交样本的途中发生了运送事故。美国特工保罗因此向情报院严厉施压，并且与计划主导人崔局长正面交锋。同时，本案关键人物蔡姿景与退役组织成员林上，基于各自的原因，开始追杀崔局长的手下燕谟用。最终所有人来到同一处，为了最后一件样本。免费夸克网盘资源分享，在线观看下载。
 keywords: 暴君,剧集,夸克网盘,网盘资源,免费下载,在线观看,暴君2024,2024
-date: 2025-11-12 14:46:17
+date: 2025-11-12 15:02:32
 updated: 2025-11-05
 category: 剧集
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/uRaTsQWzSgMVNxPfOZzwnbElJzn.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《暴君》资源**](https://pan.quark.cn/s/3b3f2089b4dd)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/3b3f2089b4dd" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《暴君》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/uRaTsQWzSgMVNxPfOZzwnbElJzn.jpg
 
 <small>
 📝 页面ID: 240
-⏰ 生成时间: 2025-11-12 14:46:17
+⏰ 生成时间: 2025-11-12 15:02:32
 🔄 最后更新: 2025-11-05
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/uRaTsQWzSgMVNxPfOZzwnbElJzn.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-240-暴君.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-05",
-  "dateCreated": "2025-11-12 14:46:17",
+  "dateCreated": "2025-11-12 15:02:32",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/uRaTsQWzSgMVNxPfOZzwnbElJzn.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/uRaTsQWzSgMVNxPfOZzwnbElJzn.jpg",
   
-  "datePublished": "2025-11-12 14:46:17",
+  "datePublished": "2025-11-12 15:02:32",
   "dateModified": "2025-11-05",
   "author": {
     "@type": "Organization",

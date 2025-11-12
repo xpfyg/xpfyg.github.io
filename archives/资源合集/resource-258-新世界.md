@@ -2,7 +2,7 @@
 title: 新世界 - 免费夸克网盘资源分享
 description: 新世界 - 这是一部韩国版的《无间道》。“金门”是韩国境内最强大的黑帮组织，并以企业集团军的模式不断发展壮大。警局搜查科姜科长安排新人警察李子成潜入“金门”卧底。八年后，子成已摇身一变坐上了组织内的第二把交椅，成为掌权者的左膀右臂。“金门”的会长突然暴毙，组织内部即将上演继任争夺战，而姜科长也适时拟定了“新世界。免费夸克网盘资源分享，在线观看下载。
 keywords: 新世界,剧集,夸克网盘,网盘资源,免费下载,在线观看,新世界 韩国 蓝光原盘REMUX 内封字幕,2013
-date: 2025-11-12 14:46:17
+date: 2025-11-12 15:02:32
 updated: 2025-11-05
 category: 剧集
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/lEzLByuGNqQxjUcgBqt6FvC5Jg8.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《新世界》资源**](https://pan.quark.cn/s/213174eae940)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/213174eae940" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《新世界》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/lEzLByuGNqQxjUcgBqt6FvC5Jg8.jpg
 
 <small>
 📝 页面ID: 258
-⏰ 生成时间: 2025-11-12 14:46:17
+⏰ 生成时间: 2025-11-12 15:02:32
 🔄 最后更新: 2025-11-05
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/lEzLByuGNqQxjUcgBqt6FvC5Jg8.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-258-新世界.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-05",
-  "dateCreated": "2025-11-12 14:46:17",
+  "dateCreated": "2025-11-12 15:02:32",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/lEzLByuGNqQxjUcgBqt6FvC5Jg8.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/lEzLByuGNqQxjUcgBqt6FvC5Jg8.jpg",
   
-  "datePublished": "2025-11-12 14:46:17",
+  "datePublished": "2025-11-12 15:02:32",
   "dateModified": "2025-11-05",
   "author": {
     "@type": "Organization",

@@ -2,7 +2,7 @@
 title: 年会不能停 - 免费夸克网盘资源分享
 description: 年会不能停 - 集团裁员风波之下，人心惶惶，底层钳工胡建林（大鹏 饰）却被阴差阳错调入集团总部！裹挟在“错调”事件中的人事经理马杰（白客 饰）诚惶诚恐，为保饭碗被迫为其周旋隐瞒。从“工厂”到“大厂”，从“蓝领”变“金领”，胡建林因与大厂环境格格不入而笑料百出，也像一面“职场照妖镜”照出众生相……胡建林为何能在裁员之。免费夸克网盘资源分享，在线观看下载。
 keywords: 年会不能停,电影,夸克网盘,网盘资源,免费下载,在线观看,年会不能停 (2023),年会不能停！,2023
-date: 2025-11-12 14:46:05
+date: 2025-11-12 15:02:31
 updated: 2025-11-06
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/nhsi6kfqwlfAdzaeZOocnUqMlH2.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《年会不能停》资源**](https://pan.quark.cn/s/1fdf6ee52b3c)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/1fdf6ee52b3c" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《年会不能停》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/nhsi6kfqwlfAdzaeZOocnUqMlH2.jpg
 
 <small>
 📝 页面ID: 278
-⏰ 生成时间: 2025-11-12 14:46:05
+⏰ 生成时间: 2025-11-12 15:02:31
 🔄 最后更新: 2025-11-06
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/nhsi6kfqwlfAdzaeZOocnUqMlH2.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-278-年会不能停.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-06",
-  "dateCreated": "2025-11-12 14:46:05",
+  "dateCreated": "2025-11-12 15:02:31",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/nhsi6kfqwlfAdzaeZOocnUqMlH2.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/nhsi6kfqwlfAdzaeZOocnUqMlH2.jpg",
   
-  "datePublished": "2025-11-12 14:46:05",
+  "datePublished": "2025-11-12 15:02:31",
   "dateModified": "2025-11-06",
   "author": {
     "@type": "Organization",

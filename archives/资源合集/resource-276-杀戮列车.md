@@ -2,7 +2,7 @@
 title: 杀戮列车 - 免费夸克网盘资源分享
 description: 杀戮列车 - 当一名陆军突击队员发现他的真爱违背自身意愿订婚时，他登上了开往新德里的火车，大胆地试图破坏包办婚姻。但当一群持刀的盗贼开始恐吓他所乘坐火车上的无辜乘客时，这名突击队员亲自与他们对抗，展开了一场不顾生死的杀戮狂欢，以拯救周围的人——将原本平常的通勤变成了一场充满肾上腺素的刺激之旅。。免费夸克网盘资源分享，在线观看下载。
 keywords: 杀戮列车,电影,夸克网盘,网盘资源,免费下载,在线观看,杀戮列车 (2023) 4K SDR 外挂人工翻译简中,2024
-date: 2025-11-12 14:45:38
+date: 2025-11-12 15:02:31
 updated: 2025-11-07
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/gezqFBKU4XDiMtZmSZZ6yAtYLb.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《杀戮列车》资源**](https://pan.quark.cn/s/fac0029ea983)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/fac0029ea983" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《杀戮列车》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/gezqFBKU4XDiMtZmSZZ6yAtYLb.jpg
 
 <small>
 📝 页面ID: 276
-⏰ 生成时间: 2025-11-12 14:45:38
+⏰ 生成时间: 2025-11-12 15:02:31
 🔄 最后更新: 2025-11-07
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/gezqFBKU4XDiMtZmSZZ6yAtYLb.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-276-杀戮列车.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-07",
-  "dateCreated": "2025-11-12 14:45:38",
+  "dateCreated": "2025-11-12 15:02:31",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/gezqFBKU4XDiMtZmSZZ6yAtYLb.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/gezqFBKU4XDiMtZmSZZ6yAtYLb.jpg",
   
-  "datePublished": "2025-11-12 14:45:38",
+  "datePublished": "2025-11-12 15:02:31",
   "dateModified": "2025-11-07",
   "author": {
     "@type": "Organization",

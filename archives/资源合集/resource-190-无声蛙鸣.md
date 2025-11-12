@@ -2,7 +2,7 @@
 title: 无声蛙鸣 - 免费夸克网盘资源分享
 description: 无声蛙鸣 - 静谧的夏天，一名神秘女子住进了一间度假出租屋，由此引发一连串事件，屋主和周围人的平静生活也因此打破。。免费夸克网盘资源分享，在线观看下载。
 keywords: 无声蛙鸣,电影,夸克网盘,网盘资源,免费下载,在线观看,无声蛙鸣（2024）,2024
-date: 2025-11-12 14:46:36
+date: 2025-11-12 15:02:32
 updated: 2025-11-04
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/e4eNdV434OE36r25p5GGyH60uba.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《无声蛙鸣》资源**](https://pan.quark.cn/s/ea6f669f45b4)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/ea6f669f45b4" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《无声蛙鸣》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/e4eNdV434OE36r25p5GGyH60uba.jpg
 
 <small>
 📝 页面ID: 190
-⏰ 生成时间: 2025-11-12 14:46:36
+⏰ 生成时间: 2025-11-12 15:02:32
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/e4eNdV434OE36r25p5GGyH60uba.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-190-无声蛙鸣.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:46:36",
+  "dateCreated": "2025-11-12 15:02:32",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/e4eNdV434OE36r25p5GGyH60uba.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/e4eNdV434OE36r25p5GGyH60uba.jpg",
   
-  "datePublished": "2025-11-12 14:46:36",
+  "datePublished": "2025-11-12 15:02:32",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

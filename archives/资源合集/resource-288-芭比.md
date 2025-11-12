@@ -2,7 +2,7 @@
 title: 芭比 - 免费夸克网盘资源分享
 description: 芭比 - 在芭比乐园里，各种各样的芭比和肯每天都过着童话般100%完美的生活。但是某一天，芭比（玛格特·罗比 Margot Robbie 饰）发现自己的生活开始有了变化——比如她的一天不再一帆风顺，她开始思考死亡的意义，甚至她的双脚也不再是完美的高跟鞋形——她竟然脚掌落地了！接连出现的不完美打破了芭比乐园的平。免费夸克网盘资源分享，在线观看下载。
 keywords: 芭比,电影,夸克网盘,网盘资源,免费下载,在线观看,芭比.2160p.,2023
-date: 2025-11-12 14:46:06
+date: 2025-11-12 15:02:31
 updated: 2025-11-06
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/7dK4kaCB0KuHWQwFrw5w5OgYOnW.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《芭比》资源**](https://pan.quark.cn/s/ca7b402f2f42)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/ca7b402f2f42" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《芭比》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/7dK4kaCB0KuHWQwFrw5w5OgYOnW.jpg
 
 <small>
 📝 页面ID: 288
-⏰ 生成时间: 2025-11-12 14:46:06
+⏰ 生成时间: 2025-11-12 15:02:31
 🔄 最后更新: 2025-11-06
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/7dK4kaCB0KuHWQwFrw5w5OgYOnW.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-288-芭比.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-06",
-  "dateCreated": "2025-11-12 14:46:06",
+  "dateCreated": "2025-11-12 15:02:31",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/7dK4kaCB0KuHWQwFrw5w5OgYOnW.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/7dK4kaCB0KuHWQwFrw5w5OgYOnW.jpg",
   
-  "datePublished": "2025-11-12 14:46:06",
+  "datePublished": "2025-11-12 15:02:31",
   "dateModified": "2025-11-06",
   "author": {
     "@type": "Organization",

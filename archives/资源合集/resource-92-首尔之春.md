@@ -2,7 +2,7 @@
 title: 首尔之春 - 免费夸克网盘资源分享
 description: 首尔之春 - 10·26总统刺杀事件发生后，根据戒严法，陆军参谋总长郑相镐（李星民 饰）被任命为戒严司令官，保安司令官全斗光（黄政民 饰）被任命为联合调查本部长。郑祥镐对全斗光动员军队内的私人组织以团结势力的行为有所察觉，为了应对该情况，他将李泰信（郑雨盛 饰）任命为首都警备司令官。12月12日，掌握所有情报的全。免费夸克网盘资源分享，在线观看下载。
 keywords: 首尔之春,电影,夸克网盘,网盘资源,免费下载,在线观看,首尔之春（2023）4K 高码率 1080P高码 韩语 特效中字,2023
-date: 2025-11-12 14:47:40
+date: 2025-11-12 15:02:34
 updated: 2025-11-04
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/fvseAYbhIyxBsnsqPC4Pe6Kjj1F.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《首尔之春》资源**](https://pan.quark.cn/s/532b5f4ffcd1)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/532b5f4ffcd1" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《首尔之春》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/fvseAYbhIyxBsnsqPC4Pe6Kjj1F.jpg
 
 <small>
 📝 页面ID: 92
-⏰ 生成时间: 2025-11-12 14:47:40
+⏰ 生成时间: 2025-11-12 15:02:34
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/fvseAYbhIyxBsnsqPC4Pe6Kjj1F.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-92-首尔之春.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:47:40",
+  "dateCreated": "2025-11-12 15:02:34",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/fvseAYbhIyxBsnsqPC4Pe6Kjj1F.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/fvseAYbhIyxBsnsqPC4Pe6Kjj1F.jpg",
   
-  "datePublished": "2025-11-12 14:47:40",
+  "datePublished": "2025-11-12 15:02:34",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

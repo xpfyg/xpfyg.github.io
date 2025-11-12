@@ -2,7 +2,7 @@
 title: 幕府将军 - 免费夸克网盘资源分享
 description: 幕府将军 - 改编自詹姆斯·克拉维尔的同名小说，故事发生在公元1600年的日本，当时的日本正值一场百年内战。摄政委员会的敌人联合起来反对吉井虎永将军，他正在为自己的生命而战。有人发现一艘神秘的欧洲船只在附近的渔村外搁浅。随后，船上的英国引航员按针带着秘密前来。这些秘密可能有助于吉井虎永扭转权力的天平，并摧毁耶稣会。免费夸克网盘资源分享，在线观看下载。
 keywords: 幕府将军,剧集,夸克网盘,网盘资源,免费下载,在线观看,幕府将军（2024） 4K HDR 杜比视界 英日音轨 内封简繁字幕,Shōgun,2024
-date: 2025-11-12 14:47:55
+date: 2025-11-12 15:02:34
 updated: 2025-11-04
 category: 剧集
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/t1eSI5NU4nXcT0DHjwgDjjQP0k6.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《幕府将军》资源**](https://pan.quark.cn/s/f2096c8b874e)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/f2096c8b874e" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《幕府将军》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/t1eSI5NU4nXcT0DHjwgDjjQP0k6.jpg
 
 <small>
 📝 页面ID: 299
-⏰ 生成时间: 2025-11-12 14:47:55
+⏰ 生成时间: 2025-11-12 15:02:34
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -175,7 +175,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/t1eSI5NU4nXcT0DHjwgDjjQP0k6.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-299-幕府将军.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:47:55",
+  "dateCreated": "2025-11-12 15:02:34",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -253,7 +253,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/t1eSI5NU4nXcT0DHjwgDjjQP0k6.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/t1eSI5NU4nXcT0DHjwgDjjQP0k6.jpg",
   
-  "datePublished": "2025-11-12 14:47:55",
+  "datePublished": "2025-11-12 15:02:34",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

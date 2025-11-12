@@ -2,7 +2,7 @@
 title: 指环王 - 免费夸克网盘资源分享
 description: 指环王 - 在古老的中土世界，一个名叫佛罗多·巴金斯的年轻人无意中得到了一枚魔戒。 这只戒指拥有无穷的神秘力量，戒指原本是黑暗君王索隆所有的，却意外地到了佛罗多手里。弗罗多决定将戒指摧毁，以免索隆夺回去巩固自己的势力。索隆为了阻止佛罗多，派出了手下的奥克斯加以追杀，一场正邪大战眼看着一触即发。。免费夸克网盘资源分享，在线观看下载。
 keywords: 指环王,电影,夸克网盘,网盘资源,免费下载,在线观看,指环王 The Lord of the Rings 1-3 (2001-2003),指环王1：护戒使者,2001
-date: 2025-11-12 14:46:32
+date: 2025-11-12 15:02:32
 updated: 2025-11-04
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/dvNHlWMxba5f9r8xS9tILLUig8m.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《指环王》资源**](https://pan.quark.cn/s/532381221c21)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/532381221c21" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《指环王》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/dvNHlWMxba5f9r8xS9tILLUig8m.jpg
 
 <small>
 📝 页面ID: 202
-⏰ 生成时间: 2025-11-12 14:46:32
+⏰ 生成时间: 2025-11-12 15:02:32
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/dvNHlWMxba5f9r8xS9tILLUig8m.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-202-指环王.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:46:32",
+  "dateCreated": "2025-11-12 15:02:32",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/dvNHlWMxba5f9r8xS9tILLUig8m.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/dvNHlWMxba5f9r8xS9tILLUig8m.jpg",
   
-  "datePublished": "2025-11-12 14:46:32",
+  "datePublished": "2025-11-12 15:02:32",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

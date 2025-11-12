@@ -2,7 +2,7 @@
 title: 新世纪福音战士 - 免费夸克网盘资源分享
 description: 新世纪福音战士 - 突袭世界的大灾难“第二次冲击”后，世界在废墟之上重建。14 岁的少年碇真嗣被父亲碇元渡叫到第 3 新东京市。本以为能见到父亲迎接的他，却见到名为“ 使徒”的巨大生物与军队交火。危急之下，特务机关 NERV 的葛成美里将真嗣救下，并将其带往碇元渡所统领的 NERV 总部。但迎接真嗣的，却是是父亲冷酷地。免费夸克网盘资源分享，在线观看下载。
 keywords: 新世纪福音战士,剧集,夸克网盘,网盘资源,免费下载,在线观看,101621_X 新世纪福音战士全系列 硬字幕+软字幕 8K+4K+1080P,1995
-date: 2025-11-12 14:45:38
+date: 2025-11-12 15:02:31
 updated: 2025-11-07
 category: 剧集
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/cDxbgU4k5e9Pup9y5ydfTjQmv8y.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《新世纪福音战士》资源**](https://pan.quark.cn/s/44e23aa6fa4f)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/44e23aa6fa4f" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《新世纪福音战士》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/cDxbgU4k5e9Pup9y5ydfTjQmv8y.jpg
 
 <small>
 📝 页面ID: 321
-⏰ 生成时间: 2025-11-12 14:45:38
+⏰ 生成时间: 2025-11-12 15:02:31
 🔄 最后更新: 2025-11-07
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/cDxbgU4k5e9Pup9y5ydfTjQmv8y.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-321-新世纪福音战士.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-07",
-  "dateCreated": "2025-11-12 14:45:38",
+  "dateCreated": "2025-11-12 15:02:31",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/cDxbgU4k5e9Pup9y5ydfTjQmv8y.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/cDxbgU4k5e9Pup9y5ydfTjQmv8y.jpg",
   
-  "datePublished": "2025-11-12 14:45:38",
+  "datePublished": "2025-11-12 15:02:31",
   "dateModified": "2025-11-07",
   "author": {
     "@type": "Organization",

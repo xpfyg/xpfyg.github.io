@@ -2,7 +2,7 @@
 title: 某种·物质 - 免费夸克网盘资源分享
 description: 某种·物质 - 曾经红极一时的好莱坞巨星伊丽莎白无法面对自己老去的容颜，决定使用一种名为“完美物质”的黑市药物，透过注射药物的细胞复制物质，创造出更年轻、更好的另一个自己。“年华老去”及“年轻貌美”的自己该如何共存？会是更强烈的容貌焦虑大战？还是要不断迎合大众对“美”的期待？一场自我身体主导权的争夺战即将上演……。免费夸克网盘资源分享，在线观看下载。
 keywords: 某种·物质,电影,夸克网盘,网盘资源,免费下载,在线观看,某种·物质 2024,某种物质,2024
-date: 2025-11-12 14:47:27
+date: 2025-11-12 15:02:33
 updated: 2025-11-04
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/1gIM1hYy1HjxSszkh5AemZ3jBfo.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《某种·物质》资源**](https://pan.quark.cn/s/3e30ebdd0f56)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/3e30ebdd0f56" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《某种·物质》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/1gIM1hYy1HjxSszkh5AemZ3jBfo.jpg
 
 <small>
 📝 页面ID: 109
-⏰ 生成时间: 2025-11-12 14:47:27
+⏰ 生成时间: 2025-11-12 15:02:33
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/1gIM1hYy1HjxSszkh5AemZ3jBfo.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-109-某种-物质.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:47:27",
+  "dateCreated": "2025-11-12 15:02:33",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/1gIM1hYy1HjxSszkh5AemZ3jBfo.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/1gIM1hYy1HjxSszkh5AemZ3jBfo.jpg",
   
-  "datePublished": "2025-11-12 14:47:27",
+  "datePublished": "2025-11-12 15:02:33",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

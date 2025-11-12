@@ -2,7 +2,7 @@
 title: 热搜 - 免费夸克网盘资源分享
 description: 热搜 - 自媒体主编陈妙（周冬雨 饰）发布一篇爆款文章后，意外收到当事人的求助，并牵扯出一系列意想不到的事件。陈妙的合伙人何言（宋洋 饰），资本集团总裁岳鹏（袁弘 饰）陆续卷入其中，真相究竟为何，背后还有哪些秘密？一场以网络为载体的正义之战正在展开。。免费夸克网盘资源分享，在线观看下载。
 keywords: 热搜,电影,夸克网盘,网盘资源,免费下载,在线观看,热搜 (2023) 4K,2023
-date: 2025-11-12 14:47:44
+date: 2025-11-12 15:02:34
 updated: 2025-11-04
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/1m1inBaKUEuYefvpnz4UmCFZo9v.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《热搜》资源**](https://pan.quark.cn/s/38afb21410af)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/38afb21410af" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《热搜》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/1m1inBaKUEuYefvpnz4UmCFZo9v.jpg
 
 <small>
 📝 页面ID: 71
-⏰ 生成时间: 2025-11-12 14:47:44
+⏰ 生成时间: 2025-11-12 15:02:34
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/1m1inBaKUEuYefvpnz4UmCFZo9v.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-71-热搜.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:47:44",
+  "dateCreated": "2025-11-12 15:02:34",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/1m1inBaKUEuYefvpnz4UmCFZo9v.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/1m1inBaKUEuYefvpnz4UmCFZo9v.jpg",
   
-  "datePublished": "2025-11-12 14:47:44",
+  "datePublished": "2025-11-12 15:02:34",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

@@ -2,7 +2,7 @@
 title: 大时代 - 免费夸克网盘资源分享
 description: 大时代 - 《大时代》是香港电视广播有限公司出品的时装商战剧，由韦家辉执导并监制，郑少秋、刘青云、刘松仁、郭蔼明、周慧敏等主演。  该剧以20世纪60年代至90年代的香港金融市场为背景，透过两个家庭，两代情仇，展现名利与人性的纠缠。该剧是TVB25周年台庆剧，并已于1992年10月5日在无线电视台首播  。20。免费夸克网盘资源分享，在线观看下载。
 keywords: 大时代,剧集,夸克网盘,网盘资源,免费下载,在线观看,D 大时代（1992） 国语双语音轨 高清,1992
-date: 2025-11-12 14:46:42
+date: 2025-11-12 15:02:32
 updated: 2025-11-04
 category: 剧集
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/ib3bGoQojw1YaSv902xjcZ9SXOL.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《大时代》资源**](https://pan.quark.cn/s/b070686171da)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/b070686171da" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《大时代》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/ib3bGoQojw1YaSv902xjcZ9SXOL.jpg
 
 <small>
 📝 页面ID: 157
-⏰ 生成时间: 2025-11-12 14:46:42
+⏰ 生成时间: 2025-11-12 15:02:32
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/ib3bGoQojw1YaSv902xjcZ9SXOL.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-157-大时代.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:46:42",
+  "dateCreated": "2025-11-12 15:02:32",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/ib3bGoQojw1YaSv902xjcZ9SXOL.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/ib3bGoQojw1YaSv902xjcZ9SXOL.jpg",
   
-  "datePublished": "2025-11-12 14:46:42",
+  "datePublished": "2025-11-12 15:02:32",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

@@ -2,7 +2,7 @@
 title: 周星驰经典合集 - 免费夸克网盘资源分享
 description: 周星驰经典合集 电影资源，提供免费夸克网盘分享链接，支持在线观看和高速下载。
 keywords: 周星驰经典合集,电影,夸克网盘,网盘资源,免费下载,在线观看,周星驰 经典合集 收藏级
-date: 2025-11-12 14:47:58
+date: 2025-11-12 15:02:34
 updated: 2025-11-04
 category: 电影
 tags:
@@ -45,10 +45,10 @@ twitter:description: 周星驰经典合集 电影资源，提供免费夸克网�
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《周星驰经典合集》资源**](https://pan.quark.cn/s/aa1077fd4ee4)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/aa1077fd4ee4" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《周星驰经典合集》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -80,7 +80,7 @@ twitter:description: 周星驰经典合集 电影资源，提供免费夸克网�
 
 <small>
 📝 页面ID: 77
-⏰ 生成时间: 2025-11-12 14:47:58
+⏰ 生成时间: 2025-11-12 15:02:34
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -130,7 +130,7 @@ twitter:description: 周星驰经典合集 电影资源，提供免费夸克网�
   "url": "https://xpfyg.github.io/archives/资源合集/resource-77-周星驰经典合集.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:47:58",
+  "dateCreated": "2025-11-12 15:02:34",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -206,7 +206,7 @@ twitter:description: 周星驰经典合集 电影资源，提供免费夸克网�
   "headline": "周星驰经典合集 - 免费夸克网盘资源分享",
   "description": "周星驰经典合集 电影资源，提供免费夸克网盘分享链接，支持在线观看和高速下载。",
   
-  "datePublished": "2025-11-12 14:47:58",
+  "datePublished": "2025-11-12 15:02:34",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

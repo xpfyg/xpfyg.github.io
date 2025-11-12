@@ -2,7 +2,7 @@
 title: 南海归墟 - 免费夸克网盘资源分享
 description: 南海归墟 - 胡八一和王胖子已摘下摸金符、本打算和Shirley杨出国，这时却受陈教授所托，与曾做过老海狼的明叔一起，远赴南海珊瑚螺旋寻找失落已久的国宝——秦王照骨镜。他们在珊瑚庙岛买下一艘设施强大却无人敢用的“鬼船”三叉戟号，并结识了疍民阮黑、古猜、多玲师徒三人，共同出海。 一行人在经历了种种海上奇观及大战幽灵。免费夸克网盘资源分享，在线观看下载。
 keywords: 南海归墟,剧集,夸克网盘,网盘资源,免费下载,在线观看,N-南海归墟（2023）4k 杜比视界 全16集,2023
-date: 2025-11-12 14:46:43
+date: 2025-11-12 15:02:32
 updated: 2025-11-04
 category: 剧集
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/kCTsZJnkQv2OowzU3QuDWVUbRM8.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《南海归墟》资源**](https://pan.quark.cn/s/fec414b9f8a7)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/fec414b9f8a7" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《南海归墟》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/kCTsZJnkQv2OowzU3QuDWVUbRM8.jpg
 
 <small>
 📝 页面ID: 179
-⏰ 生成时间: 2025-11-12 14:46:43
+⏰ 生成时间: 2025-11-12 15:02:32
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/kCTsZJnkQv2OowzU3QuDWVUbRM8.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-179-南海归墟.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:46:43",
+  "dateCreated": "2025-11-12 15:02:32",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/kCTsZJnkQv2OowzU3QuDWVUbRM8.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/kCTsZJnkQv2OowzU3QuDWVUbRM8.jpg",
   
-  "datePublished": "2025-11-12 14:46:43",
+  "datePublished": "2025-11-12 15:02:32",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

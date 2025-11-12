@@ -2,7 +2,7 @@
 title: 深潜 - 免费夸克网盘资源分享
 description: 深潜 - 　　与世隔绝的海岛，深海中的杀妻阴谋正在惊悚上演！这场诡异阴谋被一次次更加诡异离奇的事件打断！男主声嘶力竭，几近疯狂！当终极恐怖被错乱的时空频频撕裂，孤岛男女还能否从这片“诡海”逃出生天？。免费夸克网盘资源分享，在线观看下载。
 keywords: 深潜,电影,夸克网盘,网盘资源,免费下载,在线观看,深潜 (2024),深潜日,2021
-date: 2025-11-12 14:47:31
+date: 2025-11-12 15:02:33
 updated: 2025-11-04
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/kOVnzTkE4p4UPrqVWBUDvfc3T2f.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《深潜》资源**](https://pan.quark.cn/s/cf064a11ce8d)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/cf064a11ce8d" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《深潜》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/kOVnzTkE4p4UPrqVWBUDvfc3T2f.jpg
 
 <small>
 📝 页面ID: 106
-⏰ 生成时间: 2025-11-12 14:47:31
+⏰ 生成时间: 2025-11-12 15:02:33
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/kOVnzTkE4p4UPrqVWBUDvfc3T2f.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-106-深潜.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:47:31",
+  "dateCreated": "2025-11-12 15:02:33",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/kOVnzTkE4p4UPrqVWBUDvfc3T2f.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/kOVnzTkE4p4UPrqVWBUDvfc3T2f.jpg",
   
-  "datePublished": "2025-11-12 14:47:31",
+  "datePublished": "2025-11-12 15:02:33",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

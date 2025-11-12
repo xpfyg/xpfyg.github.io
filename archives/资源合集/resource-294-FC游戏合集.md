@@ -2,7 +2,7 @@
 title: FC游戏合集 - 免费夸克网盘资源分享
 description: FC游戏合集 资源，提供免费夸克网盘分享链接，支持在线观看和高速下载。
 keywords: FC游戏合集,资源,夸克网盘,网盘资源,免费下载,在线观看
-date: 2025-11-12 14:47:59
+date: 2025-11-12 15:02:34
 updated: 2025-11-03
 category: 合集
 tags:
@@ -43,10 +43,10 @@ twitter:description: FC游戏合集 资源，提供免费夸克网盘分享链�
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《FC游戏合集》资源**](https://pan.quark.cn/s/b716b28324b6)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/b716b28324b6" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《FC游戏合集》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -78,7 +78,7 @@ twitter:description: FC游戏合集 资源，提供免费夸克网盘分享链�
 
 <small>
 📝 页面ID: 294
-⏰ 生成时间: 2025-11-12 14:47:59
+⏰ 生成时间: 2025-11-12 15:02:34
 🔄 最后更新: 2025-11-03
 </small>
 
@@ -128,7 +128,7 @@ twitter:description: FC游戏合集 资源，提供免费夸克网盘分享链�
   "url": "https://xpfyg.github.io/archives/资源合集/resource-294-FC游戏合集.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-03",
-  "dateCreated": "2025-11-12 14:47:59",
+  "dateCreated": "2025-11-12 15:02:34",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -204,7 +204,7 @@ twitter:description: FC游戏合集 资源，提供免费夸克网盘分享链�
   "headline": "FC游戏合集 - 免费夸克网盘资源分享",
   "description": "FC游戏合集 资源，提供免费夸克网盘分享链接，支持在线观看和高速下载。",
   
-  "datePublished": "2025-11-12 14:47:59",
+  "datePublished": "2025-11-12 15:02:34",
   "dateModified": "2025-11-03",
   "author": {
     "@type": "Organization",

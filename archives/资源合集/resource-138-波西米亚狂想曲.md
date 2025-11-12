@@ -2,7 +2,7 @@
 title: 波西米亚狂想曲 - 免费夸克网盘资源分享
 description: 波西米亚狂想曲 - 本片是对皇后乐队、传奇主唱弗雷迪·莫库里以及他们音乐的致敬盛宴，这是一段充满爱、痛苦、接纳和音乐的旅程。弗雷迪·莫库里曾是希思罗机场的一名普通搬运工，对音乐满腔热血的他，与布莱恩·梅、罗杰·泰勒、约 翰·迪肯组成皇后乐队。这个殿堂级乐队的从无到有，从疏离到重聚，从低谷到巅峰，仿佛就是弗雷迪一生的缩影。免费夸克网盘资源分享，在线观看下载。
 keywords: 波西米亚狂想曲,电影,夸克网盘,网盘资源,免费下载,在线观看,波西米亚狂想曲‎ (2018) 4K HDR 内嵌简英硬字幕,2018
-date: 2025-11-12 14:47:09
+date: 2025-11-12 15:02:33
 updated: 2025-11-04
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/vMLJtx7UgDpsAn3MNDS0ZVkm0Op.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《波西米亚狂想曲》资源**](https://pan.quark.cn/s/ea2ce93ad84e)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/ea2ce93ad84e" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《波西米亚狂想曲》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/vMLJtx7UgDpsAn3MNDS0ZVkm0Op.jpg
 
 <small>
 📝 页面ID: 138
-⏰ 生成时间: 2025-11-12 14:47:09
+⏰ 生成时间: 2025-11-12 15:02:33
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/vMLJtx7UgDpsAn3MNDS0ZVkm0Op.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-138-波西米亚狂想曲.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:47:09",
+  "dateCreated": "2025-11-12 15:02:33",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/vMLJtx7UgDpsAn3MNDS0ZVkm0Op.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/vMLJtx7UgDpsAn3MNDS0ZVkm0Op.jpg",
   
-  "datePublished": "2025-11-12 14:47:09",
+  "datePublished": "2025-11-12 15:02:33",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

@@ -2,7 +2,7 @@
 title: 白鹿原 - 免费夸克网盘资源分享
 description: 白鹿原 - 该剧是一部20世纪初渭河平原50年变迁的雄奇史诗，这是一轴中国农村斑斓多彩、触目惊心的长幅画卷。特殊的时代背景，浓厚的关中风情，土地革命、抗日战争、解放战争，古老的土地，上演了一幕幕惊心动魄的画面。剧中朱先生对传统道德的坚守，白嘉轩勤劳与自私，鹿子霖望子成龙，白孝文情感波折，白灵投奔革命，黑娃被迫为。免费夸克网盘资源分享，在线观看下载。
 keywords: 白鹿原,剧集,夸克网盘,网盘资源,免费下载,在线观看,白鹿原 (2017) WEB-DL.4K 高码 全77集 国语中字 203G,2017
-date: 2025-11-12 14:45:34
+date: 2025-11-12 15:02:31
 updated: 2025-11-11
 category: 剧集
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/kThC2mtOUgjJoOavaBUeUT03UZK.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《白鹿原》资源**](https://pan.quark.cn/s/2d110733b78b)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/2d110733b78b" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《白鹿原》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/kThC2mtOUgjJoOavaBUeUT03UZK.jpg
 
 <small>
 📝 页面ID: 277
-⏰ 生成时间: 2025-11-12 14:45:34
+⏰ 生成时间: 2025-11-12 15:02:31
 🔄 最后更新: 2025-11-11
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/kThC2mtOUgjJoOavaBUeUT03UZK.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-277-白鹿原.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-11",
-  "dateCreated": "2025-11-12 14:45:34",
+  "dateCreated": "2025-11-12 15:02:31",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/kThC2mtOUgjJoOavaBUeUT03UZK.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/kThC2mtOUgjJoOavaBUeUT03UZK.jpg",
   
-  "datePublished": "2025-11-12 14:45:34",
+  "datePublished": "2025-11-12 15:02:31",
   "dateModified": "2025-11-11",
   "author": {
     "@type": "Organization",

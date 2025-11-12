@@ -2,7 +2,7 @@
 title: 宿敌 - 免费夸克网盘资源分享
 description: 宿敌 - 2019年，滨海市国安局新人郭伟杰，偶然间接触一宗陈年旧案，经查发现案子背后大有隐情。他自此踏上探寻真相之路。可调查中，总有一个人先他一步拿到线索。此人是谁？19年前，侦查科吴豫造成一名犯罪嫌疑人伤亡，被开除公职。他没有援军，没有身份，只凭一股倔强和执念，走遍天南海北，贴靠各类目标，只为找到当年真犯。免费夸克网盘资源分享，在线观看下载。
 keywords: 宿敌,剧集,夸克网盘,网盘资源,免费下载,在线观看,宿.敌（2024）,2024
-date: 2025-11-12 14:47:29
+date: 2025-11-12 15:02:33
 updated: 2025-11-04
 category: 剧集
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/w2jd5Hm2wESJRXPgWPAthA64IoT.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《宿敌》资源**](https://pan.quark.cn/s/1513f877f013)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/1513f877f013" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《宿敌》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/w2jd5Hm2wESJRXPgWPAthA64IoT.jpg
 
 <small>
 📝 页面ID: 107
-⏰ 生成时间: 2025-11-12 14:47:29
+⏰ 生成时间: 2025-11-12 15:02:33
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/w2jd5Hm2wESJRXPgWPAthA64IoT.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-107-宿敌.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:47:29",
+  "dateCreated": "2025-11-12 15:02:33",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/w2jd5Hm2wESJRXPgWPAthA64IoT.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/w2jd5Hm2wESJRXPgWPAthA64IoT.jpg",
   
-  "datePublished": "2025-11-12 14:47:29",
+  "datePublished": "2025-11-12 15:02:33",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

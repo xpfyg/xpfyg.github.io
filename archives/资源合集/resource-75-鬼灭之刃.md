@@ -8,7 +8,7 @@ description: 鬼灭之刃 - 时值日本大正时期。
 
 在猎鬼人的指引下，立志成为猎鬼人的炭治郎与变成鬼却尚存理。免费夸克网盘资源分享，在线观看下载。
 keywords: 鬼灭之刃,剧集,夸克网盘,网盘资源,免费下载,在线观看,2019
-date: 2025-11-12 14:47:43
+date: 2025-11-12 15:02:34
 updated: 2025-11-04
 category: 剧集
 tags:
@@ -93,10 +93,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/2GeOIUE58UJ0nLosFyefdlfw3ez.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《鬼灭之刃》资源**](https://pan.quark.cn/s/0372ce4c835a)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/0372ce4c835a" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《鬼灭之刃》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -128,7 +128,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/2GeOIUE58UJ0nLosFyefdlfw3ez.jpg
 
 <small>
 📝 页面ID: 75
-⏰ 生成时间: 2025-11-12 14:47:43
+⏰ 生成时间: 2025-11-12 15:02:34
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -205,7 +205,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/2GeOIUE58UJ0nLosFyefdlfw3ez.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-75-鬼灭之刃.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:47:43",
+  "dateCreated": "2025-11-12 15:02:34",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -289,7 +289,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/2GeOIUE58UJ0nLosFyefdlfw3ez.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/2GeOIUE58UJ0nLosFyefdlfw3ez.jpg",
   
-  "datePublished": "2025-11-12 14:47:43",
+  "datePublished": "2025-11-12 15:02:34",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

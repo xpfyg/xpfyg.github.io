@@ -2,7 +2,7 @@
 title: 门前宝地 - 免费夸克网盘资源分享
 description: 门前宝地 - 故事发生在1920年，天津一武馆馆长过世，老馆长生前为了让儿子沈岸（向佐 饰）脱离武行，为其谋了一份银行的差事，决定让大弟子齐铨（安志杰 饰）接班。不料齐铨的种种新做法破了武行的规矩，引起骚乱。老一辈们请沈岸回来，意图用比武的方式逼齐铨退出武行。。免费夸克网盘资源分享，在线观看下载。
 keywords: 门前宝地,电影,夸克网盘,网盘资源,免费下载,在线观看,门.前.宝.地（2024）,2024
-date: 2025-11-12 14:47:15
+date: 2025-11-12 15:02:33
 updated: 2025-11-04
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/1h79uApTIpRbqMXb42IRwpg5iFS.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《门前宝地》资源**](https://pan.quark.cn/s/2d62264ebe42)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/2d62264ebe42" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《门前宝地》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/1h79uApTIpRbqMXb42IRwpg5iFS.jpg
 
 <small>
 📝 页面ID: 127
-⏰ 生成时间: 2025-11-12 14:47:15
+⏰ 生成时间: 2025-11-12 15:02:33
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/1h79uApTIpRbqMXb42IRwpg5iFS.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-127-门前宝地.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:47:15",
+  "dateCreated": "2025-11-12 15:02:33",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/1h79uApTIpRbqMXb42IRwpg5iFS.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/1h79uApTIpRbqMXb42IRwpg5iFS.jpg",
   
-  "datePublished": "2025-11-12 14:47:15",
+  "datePublished": "2025-11-12 15:02:33",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

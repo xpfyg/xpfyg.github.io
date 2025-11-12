@@ -2,7 +2,7 @@
 title: 奥林匹斯的陷落 - 免费夸克网盘资源分享
 description: 奥林匹斯的陷落 - 特情局秘密代号为“奥林匹斯”的白宫正处在危机之中，一伙恐怖分子先用重型的飞机和机枪袭击了这里，并派入了一支敢死队进入，彻底占领了美国总统府并劫持了美国总统，并以此为要挟，妄图控制世界。此时坐在文员办公室的迈克·班宁（杰拉德·巴特勒饰）从刚刚的突袭中幸存了下来，并成为了美国最后的一丝希望。班宁原先是一。免费夸克网盘资源分享，在线观看下载。
 keywords: 奥林匹斯的陷落,电影,夸克网盘,网盘资源,免费下载,在线观看,奥林匹斯的陷落 (2013) 4K SDR,2013
-date: 2025-11-12 14:46:11
+date: 2025-11-12 15:02:32
 updated: 2025-11-05
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/at6suvp3YVGjV7Az0EF3TXVd5Ns.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《奥林匹斯的陷落》资源**](https://pan.quark.cn/s/9a1710014ecf)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/9a1710014ecf" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《奥林匹斯的陷落》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/at6suvp3YVGjV7Az0EF3TXVd5Ns.jpg
 
 <small>
 📝 页面ID: 281
-⏰ 生成时间: 2025-11-12 14:46:11
+⏰ 生成时间: 2025-11-12 15:02:32
 🔄 最后更新: 2025-11-05
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/at6suvp3YVGjV7Az0EF3TXVd5Ns.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-281-奥林匹斯的陷落.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-05",
-  "dateCreated": "2025-11-12 14:46:11",
+  "dateCreated": "2025-11-12 15:02:32",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/at6suvp3YVGjV7Az0EF3TXVd5Ns.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/at6suvp3YVGjV7Az0EF3TXVd5Ns.jpg",
   
-  "datePublished": "2025-11-12 14:46:11",
+  "datePublished": "2025-11-12 15:02:32",
   "dateModified": "2025-11-05",
   "author": {
     "@type": "Organization",

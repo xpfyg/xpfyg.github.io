@@ -2,7 +2,7 @@
 title: 边水往事 - 免费夸克网盘资源分享
 description: 边水往事 - 三边坡，一处鱼龙混杂的热带异域，一个繁茂与衰败并生的斑驳之地。意外流落三边坡的打工小白沈星遇到在多方势力间游走的三边坡和事佬猜叔，一场冒险，一段善良微光指引下的回归，在留与逃的挣扎中将如何上演。。免费夸克网盘资源分享，在线观看下载。
 keywords: 边水往事,剧集,夸克网盘,网盘资源,免费下载,在线观看,2024
-date: 2025-11-12 14:46:33
+date: 2025-11-12 15:02:32
 updated: 2025-11-04
 category: 剧集
 tags:
@@ -65,10 +65,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/z8xHvQu17vjNHPVI4O9vqnqQDhi.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《边水往事》资源**](https://pan.quark.cn/s/25c5c7394264)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/25c5c7394264" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《边水往事》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -100,7 +100,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/z8xHvQu17vjNHPVI4O9vqnqQDhi.jpg
 
 <small>
 📝 页面ID: 199
-⏰ 生成时间: 2025-11-12 14:46:33
+⏰ 生成时间: 2025-11-12 15:02:32
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -171,7 +171,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/z8xHvQu17vjNHPVI4O9vqnqQDhi.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-199-边水往事.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:46:33",
+  "dateCreated": "2025-11-12 15:02:32",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -249,7 +249,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/z8xHvQu17vjNHPVI4O9vqnqQDhi.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/z8xHvQu17vjNHPVI4O9vqnqQDhi.jpg",
   
-  "datePublished": "2025-11-12 14:46:33",
+  "datePublished": "2025-11-12 15:02:32",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

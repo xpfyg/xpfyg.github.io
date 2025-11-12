@@ -2,7 +2,7 @@
 title: 杀破狼 贪狼 - 免费夸克网盘资源分享
 description: 杀破狼 贪狼 - 香港警察李忠志（古天乐 饰）得知女儿芝（陈汉娜 饰）于泰国旅游间莫名失踪，即亲赴泰国报警求助。负责案件的华人探员崔杰（吴樾 饰），应允让他一同调查，却想不到李忠志利用媒体呼吁市民提供线索。 一条意外拍下芝被捉走的片段上载至警方网站，却被神秘删除。崔杰即连同好友兼同袍Tak（托尼·贾 饰）同赴寻找片主。免费夸克网盘资源分享，在线观看下载。
 keywords: 杀破狼 贪狼,电影,夸克网盘,网盘资源,免费下载,在线观看,杀破狼 贪狼 4K原盘REMUX 国粤双音 内封字幕,杀破狼·贪狼,2017
-date: 2025-11-12 14:46:27
+date: 2025-11-12 15:02:32
 updated: 2025-11-04
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/yTUqjXMn5J3sl1j1daLAey37gNU.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《杀破狼 贪狼》资源**](https://pan.quark.cn/s/3b1ea2016c80)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/3b1ea2016c80" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《杀破狼 贪狼》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/yTUqjXMn5J3sl1j1daLAey37gNU.jpg
 
 <small>
 📝 页面ID: 233
-⏰ 生成时间: 2025-11-12 14:46:27
+⏰ 生成时间: 2025-11-12 15:02:32
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/yTUqjXMn5J3sl1j1daLAey37gNU.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-233-杀破狼-贪狼.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:46:27",
+  "dateCreated": "2025-11-12 15:02:32",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/yTUqjXMn5J3sl1j1daLAey37gNU.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/yTUqjXMn5J3sl1j1daLAey37gNU.jpg",
   
-  "datePublished": "2025-11-12 14:46:27",
+  "datePublished": "2025-11-12 15:02:32",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

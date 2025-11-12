@@ -2,7 +2,7 @@
 title: 圣斗士星矢系列 - 免费夸克网盘资源分享
 description: 圣斗士星矢系列 剧集资源，提供免费夸克网盘分享链接，支持在线观看和高速下载。
 keywords: 圣斗士星矢系列,剧集,夸克网盘,网盘资源,免费下载,在线观看,圣斗士星矢系列全季 1080P 国粤台日音轨 内封中文字幕【典藏版】
-date: 2025-11-12 14:47:57
+date: 2025-11-12 15:02:34
 updated: 2025-11-04
 category: 剧集
 tags:
@@ -45,10 +45,10 @@ twitter:description: 圣斗士星矢系列 剧集资源，提供免费夸克网�
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《圣斗士星矢系列》资源**](https://pan.quark.cn/s/3a3794c1cb99)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/3a3794c1cb99" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《圣斗士星矢系列》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -80,7 +80,7 @@ twitter:description: 圣斗士星矢系列 剧集资源，提供免费夸克网�
 
 <small>
 📝 页面ID: 81
-⏰ 生成时间: 2025-11-12 14:47:57
+⏰ 生成时间: 2025-11-12 15:02:34
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -130,7 +130,7 @@ twitter:description: 圣斗士星矢系列 剧集资源，提供免费夸克网�
   "url": "https://xpfyg.github.io/archives/资源合集/resource-81-圣斗士星矢系列.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:47:57",
+  "dateCreated": "2025-11-12 15:02:34",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -206,7 +206,7 @@ twitter:description: 圣斗士星矢系列 剧集资源，提供免费夸克网�
   "headline": "圣斗士星矢系列 - 免费夸克网盘资源分享",
   "description": "圣斗士星矢系列 剧集资源，提供免费夸克网盘分享链接，支持在线观看和高速下载。",
   
-  "datePublished": "2025-11-12 14:47:57",
+  "datePublished": "2025-11-12 15:02:34",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

@@ -2,7 +2,7 @@
 title: 帝王计划：怪兽遗产 - 免费夸克网盘资源分享
 description: 帝王计划：怪兽遗产 - 在经历了哥斯拉对旧金山的袭击并幸存下来之后，凯特再次被一个惊人的秘密震撼。在巨大的威胁面前，她踏上环球冒险之旅，以了解关于她的家庭和神秘帝王组织的真相。。免费夸克网盘资源分享，在线观看下载。
 keywords: 帝王计划：怪兽遗产,剧集,夸克网盘,网盘资源,免费下载,在线观看,D 帝王计划：怪兽遗产 (2023) 4K HDR 内封多国字幕 已更新10完结,Monarch: Legacy of Monsters,2023
-date: 2025-11-12 14:46:18
+date: 2025-11-12 15:02:32
 updated: 2025-11-04
 category: 剧集
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/n9f19s803QWUMq4C18Gyj60vUeE.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《帝王计划：怪兽遗产》资源**](https://pan.quark.cn/s/ffa564395b77)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/ffa564395b77" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《帝王计划：怪兽遗产》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/n9f19s803QWUMq4C18Gyj60vUeE.jpg
 
 <small>
 📝 页面ID: 266
-⏰ 生成时间: 2025-11-12 14:46:18
+⏰ 生成时间: 2025-11-12 15:02:32
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/n9f19s803QWUMq4C18Gyj60vUeE.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-266-帝王计划-怪兽遗产.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:46:18",
+  "dateCreated": "2025-11-12 15:02:32",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/n9f19s803QWUMq4C18Gyj60vUeE.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/n9f19s803QWUMq4C18Gyj60vUeE.jpg",
   
-  "datePublished": "2025-11-12 14:46:18",
+  "datePublished": "2025-11-12 15:02:32",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

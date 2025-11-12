@@ -2,7 +2,7 @@
 title: 半个喜剧 - 免费夸克网盘资源分享
 description: 半个喜剧 - 三个自由浪漫的年轻人，过着各怀心思的人生：有人急着摆脱单身，有人想在结婚前放荡一番，有人想在大城市站稳脚跟。因为一次情感出轨，三人扭结成了一团“嬉笑怒骂”的乱麻。当各种价值观碰撞在一起， 当一个人需要平衡亲情友情与爱情...... 他们慌乱的生活，就像是半个喜剧。。免费夸克网盘资源分享，在线观看下载。
 keywords: 半个喜剧,电影,夸克网盘,网盘资源,免费下载,在线观看,半个喜剧 (2019) 4K 60FPS 全景声 高码率 国语中字,2019
-date: 2025-11-12 14:46:01
+date: 2025-11-12 15:02:31
 updated: 2025-11-06
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/ewfd8sU8BlFfOD3yD8OLFBlm3Q8.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《半个喜剧》资源**](https://pan.quark.cn/s/1294f99e6271)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/1294f99e6271" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《半个喜剧》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/ewfd8sU8BlFfOD3yD8OLFBlm3Q8.jpg
 
 <small>
 📝 页面ID: 195
-⏰ 生成时间: 2025-11-12 14:46:01
+⏰ 生成时间: 2025-11-12 15:02:31
 🔄 最后更新: 2025-11-06
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/ewfd8sU8BlFfOD3yD8OLFBlm3Q8.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-195-半个喜剧.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-06",
-  "dateCreated": "2025-11-12 14:46:01",
+  "dateCreated": "2025-11-12 15:02:31",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/ewfd8sU8BlFfOD3yD8OLFBlm3Q8.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/ewfd8sU8BlFfOD3yD8OLFBlm3Q8.jpg",
   
-  "datePublished": "2025-11-12 14:46:01",
+  "datePublished": "2025-11-12 15:02:31",
   "dateModified": "2025-11-06",
   "author": {
     "@type": "Organization",

@@ -2,7 +2,7 @@
 title: 灌篮高手 - 免费夸克网盘资源分享
 description: 灌篮高手 - 湘北高中的一年级新生樱木花道在初中就有了被50个女孩抛弃的“悲惨”经历，最后一个女孩抛弃他原来是看上了篮球部队小田，由此樱木对篮球更是深恶痛绝。进入高中后，樱木看上了美少女赤木晴子，晴子十分热爱篮球，为了赢取晴子的芳心，樱木决定加入篮球部。在侥幸赢得与篮球队队长赤木刚宪的打赌后，樱木顺利加入了篮球队。免费夸克网盘资源分享，在线观看下载。
 keywords: 灌篮高手,剧集,夸克网盘,网盘资源,免费下载,在线观看,灌篮高手 1080P修复版【国语+日语+漫画】收藏版,1993
-date: 2025-11-12 14:47:43
+date: 2025-11-12 15:02:34
 updated: 2025-11-04
 category: 剧集
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/c6oBt7aD6V4JzPhzHTqMH4xPO7O.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《灌篮高手》资源**](https://pan.quark.cn/s/06776174ae2f)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/06776174ae2f" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《灌篮高手》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/c6oBt7aD6V4JzPhzHTqMH4xPO7O.jpg
 
 <small>
 📝 页面ID: 79
-⏰ 生成时间: 2025-11-12 14:47:43
+⏰ 生成时间: 2025-11-12 15:02:34
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/c6oBt7aD6V4JzPhzHTqMH4xPO7O.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-79-灌篮高手.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:47:43",
+  "dateCreated": "2025-11-12 15:02:34",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/c6oBt7aD6V4JzPhzHTqMH4xPO7O.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/c6oBt7aD6V4JzPhzHTqMH4xPO7O.jpg",
   
-  "datePublished": "2025-11-12 14:47:43",
+  "datePublished": "2025-11-12 15:02:34",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

@@ -2,7 +2,7 @@
 title: 因果报应 - 免费夸克网盘资源分享
 description: 因果报应 - 理发师玛哈拉贾大闹警局，悬赏70万要为一个价值300的垃圾桶立案。众人疑惑之际，才发觉玛哈拉贾来警局另有目的……当女儿被恶人残忍迫害，真相与正义似乎无处可寻，憨厚老实的底层父亲只能以身设局，用剃须刀杀出一条复仇血路。永远不要低估一个父亲为女儿复仇的决心！。免费夸克网盘资源分享，在线观看下载。
 keywords: 因果报应,电影,夸克网盘,网盘资源,免费下载,在线观看,因果报应.2024.2160p.NF.WEB-DL.DDP5.1.H.265,2024
-date: 2025-11-12 14:47:39
+date: 2025-11-12 15:02:34
 updated: 2025-11-04
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/oCy8W9MbGsJfsQE6RQgy77QleVQ.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《因果报应》资源**](https://pan.quark.cn/s/b6415a614c15)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/b6415a614c15" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《因果报应》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/oCy8W9MbGsJfsQE6RQgy77QleVQ.jpg
 
 <small>
 📝 页面ID: 93
-⏰ 生成时间: 2025-11-12 14:47:39
+⏰ 生成时间: 2025-11-12 15:02:34
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/oCy8W9MbGsJfsQE6RQgy77QleVQ.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-93-因果报应.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:47:39",
+  "dateCreated": "2025-11-12 15:02:34",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/oCy8W9MbGsJfsQE6RQgy77QleVQ.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/oCy8W9MbGsJfsQE6RQgy77QleVQ.jpg",
   
-  "datePublished": "2025-11-12 14:47:39",
+  "datePublished": "2025-11-12 15:02:34",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

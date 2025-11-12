@@ -2,7 +2,7 @@
 title: 武林外传 - 免费夸克网盘资源分享
 description: 武林外传 - 关中一个普通的小镇——七俠镇，这里有一家同福客栈。就是这间不起眼的江湖客栈，因缘巧合之下汇聚了一群性格各异又活泼搞怪的年轻人：武功高强但初入江湖的郭芙蓉（姚晨 饰）、客栈老板娘佟湘玉（闫妮 饰）、金盘洗手的神偷白展堂（沙溢 饰）、满腹经纶的吕秀才（喻恩泰 饰）、客栈厨师李大嘴（姜超 饰）等等。这群年。免费夸克网盘资源分享，在线观看下载。
 keywords: 武林外传,剧集,夸克网盘,网盘资源,免费下载,在线观看,2006
-date: 2025-11-12 14:47:18
+date: 2025-11-12 15:02:33
 updated: 2025-11-04
 category: 剧集
 tags:
@@ -65,10 +65,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/d2RpcJazbDxLVPVTK41pv11WrEy.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《武林外传》资源**](https://pan.quark.cn/s/d1f03d47d2c2)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/d1f03d47d2c2" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《武林外传》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -100,7 +100,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/d2RpcJazbDxLVPVTK41pv11WrEy.jpg
 
 <small>
 📝 页面ID: 121
-⏰ 生成时间: 2025-11-12 14:47:18
+⏰ 生成时间: 2025-11-12 15:02:33
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -171,7 +171,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/d2RpcJazbDxLVPVTK41pv11WrEy.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-121-武林外传.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:47:18",
+  "dateCreated": "2025-11-12 15:02:33",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -249,7 +249,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/d2RpcJazbDxLVPVTK41pv11WrEy.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/d2RpcJazbDxLVPVTK41pv11WrEy.jpg",
   
-  "datePublished": "2025-11-12 14:47:18",
+  "datePublished": "2025-11-12 15:02:33",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

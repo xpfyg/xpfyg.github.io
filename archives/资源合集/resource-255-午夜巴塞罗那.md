@@ -2,7 +2,7 @@
 title: 午夜巴塞罗那 - 免费夸克网盘资源分享
 description: 午夜巴塞罗那 - 　　维琪与克莉丝汀娜来到巴塞隆那旅游，克莉丝汀娜性感而大胆，维琪则是理性已有婚约，两人不约而同遇上了风度翩翩的瀟洒艺术家Juan Antonio，噯味的情愫与异国情调，在两人的友情与感情世界掀起大波涛。维琪一开始认为Antonio是个玩世不恭的花心男人，但在相处多日后，两人之间產生了爱情，让维琪内心。免费夸克网盘资源分享，在线观看下载。
 keywords: 午夜巴塞罗那,电影,夸克网盘,网盘资源,免费下载,在线观看,2008
-date: 2025-11-12 14:45:32
+date: 2025-11-12 15:02:31
 updated: 2025-11-11
 category: 电影
 tags:
@@ -65,10 +65,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/ay1dHWVKdwSuRztnMd8oBpnxyIg.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《午夜巴塞罗那》资源**](https://pan.quark.cn/s/a74a9e654948)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/a74a9e654948" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《午夜巴塞罗那》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -100,7 +100,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/ay1dHWVKdwSuRztnMd8oBpnxyIg.jpg
 
 <small>
 📝 页面ID: 255
-⏰ 生成时间: 2025-11-12 14:45:32
+⏰ 生成时间: 2025-11-12 15:02:31
 🔄 最后更新: 2025-11-11
 </small>
 
@@ -171,7 +171,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/ay1dHWVKdwSuRztnMd8oBpnxyIg.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-255-午夜巴塞罗那.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-11",
-  "dateCreated": "2025-11-12 14:45:32",
+  "dateCreated": "2025-11-12 15:02:31",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -249,7 +249,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/ay1dHWVKdwSuRztnMd8oBpnxyIg.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/ay1dHWVKdwSuRztnMd8oBpnxyIg.jpg",
   
-  "datePublished": "2025-11-12 14:45:32",
+  "datePublished": "2025-11-12 15:02:31",
   "dateModified": "2025-11-11",
   "author": {
     "@type": "Organization",

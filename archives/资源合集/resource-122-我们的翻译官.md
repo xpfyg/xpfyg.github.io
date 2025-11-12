@@ -2,7 +2,7 @@
 title: 我们的翻译官 - 免费夸克网盘资源分享
 description: 我们的翻译官 - 翻译界“魔女”林西（宋茜 饰）重逢前任男友肖一成（陈星旭 饰）。八年前，林西（宋茜饰）为完成林母未完成的职业梦想，忍痛和肖一成（陈星旭饰）分手，成为联合国专业翻译。八年后，林西（宋茜饰）已经是华声最年轻的首席口译专家与“绩效女王”，而肖一成（陈星旭饰）也摇身一变成为语译天下的首席技术官——林西（宋茜。免费夸克网盘资源分享，在线观看下载。
 keywords: 我们的翻译官,剧集,夸克网盘,网盘资源,免费下载,在线观看,W 我们的翻译官（2024） 4K 纯净版 全36集完结,2024
-date: 2025-11-12 14:47:17
+date: 2025-11-12 15:02:33
 updated: 2025-11-04
 category: 剧集
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/16p4PjiOWmiZ26eviUsWQp9vCHZ.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《我们的翻译官》资源**](https://pan.quark.cn/s/fb2be67f9cc2)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/fb2be67f9cc2" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《我们的翻译官》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/16p4PjiOWmiZ26eviUsWQp9vCHZ.jpg
 
 <small>
 📝 页面ID: 122
-⏰ 生成时间: 2025-11-12 14:47:17
+⏰ 生成时间: 2025-11-12 15:02:33
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/16p4PjiOWmiZ26eviUsWQp9vCHZ.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-122-我们的翻译官.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:47:17",
+  "dateCreated": "2025-11-12 15:02:33",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/16p4PjiOWmiZ26eviUsWQp9vCHZ.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/16p4PjiOWmiZ26eviUsWQp9vCHZ.jpg",
   
-  "datePublished": "2025-11-12 14:47:17",
+  "datePublished": "2025-11-12 15:02:33",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

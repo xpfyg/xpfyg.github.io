@@ -2,7 +2,7 @@
 title: 漫长的季节 - 免费夸克网盘资源分享
 description: 漫长的季节 - 小城桦林，此时，出租司机王响做梦也没想到，他还有机会遇到一个他此生最想遇到，又最怕遇到的人。是仇人还是故人？遇到了，就得有交代，给自己，也给儿子。 小城桦林，彼时，火车司机王响意气风发，开的了二十挂的钢铁巨兽却管不好鸡毛蒜皮的三口小家，工厂摇摇欲坠，危机处处紧逼。 一包身份未明的碎尸像一块石头砸在桦。免费夸克网盘资源分享，在线观看下载。
 keywords: 漫长的季节,剧集,夸克网盘,网盘资源,免费下载,在线观看,漫长的季节（2023）4K 高码率 杜比视界 网飞版 全12集,2023
-date: 2025-11-12 14:47:45
+date: 2025-11-12 15:02:34
 updated: 2025-11-04
 category: 剧集
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/87cErEYmZ7FSX2gLjLQ5FO0tSbU.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《漫长的季节》资源**](https://pan.quark.cn/s/55a5b33bc797)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/55a5b33bc797" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《漫长的季节》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/87cErEYmZ7FSX2gLjLQ5FO0tSbU.jpg
 
 <small>
 📝 页面ID: 68
-⏰ 生成时间: 2025-11-12 14:47:45
+⏰ 生成时间: 2025-11-12 15:02:34
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/87cErEYmZ7FSX2gLjLQ5FO0tSbU.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-68-漫长的季节.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:47:45",
+  "dateCreated": "2025-11-12 15:02:34",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/87cErEYmZ7FSX2gLjLQ5FO0tSbU.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/87cErEYmZ7FSX2gLjLQ5FO0tSbU.jpg",
   
-  "datePublished": "2025-11-12 14:47:45",
+  "datePublished": "2025-11-12 15:02:34",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

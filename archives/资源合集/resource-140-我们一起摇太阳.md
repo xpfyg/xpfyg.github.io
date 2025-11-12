@@ -2,7 +2,7 @@
 title: 我们一起摇太阳 - 免费夸克网盘资源分享
 description: 我们一起摇太阳 - 当“没头脑”吕途（彭昱畅 饰）遇上“不高兴”凌敏（李庚希 饰），两个身患重症却性格迥异的年轻人，因为“生命接力”的约定，阴差阳错地踏上了一段充满爱与力量的治愈之旅。影片是韩延导演“生命三部曲”终章，部分取材于纪实报道文章《最功利的婚姻交易，最动情的永恒约定》。。免费夸克网盘资源分享，在线观看下载。
 keywords: 我们一起摇太阳,电影,夸克网盘,网盘资源,免费下载,在线观看,我@@们@@一@@起@摇@太@阳（2024）,2024
-date: 2025-11-12 14:47:08
+date: 2025-11-12 15:02:33
 updated: 2025-11-04
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/ia08FRXcH5GwjpohOFVCQdsvEB1.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《我们一起摇太阳》资源**](https://pan.quark.cn/s/6f5d9ecf48e6)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/6f5d9ecf48e6" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《我们一起摇太阳》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/ia08FRXcH5GwjpohOFVCQdsvEB1.jpg
 
 <small>
 📝 页面ID: 140
-⏰ 生成时间: 2025-11-12 14:47:08
+⏰ 生成时间: 2025-11-12 15:02:33
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/ia08FRXcH5GwjpohOFVCQdsvEB1.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-140-我们一起摇太阳.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:47:08",
+  "dateCreated": "2025-11-12 15:02:33",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/ia08FRXcH5GwjpohOFVCQdsvEB1.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/ia08FRXcH5GwjpohOFVCQdsvEB1.jpg",
   
-  "datePublished": "2025-11-12 14:47:08",
+  "datePublished": "2025-11-12 15:02:33",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

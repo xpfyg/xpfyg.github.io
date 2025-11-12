@@ -2,7 +2,7 @@
 title: 再见，李可乐 - 免费夸克网盘资源分享
 description: 再见，李可乐 - 为了完成女儿李妍（谭松韵 饰）高三前的小小心愿，父亲李博宇（吴京 饰）决心带着女儿远赴阿勒泰滑雪。却不料李博宇遭遇意外，全力抢救后仍陷入脑死亡的处境，让为妻为母的潘雁秋（闫妮 饰）做出了一个女人最艰难的决定。当家渐渐失温，一只名为可乐的小狗带着倔强闯入了她们的生活，成为母女争执的焦点，也成为苦乐烟火。免费夸克网盘资源分享，在线观看下载。
 keywords: 再见，李可乐,电影,夸克网盘,网盘资源,免费下载,在线观看, 再见，李可乐 (2023) 4K高码60帧 国语中字 DDP5.1,2023
-date: 2025-11-12 14:45:52
+date: 2025-11-12 15:02:31
 updated: 2025-11-06
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/1rbMt821oLlQRYOBH972CM19Vep.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《再见，李可乐》资源**](https://pan.quark.cn/s/b8c3206d2c75)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/b8c3206d2c75" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《再见，李可乐》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/1rbMt821oLlQRYOBH972CM19Vep.jpg
 
 <small>
 📝 页面ID: 191
-⏰ 生成时间: 2025-11-12 14:45:52
+⏰ 生成时间: 2025-11-12 15:02:31
 🔄 最后更新: 2025-11-06
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/1rbMt821oLlQRYOBH972CM19Vep.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-191-再见-李可乐.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-06",
-  "dateCreated": "2025-11-12 14:45:52",
+  "dateCreated": "2025-11-12 15:02:31",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/1rbMt821oLlQRYOBH972CM19Vep.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/1rbMt821oLlQRYOBH972CM19Vep.jpg",
   
-  "datePublished": "2025-11-12 14:45:52",
+  "datePublished": "2025-11-12 15:02:31",
   "dateModified": "2025-11-06",
   "author": {
     "@type": "Organization",

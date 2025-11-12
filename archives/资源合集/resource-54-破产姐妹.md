@@ -2,7 +2,7 @@
 title: 破产姐妹 - 免费夸克网盘资源分享
 description: 破产姐妹 - 在纽约市布鲁克林区，两个身份背景完全不同的都市女孩——Max 生在穷人家庭，而 Caroline 生在富人家庭。Caroline 家道中落，令她不得不去 Max 工作的饭店打工赚钱。两人商量着筹集 25 万美元资金来共同开创新事业。。免费夸克网盘资源分享，在线观看下载。
 keywords: 破产姐妹,剧集,夸克网盘,网盘资源,免费下载,在线观看,破产姐妹1-6季全 1080P（未删减）,2011
-date: 2025-11-12 14:47:49
+date: 2025-11-12 15:02:34
 updated: 2025-11-04
 category: 剧集
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/2AijlRFwcsvylAPbTGCe9kSpZIg.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《破产姐妹》资源**](https://pan.quark.cn/s/e08f34bc9948)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/e08f34bc9948" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《破产姐妹》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/2AijlRFwcsvylAPbTGCe9kSpZIg.jpg
 
 <small>
 📝 页面ID: 54
-⏰ 生成时间: 2025-11-12 14:47:49
+⏰ 生成时间: 2025-11-12 15:02:34
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/2AijlRFwcsvylAPbTGCe9kSpZIg.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-54-破产姐妹.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:47:49",
+  "dateCreated": "2025-11-12 15:02:34",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/2AijlRFwcsvylAPbTGCe9kSpZIg.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/2AijlRFwcsvylAPbTGCe9kSpZIg.jpg",
   
-  "datePublished": "2025-11-12 14:47:49",
+  "datePublished": "2025-11-12 15:02:34",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

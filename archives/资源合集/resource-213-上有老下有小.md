@@ -2,7 +2,7 @@
 title: 上有老下有小 - 免费夸克网盘资源分享
 description: 上有老下有小 - 打拼多年的优秀高中教师顾晓蒙和设计师丈夫吕翔终于购置了自己的蜗居，但也迎来名为度假实为来京看病的吕翔父母。与此同时，乌龙麻烦不断的顾晓蒙妈妈刘美琴和弟弟顾晓松也从苏州赶来。顾晓松为出国屡遭中介忽悠，卖了老家房子，把刘美琴抛给了顾晓蒙。三个老人一台戏。一家人闹得不可开交之际，顾晓蒙得知自己怀孕了，于是。免费夸克网盘资源分享，在线观看下载。
 keywords: 上有老下有小,剧集,夸克网盘,网盘资源,免费下载,在线观看,上有老下有小 4K高码率 [更新至18集],2024
-date: 2025-11-12 14:46:29
+date: 2025-11-12 15:02:32
 updated: 2025-11-04
 category: 剧集
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/noGpjQOt0BSgDTigmtOem9ORp9N.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《上有老下有小》资源**](https://pan.quark.cn/s/5f4c9d4a4ee3)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/5f4c9d4a4ee3" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《上有老下有小》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/noGpjQOt0BSgDTigmtOem9ORp9N.jpg
 
 <small>
 📝 页面ID: 213
-⏰ 生成时间: 2025-11-12 14:46:29
+⏰ 生成时间: 2025-11-12 15:02:32
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/noGpjQOt0BSgDTigmtOem9ORp9N.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-213-上有老下有小.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:46:29",
+  "dateCreated": "2025-11-12 15:02:32",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/noGpjQOt0BSgDTigmtOem9ORp9N.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/noGpjQOt0BSgDTigmtOem9ORp9N.jpg",
   
-  "datePublished": "2025-11-12 14:46:29",
+  "datePublished": "2025-11-12 15:02:32",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

@@ -2,7 +2,7 @@
 title: 误杀 - 免费夸克网盘资源分享
 description: 误杀 - 翻拍自印度神片《误杀瞒天计》。李维杰与妻子阿玉在泰国打拼 17 年，膝下育有两个女儿，年届四十的他靠开设网络公司为生，为人也颇得小镇居民的好感，而这一切美好却被突如其来的不速之客打破。这个充斥走私，贩毒活动的边陲小镇，各种权力交织碾压公平正义。李维杰的大女儿被督察长的儿子强暴，因反抗误杀对方。李维杰。免费夸克网盘资源分享，在线观看下载。
 keywords: 误杀,电影,夸克网盘,网盘资源,免费下载,在线观看,误杀 2部,2019
-date: 2025-11-12 14:47:32
+date: 2025-11-12 15:02:33
 updated: 2025-11-04
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/pTW12TjY9JySQDgZXwTAfL2NtXg.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《误杀》资源**](https://pan.quark.cn/s/20a763bde106)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/20a763bde106" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《误杀》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/pTW12TjY9JySQDgZXwTAfL2NtXg.jpg
 
 <small>
 📝 页面ID: 103
-⏰ 生成时间: 2025-11-12 14:47:32
+⏰ 生成时间: 2025-11-12 15:02:33
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/pTW12TjY9JySQDgZXwTAfL2NtXg.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-103-误杀.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:47:32",
+  "dateCreated": "2025-11-12 15:02:33",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/pTW12TjY9JySQDgZXwTAfL2NtXg.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/pTW12TjY9JySQDgZXwTAfL2NtXg.jpg",
   
-  "datePublished": "2025-11-12 14:47:32",
+  "datePublished": "2025-11-12 15:02:33",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

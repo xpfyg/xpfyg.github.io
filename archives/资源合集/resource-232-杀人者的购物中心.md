@@ -2,7 +2,7 @@
 title: 杀人者的购物中心 - 免费夸克网盘资源分享
 description: 杀人者的购物中心 - 智安的叔叔是她唯一的监护人，在叔叔突然过世后，智安发现他留下的可疑购物中心。她的叔叔是什么人？他在经营何种购物中心？在智安还不明白发生何事时，觊觎购物中心仓库的可疑顾客们便展开袭击！被独自留下的智安能否对抗他们，成功活命？。免费夸克网盘资源分享，在线观看下载。
 keywords: 杀人者的购物中心,剧集,夸克网盘,网盘资源,免费下载,在线观看,S 杀人者的购物中心 (2024) 4K HDR10 高码率 内封中字,2024
-date: 2025-11-12 14:46:28
+date: 2025-11-12 15:02:32
 updated: 2025-11-04
 category: 剧集
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/f6OF1W0NxGiqCKQjCkrlbJp7ted.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《杀人者的购物中心》资源**](https://pan.quark.cn/s/d922508b354b)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/d922508b354b" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《杀人者的购物中心》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/f6OF1W0NxGiqCKQjCkrlbJp7ted.jpg
 
 <small>
 📝 页面ID: 232
-⏰ 生成时间: 2025-11-12 14:46:28
+⏰ 生成时间: 2025-11-12 15:02:32
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/f6OF1W0NxGiqCKQjCkrlbJp7ted.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-232-杀人者的购物中心.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:46:28",
+  "dateCreated": "2025-11-12 15:02:32",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/f6OF1W0NxGiqCKQjCkrlbJp7ted.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/f6OF1W0NxGiqCKQjCkrlbJp7ted.jpg",
   
-  "datePublished": "2025-11-12 14:46:28",
+  "datePublished": "2025-11-12 15:02:32",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

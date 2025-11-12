@@ -2,7 +2,7 @@
 title: 黑洞频率 - 免费夸克网盘资源分享
 description: 黑洞频率 - 如果你能够回到过去改变你人生中的一件事情，会发生什么事情？对于约翰苏利万来说，这没有问题，他将阻止一件1969年10月12日发生的一场悲剧，使他的当年做消防员的父亲能够逃离那场火灾死神的魔掌。 那个时候，约翰还只是个6岁的孩子，他的父亲死去以后，他曾经几次梦见自己想要去阻止那场悲剧，父亲的死在他的心。免费夸克网盘资源分享，在线观看下载。
 keywords: 黑洞频率,电影,夸克网盘,网盘资源,免费下载,在线观看,《黑洞频率 》蓝光原盘REMUX 内封简英双语字幕,2000
-date: 2025-11-12 14:46:40
+date: 2025-11-12 15:02:32
 updated: 2025-11-04
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/oifmNcY2dC6CgRY12LJ0nndvdFf.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《黑洞频率》资源**](https://pan.quark.cn/s/ce4bd0ff45c3)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/ce4bd0ff45c3" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《黑洞频率》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/oifmNcY2dC6CgRY12LJ0nndvdFf.jpg
 
 <small>
 📝 页面ID: 184
-⏰ 生成时间: 2025-11-12 14:46:40
+⏰ 生成时间: 2025-11-12 15:02:32
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/oifmNcY2dC6CgRY12LJ0nndvdFf.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-184-黑洞频率.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:46:40",
+  "dateCreated": "2025-11-12 15:02:32",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/oifmNcY2dC6CgRY12LJ0nndvdFf.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/oifmNcY2dC6CgRY12LJ0nndvdFf.jpg",
   
-  "datePublished": "2025-11-12 14:46:40",
+  "datePublished": "2025-11-12 15:02:32",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

@@ -2,7 +2,7 @@
 title: 大雨 - 免费夸克网盘资源分享
 description: 大雨 - 　　沉没5年的戏鼓船，近期又离奇出现了，传言上有宝贝。馒头随父亲前来寻宝，不料父亲被船员抓走。馒头为救父上船，却发现里面别有洞天。在这里，馒头遇到了形形色色的“戏伶人”，并成为了好友。一次意外中，馒头却被告知，戏鼓船上却只有亡魂……。免费夸克网盘资源分享，在线观看下载。
 keywords: 大雨,电影,夸克网盘,网盘资源,免费下载,在线观看,大雨（2024）4K 高码率 杜比全景声 国语中字(1),2024
-date: 2025-11-12 14:46:53
+date: 2025-11-12 15:02:33
 updated: 2025-11-04
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/3CsivmtcjwMUvU0Mu7zZgnK9QaR.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《大雨》资源**](https://pan.quark.cn/s/0aa4f774554c)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/0aa4f774554c" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《大雨》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/3CsivmtcjwMUvU0Mu7zZgnK9QaR.jpg
 
 <small>
 📝 页面ID: 164
-⏰ 生成时间: 2025-11-12 14:46:53
+⏰ 生成时间: 2025-11-12 15:02:33
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/3CsivmtcjwMUvU0Mu7zZgnK9QaR.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-164-大雨.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:46:53",
+  "dateCreated": "2025-11-12 15:02:33",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/3CsivmtcjwMUvU0Mu7zZgnK9QaR.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/3CsivmtcjwMUvU0Mu7zZgnK9QaR.jpg",
   
-  "datePublished": "2025-11-12 14:46:53",
+  "datePublished": "2025-11-12 15:02:33",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

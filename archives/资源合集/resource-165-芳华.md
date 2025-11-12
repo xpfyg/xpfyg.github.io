@@ -2,7 +2,7 @@
 title: 芳华 - 免费夸克网盘资源分享
 description: 芳华 - 　　根据严歌苓同名小说改编，讲述了上世纪七十到八十年代充满理想和激情的军队文工团，一群正值芳华的青春少年，经历着成长中的爱情萌发与充斥变数的人生命运。乐于助人、质朴善良的刘峰（黄轩 饰），和从农村来，屡遭文工团女兵歧视与排斥的何小萍（苗苗 饰），“意外”离开了浪漫安逸的文工团，卷入了残酷的战争，在战。免费夸克网盘资源分享，在线观看下载。
 keywords: 芳华,电影,夸克网盘,网盘资源,免费下载,在线观看,芳华(2014) 4K 60FPS 高码率 国语中字 24.2G,2017
-date: 2025-11-12 14:46:52
+date: 2025-11-12 15:02:33
 updated: 2025-11-04
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/eNyruYDprsyo8qeAx5eJarMdMVG.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《芳华》资源**](https://pan.quark.cn/s/79b6a67f424e)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/79b6a67f424e" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《芳华》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/eNyruYDprsyo8qeAx5eJarMdMVG.jpg
 
 <small>
 📝 页面ID: 165
-⏰ 生成时间: 2025-11-12 14:46:52
+⏰ 生成时间: 2025-11-12 15:02:33
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/eNyruYDprsyo8qeAx5eJarMdMVG.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-165-芳华.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:46:52",
+  "dateCreated": "2025-11-12 15:02:33",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/eNyruYDprsyo8qeAx5eJarMdMVG.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/eNyruYDprsyo8qeAx5eJarMdMVG.jpg",
   
-  "datePublished": "2025-11-12 14:46:52",
+  "datePublished": "2025-11-12 15:02:33",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

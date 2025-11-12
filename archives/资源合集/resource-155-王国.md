@@ -2,7 +2,7 @@
 title: 王国 - 免费夸克网盘资源分享
 description: 王国 - 在一个充斥着贪腐和饥荒的王国中，关于国王死亡的神秘传闻沸沸扬扬，同时一场奇怪的瘟疫传播开来，感染者可获得不死之身并嗜食人肉。成为阴谋牺牲品的皇太子开始踏上揭露邪恶阴谋，拯救子民的征程。。免费夸克网盘资源分享，在线观看下载。
 keywords: 王国,剧集,夸克网盘,网盘资源,免费下载,在线观看,2019
-date: 2025-11-12 14:45:31
+date: 2025-11-12 15:02:31
 updated: 2025-11-11
 category: 剧集
 tags:
@@ -65,10 +65,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/lulV8umhLg4GxZabdm3AtV3WKME.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《王国》资源**](https://pan.quark.cn/s/094c74b40957)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/094c74b40957" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《王国》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -100,7 +100,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/lulV8umhLg4GxZabdm3AtV3WKME.jpg
 
 <small>
 📝 页面ID: 155
-⏰ 生成时间: 2025-11-12 14:45:31
+⏰ 生成时间: 2025-11-12 15:02:31
 🔄 最后更新: 2025-11-11
 </small>
 
@@ -171,7 +171,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/lulV8umhLg4GxZabdm3AtV3WKME.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-155-王国.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-11",
-  "dateCreated": "2025-11-12 14:45:31",
+  "dateCreated": "2025-11-12 15:02:31",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -249,7 +249,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/lulV8umhLg4GxZabdm3AtV3WKME.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/lulV8umhLg4GxZabdm3AtV3WKME.jpg",
   
-  "datePublished": "2025-11-12 14:45:31",
+  "datePublished": "2025-11-12 15:02:31",
   "dateModified": "2025-11-11",
   "author": {
     "@type": "Organization",

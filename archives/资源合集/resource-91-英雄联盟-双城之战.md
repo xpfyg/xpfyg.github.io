@@ -2,7 +2,7 @@
 title: 英雄联盟：双城之战 - 免费夸克网盘资源分享
 description: 英雄联盟：双城之战 - 本动画剧集以游戏《英雄联盟》为背景，讲述了在充满蒸汽朋克气息的乌托邦--皮尔特沃夫和由化学品驱动的地下城--祖安中，蔚和金克丝姐妹俩，在一场由神秘的海克斯科技引发的激烈冲突中站在了彼此的对立面，她们从此分道扬镳，朝着不同的命运终点走去，但心中的羁绊又无时不刻地让二人想要破镜重圆，而心怀正义的姐姐蔚也。免费夸克网盘资源分享，在线观看下载。
 keywords: 英雄联盟：双城之战,剧集,夸克网盘,网盘资源,免费下载,在线观看,英雄丨联盟：双丨城丨之丨战 第二季（奈飞）1080P 国英音轨 杜比全景声 内封简繁中字,2021
-date: 2025-11-12 14:47:41
+date: 2025-11-12 15:02:34
 updated: 2025-11-04
 category: 剧集
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/kvfrEnWVgNIBIVWDmxGALZv7mZW.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《英雄联盟：双城之战》资源**](https://pan.quark.cn/s/ee3822596fdf)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/ee3822596fdf" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《英雄联盟：双城之战》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/kvfrEnWVgNIBIVWDmxGALZv7mZW.jpg
 
 <small>
 📝 页面ID: 91
-⏰ 生成时间: 2025-11-12 14:47:41
+⏰ 生成时间: 2025-11-12 15:02:34
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/kvfrEnWVgNIBIVWDmxGALZv7mZW.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-91-英雄联盟-双城之战.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:47:41",
+  "dateCreated": "2025-11-12 15:02:34",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/kvfrEnWVgNIBIVWDmxGALZv7mZW.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/kvfrEnWVgNIBIVWDmxGALZv7mZW.jpg",
   
-  "datePublished": "2025-11-12 14:47:41",
+  "datePublished": "2025-11-12 15:02:34",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

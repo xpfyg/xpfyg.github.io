@@ -2,7 +2,7 @@
 title: 2012世界末日 - 免费夸克网盘资源分享
 description: 2012世界末日 - 2012年12月21日，在这次史无前例的灾难中，四个素不相识的人踏上了探寻墨西哥古代玛雅神庙的征程，因为据玛雅神庙记载，玛雅人最后的记录时间就是2012年。对于美国宇航局的科学家来讲，也许是洪水暴发，两极交替，对我们来说，那就是世界末日..。免费夸克网盘资源分享，在线观看下载。
 keywords: 2012世界末日,电影,夸克网盘,网盘资源,免费下载,在线观看,2012 世界末日 4K原盘REMUX 国英双音 内封字幕,2008
-date: 2025-11-12 14:47:25
+date: 2025-11-12 15:02:33
 updated: 2025-11-04
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/7dKNdXMRqpOMr8ZBONfYuLdQ8aI.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《2012世界末日》资源**](https://pan.quark.cn/s/210e21f9bd5a)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/210e21f9bd5a" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《2012世界末日》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/7dKNdXMRqpOMr8ZBONfYuLdQ8aI.jpg
 
 <small>
 📝 页面ID: 112
-⏰ 生成时间: 2025-11-12 14:47:25
+⏰ 生成时间: 2025-11-12 15:02:33
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/7dKNdXMRqpOMr8ZBONfYuLdQ8aI.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-112-2012世界末日.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:47:25",
+  "dateCreated": "2025-11-12 15:02:33",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/7dKNdXMRqpOMr8ZBONfYuLdQ8aI.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/7dKNdXMRqpOMr8ZBONfYuLdQ8aI.jpg",
   
-  "datePublished": "2025-11-12 14:47:25",
+  "datePublished": "2025-11-12 15:02:33",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

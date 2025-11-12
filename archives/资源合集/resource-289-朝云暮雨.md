@@ -2,7 +2,7 @@
 title: 朝云暮雨 - 免费夸克网盘资源分享
 description: 朝云暮雨 - 影片改编自真实故事《穿婚纱的杀人少女》。刑满释放人员老秦（范伟 饰）服刑30年后出狱，只想娶妻生子，开启新的人生，却意外结识同样刚出狱的女孩常娟（周冬雨 饰）。他求子，她求财，“同是天涯沦落人”的两人开始了一段各怀目的的利益婚姻。。免费夸克网盘资源分享，在线观看下载。
 keywords: 朝云暮雨,电影,夸克网盘,网盘资源,免费下载,在线观看,@朝@云&暮@雨（2024）,2024
-date: 2025-11-12 14:46:10
+date: 2025-11-12 15:02:31
 updated: 2025-11-05
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/6lI00yq52IxGUbL1Szpooqw6bCP.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《朝云暮雨》资源**](https://pan.quark.cn/s/ef1f5579d574)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/ef1f5579d574" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《朝云暮雨》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/6lI00yq52IxGUbL1Szpooqw6bCP.jpg
 
 <small>
 📝 页面ID: 289
-⏰ 生成时间: 2025-11-12 14:46:10
+⏰ 生成时间: 2025-11-12 15:02:31
 🔄 最后更新: 2025-11-05
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/6lI00yq52IxGUbL1Szpooqw6bCP.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-289-朝云暮雨.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-05",
-  "dateCreated": "2025-11-12 14:46:10",
+  "dateCreated": "2025-11-12 15:02:31",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/6lI00yq52IxGUbL1Szpooqw6bCP.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/6lI00yq52IxGUbL1Szpooqw6bCP.jpg",
   
-  "datePublished": "2025-11-12 14:46:10",
+  "datePublished": "2025-11-12 15:02:31",
   "dateModified": "2025-11-05",
   "author": {
     "@type": "Organization",

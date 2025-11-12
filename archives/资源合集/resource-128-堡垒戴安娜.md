@@ -2,7 +2,7 @@
 title: 堡垒戴安娜 - 免费夸克网盘资源分享
 description: 堡垒戴安娜 - 故事设定在2030年的米兰，就在八年前，全球独立间谍机构“堡垒”被强大的敌对组织“曼提柯尔”摧毁，这个组织在暗中操控着世界。从那时起，作为“堡垒”潜伏特工的戴安娜·卡瓦列里一直孤身一人在敌后，作为内奸潜伏于“曼提柯尔”内部。当戴安娜终于看到脱身的机会并渴望永远消失时，她唯一的选择是信任最出乎意料的盟。免费夸克网盘资源分享，在线观看下载。
 keywords: 堡垒戴安娜,剧集,夸克网盘,网盘资源,免费下载,在线观看,堡垒 戴安娜 Citadel  Diana (2024),堡垒：戴安娜,2024
-date: 2025-11-12 14:47:14
+date: 2025-11-12 15:02:33
 updated: 2025-11-04
 category: 剧集
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/3iYf2GHc2jA6eBH2gMXXVJIKGt0.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《堡垒戴安娜》资源**](https://pan.quark.cn/s/9125c263a6b6)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/9125c263a6b6" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《堡垒戴安娜》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/3iYf2GHc2jA6eBH2gMXXVJIKGt0.jpg
 
 <small>
 📝 页面ID: 128
-⏰ 生成时间: 2025-11-12 14:47:14
+⏰ 生成时间: 2025-11-12 15:02:33
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/3iYf2GHc2jA6eBH2gMXXVJIKGt0.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-128-堡垒戴安娜.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:47:14",
+  "dateCreated": "2025-11-12 15:02:33",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/3iYf2GHc2jA6eBH2gMXXVJIKGt0.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/3iYf2GHc2jA6eBH2gMXXVJIKGt0.jpg",
   
-  "datePublished": "2025-11-12 14:47:14",
+  "datePublished": "2025-11-12 15:02:33",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

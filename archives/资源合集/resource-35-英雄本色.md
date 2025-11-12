@@ -2,7 +2,7 @@
 title: 英雄本色 - 免费夸克网盘资源分享
 description: 英雄本色 - 香港某个国际伪钞集团重要分子宋子豪（狄龙）和Mark（周润发）情同手足，某次宋子豪带手下谭成（李子雄）去台北交易时被其出卖受枪伤被捕入狱，为替好兄弟报仇，Mark孤身赴台，结果被人打成瘸子，江湖地位自此一落千丈，而宋子豪的父亲也在不久丧命。一向视宋子豪为偶像的宋子杰得知哥哥的真实身份后，对黑社会及他。免费夸克网盘资源分享，在线观看下载。
 keywords: 英雄本色,电影,夸克网盘,网盘资源,免费下载,在线观看,英雄本色 4K REMUX 杜比视界 国粤双音,1986
-date: 2025-11-12 14:47:54
+date: 2025-11-12 15:02:34
 updated: 2025-11-04
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/1RTWLPe76I5UoNgT5k9VmIQMAij.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《英雄本色》资源**](https://pan.quark.cn/s/9206f0287610)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/9206f0287610" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《英雄本色》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/1RTWLPe76I5UoNgT5k9VmIQMAij.jpg
 
 <small>
 📝 页面ID: 35
-⏰ 生成时间: 2025-11-12 14:47:54
+⏰ 生成时间: 2025-11-12 15:02:34
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/1RTWLPe76I5UoNgT5k9VmIQMAij.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-35-英雄本色.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:47:54",
+  "dateCreated": "2025-11-12 15:02:34",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/1RTWLPe76I5UoNgT5k9VmIQMAij.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/1RTWLPe76I5UoNgT5k9VmIQMAij.jpg",
   
-  "datePublished": "2025-11-12 14:47:54",
+  "datePublished": "2025-11-12 15:02:34",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

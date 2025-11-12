@@ -2,7 +2,7 @@
 title: 短剧 - 免费夸克网盘资源分享
 description: 短剧 - 《开播！短剧季》为国内首档“微短剧+综艺”创新真人秀。本季结合微短剧的生态特色，集结《杜拉拉升职记》《聊斋》《离婚律师》《终极一班》《重返 18 岁之我是宁静》《包拯与公孙策》六大经典爆款知名剧目 IP，首度开启“综艺+短剧”的全新形式。总监制宁静、监制张萌、监制苏可强势加盟，20 余位演员共同加入。免费夸克网盘资源分享，在线观看下载。
 keywords: 短剧,剧集,夸克网盘,网盘资源,免费下载,在线观看,开播！短剧季,2024
-date: 2025-11-12 14:47:50
+date: 2025-11-12 15:02:34
 updated: 2025-11-04
 category: 剧集
 tags:
@@ -65,10 +65,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/mjYqjTdP7ufMDCTfkASs0D4XUlL.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《短剧》资源**](https://pan.quark.cn/s/04c9e0805c2e)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/04c9e0805c2e" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《短剧》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -100,7 +100,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/mjYqjTdP7ufMDCTfkASs0D4XUlL.jpg
 
 <small>
 📝 页面ID: 50
-⏰ 生成时间: 2025-11-12 14:47:50
+⏰ 生成时间: 2025-11-12 15:02:34
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -171,7 +171,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/mjYqjTdP7ufMDCTfkASs0D4XUlL.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-50-短剧.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:47:50",
+  "dateCreated": "2025-11-12 15:02:34",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -249,7 +249,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/mjYqjTdP7ufMDCTfkASs0D4XUlL.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/mjYqjTdP7ufMDCTfkASs0D4XUlL.jpg",
   
-  "datePublished": "2025-11-12 14:47:50",
+  "datePublished": "2025-11-12 15:02:34",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

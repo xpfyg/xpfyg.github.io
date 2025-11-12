@@ -2,7 +2,7 @@
 title: 长乐曲 - 免费夸克网盘资源分享
 description: 长乐曲 - 朱府庶女朱颜自幼师承刑部大狱督司，习得一身断案本领，能通过蛛丝马迹找出藏在物证中的答案。朱颜考入刑部成为一名女官，立志查明真凶、伸张正义。然而因三姐逃了太皇太后的赐婚，为保全家人，朱颜不得不替姐出嫁，和内卫府大阁领陆离成婚。京中离奇案件频发，朱颜和陆离携手先后破获多起悬案，两人的感情也在案件破获过程。免费夸克网盘资源分享，在线观看下载。
 keywords: 长乐曲,剧集,夸克网盘,网盘资源,免费下载,在线观看,长｜乐｜曲 (2024),2024
-date: 2025-11-12 14:46:38
+date: 2025-11-12 15:02:32
 updated: 2025-11-04
 category: 剧集
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/hHrdhahkA7vImvSN1XYfRHUg7ia.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《长乐曲》资源**](https://pan.quark.cn/s/c3139dd59ac2)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/c3139dd59ac2" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《长乐曲》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/hHrdhahkA7vImvSN1XYfRHUg7ia.jpg
 
 <small>
 📝 页面ID: 189
-⏰ 生成时间: 2025-11-12 14:46:38
+⏰ 生成时间: 2025-11-12 15:02:32
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/hHrdhahkA7vImvSN1XYfRHUg7ia.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-189-长乐曲.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:46:38",
+  "dateCreated": "2025-11-12 15:02:32",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/hHrdhahkA7vImvSN1XYfRHUg7ia.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/hHrdhahkA7vImvSN1XYfRHUg7ia.jpg",
   
-  "datePublished": "2025-11-12 14:46:38",
+  "datePublished": "2025-11-12 15:02:32",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

@@ -2,7 +2,7 @@
 title: 赌神 - 免费夸克网盘资源分享
 description: 赌神 - 高进（周润发 饰）前来香港与赌魔决斗，怎料刚抵港，便被南哥（杨泽霖 饰）追杀，结果堕入陷阱而失忆。幸得刀仔（刘德华 饰）和其女友珍（王祖贤 饰）相救，他们把高进带回家中疗养，发现高进精通赌术后，兴奋不已，想利用他来挣大钱，却反而因为高进发挥不稳亏了钱。高进妻子遭其堂弟高义醉酒后污辱杀害。高义进而联手。免费夸克网盘资源分享，在线观看下载。
 keywords: 赌神,电影,夸克网盘,网盘资源,免费下载,在线观看,赌神 (1989) 4K 60FPS 高码率 内嵌中字,1989
-date: 2025-11-12 14:46:16
+date: 2025-11-12 15:02:32
 updated: 2025-11-05
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/5As7IerhxggE2FELBfBlldq3tD4.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《赌神》资源**](https://pan.quark.cn/s/2a04eefbe8c0)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/2a04eefbe8c0" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《赌神》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/5As7IerhxggE2FELBfBlldq3tD4.jpg
 
 <small>
 📝 页面ID: 252
-⏰ 生成时间: 2025-11-12 14:46:16
+⏰ 生成时间: 2025-11-12 15:02:32
 🔄 最后更新: 2025-11-05
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/5As7IerhxggE2FELBfBlldq3tD4.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-252-赌神.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-05",
-  "dateCreated": "2025-11-12 14:46:16",
+  "dateCreated": "2025-11-12 15:02:32",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/5As7IerhxggE2FELBfBlldq3tD4.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/5As7IerhxggE2FELBfBlldq3tD4.jpg",
   
-  "datePublished": "2025-11-12 14:46:16",
+  "datePublished": "2025-11-12 15:02:32",
   "dateModified": "2025-11-05",
   "author": {
     "@type": "Organization",

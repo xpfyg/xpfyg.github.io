@@ -2,7 +2,7 @@
 title: 最后生还者 - 免费夸克网盘资源分享
 description: 最后生还者 - 在现代文明被摧毁的二十年后，人类因现代传染病而面临绝种危机，幸存的人类为了生存自相残杀。中年男性走私犯乔尔（佩德罗·帕斯卡饰）为了完成“火萤”组织首领玛琳（梅尔·丹德里奇饰）的托付，带着14岁少女艾莉（贝拉·拉姆齐饰）一同踏出由军队保护的疫情隔离区，穿越化为废墟丛林的大都会。面对病毒感染变种人类与其。免费夸克网盘资源分享，在线观看下载。
 keywords: 最后生还者,剧集,夸克网盘,网盘资源,免费下载,在线观看,最后生还者 一二季（2025）4K HDR 杜比视界 杜比全景声 内封简繁中文字幕 ,2023
-date: 2025-11-12 14:47:42
+date: 2025-11-12 15:02:34
 updated: 2025-11-04
 category: 剧集
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/ydyTjqxZsPlcFSTBNY2INYrmEvk.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《最后生还者》资源**](https://pan.quark.cn/s/d2d58f766b4e)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/d2d58f766b4e" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《最后生还者》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/ydyTjqxZsPlcFSTBNY2INYrmEvk.jpg
 
 <small>
 📝 页面ID: 84
-⏰ 生成时间: 2025-11-12 14:47:42
+⏰ 生成时间: 2025-11-12 15:02:34
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/ydyTjqxZsPlcFSTBNY2INYrmEvk.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-84-最后生还者.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:47:42",
+  "dateCreated": "2025-11-12 15:02:34",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/ydyTjqxZsPlcFSTBNY2INYrmEvk.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/ydyTjqxZsPlcFSTBNY2INYrmEvk.jpg",
   
-  "datePublished": "2025-11-12 14:47:42",
+  "datePublished": "2025-11-12 15:02:34",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",

@@ -2,7 +2,7 @@
 title: 原罪 - 免费夸克网盘资源分享
 description: 原罪 - 故事发生在十九世纪末多姿多采的古巴，腰缠万贯的咖啡业大亨路易斯（安东尼奥·班德拉斯）决定要迎娶与他素未谋面的邮购新娘——美国女子茱莉亚（安吉丽娜·朱丽）。当他第一次在码头见到她时，已经被她的美貌所深深的吸引，但谁也不知道他娶回来的老婆是个外表妖艳、满肚子阴谋的坏女人。 婚后的生活看似很美满，正当他。免费夸克网盘资源分享，在线观看下载。
 keywords: 原罪,电影,夸克网盘,网盘资源,免费下载,在线观看,Y 原罪（2024） 4K EDR 高码率 更新中 ,2001
-date: 2025-11-12 14:47:21
+date: 2025-11-12 15:02:33
 updated: 2025-11-04
 category: 电影
 tags:
@@ -67,10 +67,10 @@ twitter:image: https://image.tmdb.org/t/p/w500/q68ktFq552TUn7Ofl23t3M5yaT8.jpg
 
 ### 🔗 下载链接
 
-<div class="download-button">
-
-[**🔗 立即获取《原罪》资源**](https://pan.quark.cn/s/c545e369f47d)
-
+<div class="download-section" style="text-align: center; margin: 20px 0;">
+  <a href="https://pan.quark.cn/s/c545e369f47d" class="download-btn" style="display: inline-block; padding: 15px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">
+    🔗 立即获取《原罪》资源
+  </a>
 </div>
 
 > ⚠️ **使用说明**：
@@ -102,7 +102,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/q68ktFq552TUn7Ofl23t3M5yaT8.jpg
 
 <small>
 📝 页面ID: 113
-⏰ 生成时间: 2025-11-12 14:47:21
+⏰ 生成时间: 2025-11-12 15:02:33
 🔄 最后更新: 2025-11-04
 </small>
 
@@ -173,7 +173,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/q68ktFq552TUn7Ofl23t3M5yaT8.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-113-原罪.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-04",
-  "dateCreated": "2025-11-12 14:47:21",
+  "dateCreated": "2025-11-12 15:02:33",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -251,7 +251,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/q68ktFq552TUn7Ofl23t3M5yaT8.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/q68ktFq552TUn7Ofl23t3M5yaT8.jpg",
   
-  "datePublished": "2025-11-12 14:47:21",
+  "datePublished": "2025-11-12 15:02:33",
   "dateModified": "2025-11-04",
   "author": {
     "@type": "Organization",
