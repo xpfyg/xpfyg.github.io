@@ -1,37 +1,63 @@
 ---
-layout: default
 title: 傲慢与偏见 - 免费夸克网盘资源分享
 description: 傲慢与偏见 - 根据简·奥斯汀同名小说改编。伊丽莎白·班纳特(凯拉·奈特丽 饰)出身于小地主家庭，有四个姐妹，母亲班纳特太太整天操心着为女儿物色称心如意的丈夫。新来的邻居宾格来先生和他的朋友达西（马修·麦克菲迪恩 饰）打破了她们一家人单调的乡村生活。宾格来和伊丽莎白的姐姐简·班纳特互生情愫；达西对善良聪明的伊丽莎白。免费夸克网盘资源分享，在线观看下载。
 keywords: 傲慢与偏见,电影,夸克网盘,网盘资源,免费下载,在线观看,傲慢与偏见 蓝光原盘REMUX 国英双音 内封字幕,2005
+date: 2025-11-12 14:47:19
+updated: 2025-11-04
 category: 电影
+tags:
+  - 电影
+  - 夸克网盘
+  - 网盘资源
+author: 资源分享站
+robots: index, follow
+canonical: https://xpfyg.github.io/archives/资源合集/resource-118-傲慢与偏见.html
+og:title: 傲慢与偏见 - 免费夸克网盘资源分享
+og:description: 傲慢与偏见 - 根据简·奥斯汀同名小说改编。伊丽莎白·班纳特(凯拉·奈特丽 饰)出身于小地主家庭，有四个姐妹，母亲班纳特太太整天操心着为女儿物色称心如意的丈夫。新来的邻居宾格来先生和他的朋友达西（马修·麦克菲迪恩 饰）打破了她们一家人单调的乡村生活。宾格来和伊丽莎白的姐姐简·班纳特互生情愫；达西对善良聪明的伊丽莎白。免费夸克网盘资源分享，在线观看下载。
+og:type: article
+og:url: https://xpfyg.github.io/archives/资源合集/resource-118-傲慢与偏见.html
+og:site_name: 资源分享站
+
+og:image: https://image.tmdb.org/t/p/w500/2RD0e28s7IFPbxWkBUaPfvwcdWB.jpg
+og:image:width: 500
+og:image:height: 750
+og:image:alt: 傲慢与偏见海报
+
+twitter:card: summary_large_image
+twitter:title: 傲慢与偏见 - 免费夸克网盘资源分享
+twitter:description: 傲慢与偏见 - 根据简·奥斯汀同名小说改编。伊丽莎白·班纳特(凯拉·奈特丽 饰)出身于小地主家庭，有四个姐妹，母亲班纳特太太整天操心着为女儿物色称心如意的丈夫。新来的邻居宾格来先生和他的朋友达西（马修·麦克菲迪恩 饰）打破了她们一家人单调的乡村生活。宾格来和伊丽莎白的姐姐简·班纳特互生情愫；达西对善良聪明的伊丽莎白。免费夸克网盘资源分享，在线观看下载。
+
+twitter:image: https://image.tmdb.org/t/p/w500/2RD0e28s7IFPbxWkBUaPfvwcdWB.jpg
+
 ---
 
 # 傲慢与偏见 - 免费夸克网盘资源分享
 
-> 更新时间：2025-11-04
-> 分类：影视资源 / 电影
-> 网盘类型：夸克网盘
-> 浏览次数：0
-> 分享次数：0
+> 📅 更新时间：2025-11-04
+> 📁 分类：影视资源 / 电影
+> ☁️ 网盘：夸克网盘
+> 👁️ 浏览：0 次 | 👆 点击：0 次
 
-## 资源信息
-
-
-### 影视详情
-
-**片名**：傲慢与偏见
-**年份**：2005
-**评分**：⭐ 8.0/10
-**简介**：根据简·奥斯汀同名小说改编。伊丽莎白·班纳特(凯拉·奈特丽 饰)出身于小地主家庭，有四个姐妹，母亲班纳特太太整天操心着为女儿物色称心如意的丈夫。新来的邻居宾格来先生和他的朋友达西（马修·麦克菲迪恩 饰）打破了她们一家人单调的乡村生活。宾格来和伊丽莎白的姐姐简·班纳特互生情愫；达西对善良聪明的伊丽莎白产生了好感，而伊丽莎白却对达西不可一世的傲慢心存偏见，不接受他的感情。然而，世事难料，宾格来和简·班纳特因为误会，关系危在旦夕；达西的种种作为，展示了性格中和伊丽莎白相同的善良一面，逐渐赢得了伊丽莎白的好感。两对有情人能否终成眷属？班纳特姐妹们能否得到自己想要的生活？ 简·奥斯汀笔下十九世纪初英国乡村生活和社会风貌，重新展现在大银幕上。
-
-<div class="movie-info">
-  
-  <img src="https://image.tmdb.org/t/p/w500/2RD0e28s7IFPbxWkBUaPfvwcdWB.jpg" alt="傲慢与偏见" class="poster" />
-  
-</div>
+## 📋 资源信息
 
 
-## 资源链接
+### 🎬 影视详情
+
+- **片名**：傲慢与偏见
+- **年份**：2005
+- **类型**：剧情、爱情
+
+- **评分**：⭐ 6.0/10
+
+- **简介**：根据简·奥斯汀同名小说改编。伊丽莎白·班纳特(凯拉·奈特丽 饰)出身于小地主家庭，有四个姐妹，母亲班纳特太太整天操心着为女儿物色称心如意的丈夫。新来的邻居宾格来先生和他的朋友达西（马修·麦克菲迪恩 饰）打破了她们一家人单调的乡村生活。宾格来和伊丽莎白的姐姐简·班纳特互生情愫；达西对善良聪明的伊丽莎白产生了好感，而伊丽莎白却对达西不可一世的傲慢心存偏见，不接受他的感情。然而，世事难料，宾格来和简·班纳特因为误会，关系危在旦夕；达西的种种作为，展示了性格中和伊丽莎白相同的善良一面，逐渐赢得了伊丽莎白的好感。两对有情人能否终成眷属？班纳特姐妹们能否得到自己想要的生活？ 简·奥斯汀笔下十九世纪初英国乡村生活和社会风貌，重新展现在大银幕上。
+
+
+![傲慢与偏见](https://image.tmdb.org/t/p/w500/2RD0e28s7IFPbxWkBUaPfvwcdWB.jpg "傲慢与偏见海报")
+
+
+
+
+## 📥 获取资源
 
 **资源名称**：傲慢与偏见
 
@@ -39,50 +65,209 @@ category: 电影
 
 
 
-### 获取方式
+### 🔗 下载链接
 
-<div class="download-section">
-  <a href="https://pan.quark.cn/s/7451abb29d88" class="download-btn" onclick="trackClick(118)">
-    🔗 点击获取资源
-  </a>
+<div class="download-button">
+
+[**🔗 立即获取《傲慢与偏见》资源**](https://pan.quark.cn/s/7451abb29d88)
+
 </div>
 
-> ⚠️ 提示：本站无需关注或注册，直接点击链接即可跳转到网盘页面下载资源
+> ⚠️ **使用说明**：
+> 1. 点击上方按钮跳转到网盘分享页面
+> 2. 本站无需关注或注册，完全免费
+> 3. 如遇到链接失效，请联系站长更新
 
-## 相关推荐
+## 🔍 相关推荐
 
 
-- [熊出没·逆转时空](/resources/resource-251-熊出没-逆转时空.html) - 电影
 
-- [午夜巴塞罗那](/resources/resource-255-午夜巴塞罗那.html) - 电影
+- [熊出没·逆转时空](/archives/资源合集/resource-251-熊出没-逆转时空.html) - 电影
 
-- [银河写手](/resources/resource-253-银河写手.html) - 电影
+- [午夜巴塞罗那](/archives/资源合集/resource-255-午夜巴塞罗那.html) - 电影
 
-- [赌神](/resources/resource-252-赌神.html) - 电影
+- [银河写手](/archives/资源合集/resource-253-银河写手.html) - 电影
 
-- [目中无人](/resources/resource-246-目中无人.html) - 电影
+- [赌神](/archives/资源合集/resource-252-赌神.html) - 电影
 
+- [目中无人](/archives/资源合集/resource-246-目中无人.html) - 电影
+
+
+
+## 📊 资源标签
+
+#电影 #夸克网盘 #网盘资源 #在线观看 #免费下载
 
 ---
 
-<div class="stats-info">
-  <small>
-    本页面浏览：<span id="page-views">0</span> 次
-    资源点击：<span id="click-count">0</span> 次
-  </small>
-</div>
+<small>
+📝 页面ID: 118
+⏰ 生成时间: 2025-11-12 14:47:19
+🔄 最后更新: 2025-11-04
+</small>
 
-<script>
-function trackClick(resourceId) {
-  fetch('/api/track_click/' + resourceId, {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json'
+<!-- 面包屑导航结构化数据 -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "首页",
+      "item": "https://xpfyg.github.io"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "影视资源",
+      "item": "https://xpfyg.github.io/category/影视资源"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "电影",
+      "item": "https://xpfyg.github.io/category/电影"
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "name": "傲慢与偏见",
+      "item": "https://xpfyg.github.io/archives/资源合集/resource-118-傲慢与偏见.html"
     }
-  }).then(response => {
-    if (response.ok) {
-      document.getElementById('click-count').textContent = parseInt(document.getElementById('click-count').textContent) + 1;
+  ]
+}
+</script>
+
+<!-- 主要内容结构化数据 -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MediaObject",
+  "name": "傲慢与偏见",
+  "headline": "傲慢与偏见 - 免费夸克网盘资源分享",
+  "description": "傲慢与偏见 - 根据简·奥斯汀同名小说改编。伊丽莎白·班纳特(凯拉·奈特丽 饰)出身于小地主家庭，有四个姐妹，母亲班纳特太太整天操心着为女儿物色称心如意的丈夫。新来的邻居宾格来先生和他的朋友达西（马修·麦克菲迪恩 饰）打破了她们一家人单调的乡村生活。宾格来和伊丽莎白的姐姐简·班纳特互生情愫；达西对善良聪明的伊丽莎白。免费夸克网盘资源分享，在线观看下载。",
+  
+  
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://image.tmdb.org/t/p/w500/2RD0e28s7IFPbxWkBUaPfvwcdWB.jpg",
+    "width": 500,
+    "height": 750
+  },
+  
+  
+  
+  
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "6.0",
+    "bestRating": "10",
+    "worstRating": "0",
+    "ratingCount": "0"
+  },
+  
+  "genre": "剧情、爱情",
+  
+  "url": "https://xpfyg.github.io/archives/资源合集/resource-118-傲慢与偏见.html",
+  "inLanguage": "zh-CN",
+  "dateModified": "2025-11-04",
+  "dateCreated": "2025-11-12 14:47:19",
+  "author": {
+    "@type": "Organization",
+    "name": "资源分享站",
+    "url": "https://xpfyg.github.io"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "资源分享站",
+    "url": "https://xpfyg.github.io"
+  },
+  "provider": {
+    "@type": "Organization",
+    "name": "资源分享站"
+  },
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "CNY",
+    "availability": "https://schema.org/InStock",
+    "priceValidUntil": "2099-12-31",
+    "url": "https://pan.quark.cn/s/7451abb29d88"
+  },
+  "potentialAction": {
+    "@type": "WatchAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://pan.quark.cn/s/7451abb29d88",
+      "actionPlatform": [
+        "http://schema.org/DesktopWebPlatform",
+        "http://schema.org/MobileWebPlatform"
+      ]
     }
-  });
+  },
+  "interactionStatistic": [
+    {
+      "@type": "InteractionCounter",
+      "interactionType": "https://schema.org/ViewAction",
+      "userInteractionCount": 0
+    },
+    {
+      "@type": "InteractionCounter",
+      "interactionType": "https://schema.org/ShareAction",
+      "userInteractionCount": 0
+    }
+  ]
+}
+</script>
+
+<!-- 网站信息结构化数据 -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "资源分享站",
+  "url": "https://xpfyg.github.io",
+  "description": "免费网盘资源分享平台，提供电影等各类资源",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://xpfyg.github.io/search?q={search_term_string}"
+    },
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+
+<!-- 文章/内容结构化数据 -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "傲慢与偏见 - 免费夸克网盘资源分享",
+  "description": "傲慢与偏见 - 根据简·奥斯汀同名小说改编。伊丽莎白·班纳特(凯拉·奈特丽 饰)出身于小地主家庭，有四个姐妹，母亲班纳特太太整天操心着为女儿物色称心如意的丈夫。新来的邻居宾格来先生和他的朋友达西（马修·麦克菲迪恩 饰）打破了她们一家人单调的乡村生活。宾格来和伊丽莎白的姐姐简·班纳特互生情愫；达西对善良聪明的伊丽莎白。免费夸克网盘资源分享，在线观看下载。",
+  
+  "image": "https://image.tmdb.org/t/p/w500/2RD0e28s7IFPbxWkBUaPfvwcdWB.jpg",
+  
+  "datePublished": "2025-11-12 14:47:19",
+  "dateModified": "2025-11-04",
+  "author": {
+    "@type": "Organization",
+    "name": "资源分享站"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "资源分享站",
+    "url": "https://xpfyg.github.io"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://xpfyg.github.io/archives/资源合集/resource-118-傲慢与偏见.html"
+  },
+  "keywords": "傲慢与偏见,电影,夸克网盘,网盘资源,免费下载,在线观看,傲慢与偏见 蓝光原盘REMUX 国英双音 内封字幕,2005",
+  "articleSection": "电影",
+  "wordCount": 502
 }
 </script>
