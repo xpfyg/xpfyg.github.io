@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 杀破狼 贪狼 4K原盘REMUX 国粤双音 内封字幕
+title: 杀破狼 贪狼
 description: 电影 - 杀破狼 贪狼
 keywords: 杀破狼 贪狼,电影,夸克网盘
 category: 电影
 ---
 
-# 杀破狼 贪狼 4K原盘REMUX 国粤双音 内封字幕
+# 杀破狼 贪狼
 
 > 更新时间：2025-11-04
 > 分类：影视资源 / 电影

@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 暴君2024
+title: 暴君
 description: 剧集 - 暴君
 keywords: 暴君,剧集,夸克网盘
 category: 剧集
 ---
 
-# 暴君2024
+# 暴君
 
 > 更新时间：2025-11-05
 > 分类：影视资源 / 剧集

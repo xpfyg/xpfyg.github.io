@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Y 原罪（2024） 4K EDR 高码率 更新中 
+title: 原罪
 description: 电影 - 原罪
 keywords: 原罪,电影,夸克网盘
 category: 电影
 ---
 
-# Y 原罪（2024） 4K EDR 高码率 更新中 
+# 原罪
 
 > 更新时间：2025-11-04
 > 分类：影视资源 / 电影

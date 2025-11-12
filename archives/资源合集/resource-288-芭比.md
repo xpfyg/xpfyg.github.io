@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 芭比.2160p.
+title: 芭比
 description: 电影 - 芭比
 keywords: 芭比,电影,夸克网盘
 category: 电影
 ---
 
-# 芭比.2160p.
+# 芭比
 
 > 更新时间：2025-11-06
 > 分类：影视资源 / 电影

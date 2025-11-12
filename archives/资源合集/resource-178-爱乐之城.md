@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 爱乐之城（2016）4K HDR.2160p.BluRay 英语全景声 特效字幕
+title: 爱乐之城
 description: 电影 - 爱乐之城
 keywords: 爱乐之城,电影,夸克网盘
 category: 电影
 ---
 
-# 爱乐之城（2016）4K HDR.2160p.BluRay 英语全景声 特效字幕
+# 爱乐之城
 
 > 更新时间：2025-11-04
 > 分类：影视资源 / 电影

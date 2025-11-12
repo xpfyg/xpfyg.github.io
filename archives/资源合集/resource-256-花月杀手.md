@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 花月杀手（2023） 【4k.BluRay.Remux】
+title: 花月杀手
 description: 电影 - 花月杀手
 keywords: 花月杀手,电影,夸克网盘
 category: 电影
 ---
 
-# 花月杀手（2023） 【4k.BluRay.Remux】
+# 花月杀手
 
 > 更新时间：2025-11-05
 > 分类：影视资源 / 电影

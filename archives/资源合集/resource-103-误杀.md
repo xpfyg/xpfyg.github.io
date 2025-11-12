@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 误杀 2部
+title: 误杀
 description: 电影 - 误杀
 keywords: 误杀,电影,夸克网盘
 category: 电影
 ---
 
-# 误杀 2部
+# 误杀
 
 > 更新时间：2025-11-04
 > 分类：影视资源 / 电影

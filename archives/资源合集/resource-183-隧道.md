@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 《隧道 2016 韩国 》蓝光原盘REMUX 内封简英双语字幕
+title: 隧道
 description: 电影 - 隧道
 keywords: 隧道,电影,夸克网盘
 category: 电影
 ---
 
-# 《隧道 2016 韩国 》蓝光原盘REMUX 内封简英双语字幕
+# 隧道
 
 > 更新时间：2025-11-06
 > 分类：影视资源 / 电影

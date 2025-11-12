@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 食神.The.God.of.Cookery.1996.1080p.BD1080P.X264.AAC.国粤双语中字.mkv
+title: 食神
 description: 电影 - 食神
 keywords: 食神,电影,夸克网盘
 category: 电影
 ---
 
-# 食神.The.God.of.Cookery.1996.1080p.BD1080P.X264.AAC.国粤双语中字.mkv
+# 食神
 
 > 更新时间：2025-11-04
 > 分类：影视资源 / 电影

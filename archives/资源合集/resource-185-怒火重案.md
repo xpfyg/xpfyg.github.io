@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 《怒火重案 》4K原盘REMUX 国粤双音 内封字幕
+title: 怒火重案
 description: 电影 - 怒火重案
 keywords: 怒火重案,电影,夸克网盘
 category: 电影
 ---
 
-# 《怒火重案 》4K原盘REMUX 国粤双音 内封字幕
+# 怒火重案
 
 > 更新时间：2025-11-04
 > 分类：影视资源 / 电影

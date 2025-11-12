@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 夏洛特烦恼.2015.4K.国语.中字.60fps
+title: 夏洛特烦恼
 description: 电影 - 夏洛特烦恼
 keywords: 夏洛特烦恼,电影,夸克网盘
 category: 电影
 ---
 
-# 夏洛特烦恼.2015.4K.国语.中字.60fps
+# 夏洛特烦恼
 
 > 更新时间：2025-11-04
 > 分类：影视资源 / 电影

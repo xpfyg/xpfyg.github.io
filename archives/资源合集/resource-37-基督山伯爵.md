@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 基督山伯爵 4K REMUX 
+title: 基督山伯爵
 description: 剧集 - 基督山伯爵
 keywords: 基督山伯爵,剧集,夸克网盘
 category: 剧集
 ---
 
-# 基督山伯爵 4K REMUX 
+# 基督山伯爵
 
 > 更新时间：2025-11-04
 > 分类：影视资源 / 剧集

@@ -1,12 +1,12 @@
 ---
 layout: default
-title: DC电影宇宙系列合集18部 4K 高码率 内嵌中英字幕
+title: DC电影宇宙系列合集
 description: 电影 - DC电影宇宙系列合集
 keywords: DC电影宇宙系列合集,电影,夸克网盘
 category: 电影
 ---
 
-# DC电影宇宙系列合集18部 4K 高码率 内嵌中英字幕
+# DC电影宇宙系列合集
 
 > 更新时间：2025-11-04
 > 分类：影视资源 / 电影

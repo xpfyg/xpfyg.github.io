@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 闻香识女人.Scent.of.a.Woman.1992.BluRay.1080p.x265.10bit.3Audio.MNHD-FRDS
+title: 闻香识女人
 description: 电影 - 闻香识女人
 keywords: 闻香识女人,电影,夸克网盘
 category: 电影
 ---
 
-# 闻香识女人.Scent.of.a.Woman.1992.BluRay.1080p.x265.10bit.3Audio.MNHD-FRDS
+# 闻香识女人
 
 > 更新时间：2025-11-05
 > 分类：影视资源 / 电影

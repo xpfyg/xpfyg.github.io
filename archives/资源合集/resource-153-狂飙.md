@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 狂飙 (2023)
+title: 狂飙
 description: 剧集 - 狂飙
 keywords: 狂飙,剧集,夸克网盘
 category: 剧集
 ---
 
-# 狂飙 (2023)
+# 狂飙
 
 > 更新时间：2025-11-04
 > 分类：影视资源 / 剧集

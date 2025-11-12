@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 寄生虫 (韩国) 4K原盘REMUX 杜比视界 内封字幕
+title: 寄生虫
 description: 电影 - 寄生虫
 keywords: 寄生虫,电影,夸克网盘
 category: 电影
 ---
 
-# 寄生虫 (韩国) 4K原盘REMUX 杜比视界 内封字幕
+# 寄生虫
 
 > 更新时间：2025-11-04
 > 分类：影视资源 / 电影

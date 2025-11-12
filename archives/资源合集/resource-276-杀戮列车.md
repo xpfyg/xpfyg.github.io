@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 杀戮列车 (2023) 4K SDR 外挂人工翻译简中
+title: 杀戮列车
 description: 电影 - 杀戮列车
 keywords: 杀戮列车,电影,夸克网盘
 category: 电影
 ---
 
-# 杀戮列车 (2023) 4K SDR 外挂人工翻译简中
+# 杀戮列车
 
 > 更新时间：2025-11-07
 > 分类：影视资源 / 电影

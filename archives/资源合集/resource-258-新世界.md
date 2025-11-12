@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 新世界 韩国 蓝光原盘REMUX 内封字幕
+title: 新世界
 description: 剧集 - 新世界
 keywords: 新世界,剧集,夸克网盘
 category: 剧集
 ---
 
-# 新世界 韩国 蓝光原盘REMUX 内封字幕
+# 新世界
 
 > 更新时间：2025-11-05
 > 分类：影视资源 / 剧集

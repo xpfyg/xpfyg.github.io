@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 成龙历险记 (2000)
+title: 成龙历险记
 description: 剧集 - 成龙历险记
 keywords: 成龙历险记,剧集,夸克网盘
 category: 剧集
 ---
 
-# 成龙历险记 (2000)
+# 成龙历险记
 
 > 更新时间：2025-11-04
 > 分类：影视资源 / 剧集

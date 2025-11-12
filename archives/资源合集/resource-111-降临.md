@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 降临 4K原盘REMUX 国英双音 特效字幕
+title: 降临
 description: 电影 - 降临
 keywords: 降临,电影,夸克网盘
 category: 电影
 ---
 
-# 降临 4K原盘REMUX 国英双音 特效字幕
+# 降临
 
 > 更新时间：2025-11-04
 > 分类：影视资源 / 电影

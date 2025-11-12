@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 英雄本色 4K REMUX 杜比视界 国粤双音
+title: 英雄本色
 description: 电影 - 英雄本色
 keywords: 英雄本色,电影,夸克网盘
 category: 电影
 ---
 
-# 英雄本色 4K REMUX 杜比视界 国粤双音
+# 英雄本色
 
 > 更新时间：2025-11-04
 > 分类：影视资源 / 电影

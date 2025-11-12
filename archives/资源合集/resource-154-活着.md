@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 活 着 (1994) 1080P 蓝光REMUX原盘 国语 内封简繁中字 32G
+title: 活着
 description: 电影 - 活着
 keywords: 活着,电影,夸克网盘
 category: 电影
 ---
 
-# 活 着 (1994) 1080P 蓝光REMUX原盘 国语 内封简繁中字 32G
+# 活着
 
 > 更新时间：2025-11-04
 > 分类：影视资源 / 电影

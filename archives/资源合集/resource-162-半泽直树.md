@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 半泽直树 2季全
+title: 半泽直树
 description: 剧集 - 半泽直树
 keywords: 半泽直树,剧集,夸克网盘
 category: 剧集
 ---
 
-# 半泽直树 2季全
+# 半泽直树
 
 > 更新时间：2025-11-04
 > 分类：影视资源 / 剧集

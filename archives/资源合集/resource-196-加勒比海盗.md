@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 加勒比海盗系列五部合集 4K 2160P SDR 内嵌中英硬字幕
+title: 加勒比海盗
 description: 电影 - 加勒比海盗
 keywords: 加勒比海盗,电影,夸克网盘
 category: 电影
 ---
 
-# 加勒比海盗系列五部合集 4K 2160P SDR 内嵌中英硬字幕
+# 加勒比海盗
 
 > 更新时间：2025-11-04
 > 分类：影视资源 / 电影

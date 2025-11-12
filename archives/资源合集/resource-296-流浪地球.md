@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 流浪地球系列1-2两部
+title: 流浪地球
 description: 电影 - 流浪地球
 keywords: 流浪地球,电影,夸克网盘
 category: 电影
 ---
 
-# 流浪地球系列1-2两部
+# 流浪地球
 
 > 更新时间：2025-11-06
 > 分类：影视资源 / 电影

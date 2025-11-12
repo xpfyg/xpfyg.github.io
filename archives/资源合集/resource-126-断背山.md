@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 《断背山》 李安-奥斯卡 4K REMUX原盘 杜比视界 特效字幕
+title: 断背山
 description: 电影 - 断背山
 keywords: 断背山,电影,夸克网盘
 category: 电影
 ---
 
-# 《断背山》 李安-奥斯卡 4K REMUX原盘 杜比视界 特效字幕
+# 断背山
 
 > 更新时间：2025-11-04
 > 分类：影视资源 / 电影

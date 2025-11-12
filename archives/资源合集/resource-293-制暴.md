@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Z#暴（2024）4K EDR 杜比视界 国语中字
+title: 制暴
 description: 电影 - 制暴
 keywords: 制暴,电影,夸克网盘
 category: 电影
 ---
 
-# Z#暴（2024）4K EDR 杜比视界 国语中字
+# 制暴
 
 > 更新时间：2025-11-05
 > 分类：影视资源 / 电影

@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 孤战迷城（2024）
+title: 孤战迷城
 description: 剧集 - 孤战迷城
 keywords: 孤战迷城,剧集,夸克网盘
 category: 剧集
 ---
 
-# 孤战迷城（2024）
+# 孤战迷城
 
 > 更新时间：2025-11-05
 > 分类：影视资源 / 剧集

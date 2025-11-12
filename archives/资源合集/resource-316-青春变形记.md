@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 青春变形记 (2022) 4K HDR
+title: 青春变形记
 description: 电影 - 青春变形记
 keywords: 青春变形记,电影,夸克网盘
 category: 电影
 ---
 
-# 青春变形记 (2022) 4K HDR
+# 青春变形记
 
 > 更新时间：2025-11-06
 > 分类：影视资源 / 电影

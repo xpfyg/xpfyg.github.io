@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 九龙城寨（2024）REMUX蓝光原盘 TrueHD 7.1  国粤双语音轨
+title: 九龙城寨
 description: 电影 - 九龙城寨
 keywords: 九龙城寨,电影,夸克网盘
 category: 电影
 ---
 
-# 九龙城寨（2024）REMUX蓝光原盘 TrueHD 7.1  国粤双语音轨
+# 九龙城寨
 
 > 更新时间：2025-11-04
 > 分类：影视资源 / 电影

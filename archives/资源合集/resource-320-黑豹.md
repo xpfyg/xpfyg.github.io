@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 黑豹（2018）4K HDR 杜比视界 蓝光 国英音轨 内封特效字幕 CHD
+title: 黑豹
 description: 电影 - 黑豹
 keywords: 黑豹,电影,夸克网盘
 category: 电影
 ---
 
-# 黑豹（2018）4K HDR 杜比视界 蓝光 国英音轨 内封特效字幕 CHD
+# 黑豹
 
 > 更新时间：2025-11-10
 > 分类：影视资源 / 电影

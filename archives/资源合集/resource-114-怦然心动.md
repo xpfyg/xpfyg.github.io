@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 怦然心动 蓝光原盘REMUX 内封字幕
+title: 怦然心动
 description: 电影 - 怦然心动
 keywords: 怦然心动,电影,夸克网盘
 category: 电影
 ---
 
-# 怦然心动 蓝光原盘REMUX 内封字幕
+# 怦然心动
 
 > 更新时间：2025-11-04
 > 分类：影视资源 / 电影

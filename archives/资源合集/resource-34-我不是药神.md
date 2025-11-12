@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 我不是药神（2018）
+title: 我不是药神
 description: 电影 - 我不是药神
 keywords: 我不是药神,电影,夸克网盘
 category: 电影
 ---
 
-# 我不是药神（2018）
+# 我不是药神
 
 > 更新时间：2025-11-06
 > 分类：影视资源 / 电影

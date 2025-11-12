@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 帝国的毁灭 4K原盘REMUX
+title: 帝国的毁灭
 description: 电影 - 帝国的毁灭
 keywords: 帝国的毁灭,电影,夸克网盘
 category: 电影
 ---
 
-# 帝国的毁灭 4K原盘REMUX
+# 帝国的毁灭
 
 > 更新时间：2025-11-06
 > 分类：影视资源 / 电影

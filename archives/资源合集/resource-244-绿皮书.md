@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 绿皮书 (2018) 4K HDR 蓝光 国英音轨 内封双语特效字幕
+title: 绿皮书
 description: 电影 - 绿皮书
 keywords: 绿皮书,电影,夸克网盘
 category: 电影
 ---
 
-# 绿皮书 (2018) 4K HDR 蓝光 国英音轨 内封双语特效字幕
+# 绿皮书
 
 > 更新时间：2025-11-11
 > 分类：影视资源 / 电影

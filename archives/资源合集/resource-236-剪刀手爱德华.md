@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 剪刀手爱德华 (1990) 4K SDR 外挂中文字幕
+title: 剪刀手爱德华
 description: 电影 - 剪刀手爱德华
 keywords: 剪刀手爱德华,电影,夸克网盘
 category: 电影
 ---
 
-# 剪刀手爱德华 (1990) 4K SDR 外挂中文字幕
+# 剪刀手爱德华
 
 > 更新时间：2025-11-05
 > 分类：影视资源 / 电影

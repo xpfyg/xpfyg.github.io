@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 美国内战 (2024)
+title: 美国内战
 description: 剧集 - 美国内战
 keywords: 美国内战,剧集,夸克网盘
 category: 剧集
 ---
 
-# 美国内战 (2024)
+# 美国内战
 
 > 更新时间：2025-11-04
 > 分类：影视资源 / 剧集

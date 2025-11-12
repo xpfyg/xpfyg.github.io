@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 铃芽之旅 (2022) 4K REMUX  内封简日特效字幕
+title: 铃芽之旅
 description: 电影 - 铃芽之旅
 keywords: 铃芽之旅,电影,夸克网盘
 category: 电影
 ---
 
-# 铃芽之旅 (2022) 4K REMUX  内封简日特效字幕
+# 铃芽之旅
 
 > 更新时间：2025-11-06
 > 分类：影视资源 / 电影

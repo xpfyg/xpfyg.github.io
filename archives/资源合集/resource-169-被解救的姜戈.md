@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 被解救的姜戈 蓝光原盘REMUX 国英双音 内封字幕
+title: 被解救的姜戈
 description: 电影 - 被解救的姜戈
 keywords: 被解救的姜戈,电影,夸克网盘
 category: 电影
 ---
 
-# 被解救的姜戈 蓝光原盘REMUX 国英双音 内封字幕
+# 被解救的姜戈
 
 > 更新时间：2025-11-04
 > 分类：影视资源 / 电影

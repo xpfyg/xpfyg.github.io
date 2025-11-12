@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Hello，树先生 (2011) 4K 2160P
+title: Hello，树先生
 description: 电影 - Hello，树先生
 keywords: Hello，树先生,电影,夸克网盘
 category: 电影
 ---
 
-# Hello，树先生 (2011) 4K 2160P
+# Hello，树先生
 
 > 更新时间：2025-11-04
 > 分类：影视资源 / 电影

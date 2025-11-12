@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 2012 世界末日 4K原盘REMUX 国英双音 内封字幕
+title: 2012世界末日
 description: 电影 - 2012世界末日
 keywords: 2012世界末日,电影,夸克网盘
 category: 电影
 ---
 
-# 2012 世界末日 4K原盘REMUX 国英双音 内封字幕
+# 2012世界末日
 
 > 更新时间：2025-11-04
 > 分类：影视资源 / 电影

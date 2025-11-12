@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 人生大事(2022) 4K 60FPS 国语中字
+title: 人生大事
 description: 电影 - 人生大事
 keywords: 人生大事,电影,夸克网盘
 category: 电影
 ---
 
-# 人生大事(2022) 4K 60FPS 国语中字
+# 人生大事
 
 > 更新时间：2025-11-06
 > 分类：影视资源 / 电影

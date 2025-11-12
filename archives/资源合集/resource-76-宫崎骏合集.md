@@ -1,12 +1,12 @@
 ---
 layout: default
-title: ?宫崎骏合集 蓝光REMUX原盘 国粤日多音轨 【蓝光珍藏版700GB】
+title: 宫崎骏合集
 description: 电影 - 宫崎骏合集
 keywords: 宫崎骏合集,电影,夸克网盘
 category: 电影
 ---
 
-# ?宫崎骏合集 蓝光REMUX原盘 国粤日多音轨 【蓝光珍藏版700GB】
+# 宫崎骏合集
 
 > 更新时间：2025-11-04
 > 分类：影视资源 / 电影

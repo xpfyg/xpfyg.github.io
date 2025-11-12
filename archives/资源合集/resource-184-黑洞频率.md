@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 《黑洞频率 》蓝光原盘REMUX 内封简英双语字幕
+title: 黑洞频率
 description: 电影 - 黑洞频率
 keywords: 黑洞频率,电影,夸克网盘
 category: 电影
 ---
 
-# 《黑洞频率 》蓝光原盘REMUX 内封简英双语字幕
+# 黑洞频率
 
 > 更新时间：2025-11-04
 > 分类：影视资源 / 电影

@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 进击的巨人 全季+OVA  4K 高码
+title: 进击的巨人
 description: 剧集 - 进击的巨人
 keywords: 进击的巨人,剧集,夸克网盘
 category: 剧集
 ---
 
-# 进击的巨人 全季+OVA  4K 高码
+# 进击的巨人
 
 > 更新时间：2025-11-04
 > 分类：影视资源 / 剧集

@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 热搜 (2023) 4K
+title: 热搜
 description: 电影 - 热搜
 keywords: 热搜,电影,夸克网盘
 category: 电影
 ---
 
-# 热搜 (2023) 4K
+# 热搜
 
 > 更新时间：2025-11-04
 > 分类：影视资源 / 电影

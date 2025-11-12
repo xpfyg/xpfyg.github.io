@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 【韩剧】 丑闻（2024）
+title: 丑闻
 description: 剧集 - 丑闻
 keywords: 丑闻,剧集,夸克网盘
 category: 剧集
 ---
 
-# 【韩剧】 丑闻（2024）
+# 丑闻
 
 > 更新时间：2025-11-04
 > 分类：影视资源 / 剧集

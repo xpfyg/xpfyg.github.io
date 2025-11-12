@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 半个喜剧 (2019) 4K 60FPS 全景声 高码率 国语中字
+title: 半个喜剧
 description: 电影 - 半个喜剧
 keywords: 半个喜剧,电影,夸克网盘
 category: 电影
 ---
 
-# 半个喜剧 (2019) 4K 60FPS 全景声 高码率 国语中字
+# 半个喜剧
 
 > 更新时间：2025-11-06
 > 分类：影视资源 / 电影

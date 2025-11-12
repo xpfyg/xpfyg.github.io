@@ -1,12 +1,12 @@
 ---
 layout: default
-title: S首尔破笑组
+title: 首尔破笑组
 description: 剧集 - 首尔破笑组
 keywords: 首尔破笑组,剧集,夸克网盘
 category: 剧集
 ---
 
-# S首尔破笑组
+# 首尔破笑组
 
 > 更新时间：2025-11-04
 > 分类：影视资源 / 剧集

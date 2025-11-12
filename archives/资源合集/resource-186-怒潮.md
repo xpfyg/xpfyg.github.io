@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 怒潮 (2023) 4K 高码率 HQ 国语中字
+title: 怒潮
 description: 电影 - 怒潮
 keywords: 怒潮,电影,夸克网盘
 category: 电影
 ---
 
-# 怒潮 (2023) 4K 高码率 HQ 国语中字
+# 怒潮
 
 > 更新时间：2025-11-04
 > 分类：影视资源 / 电影

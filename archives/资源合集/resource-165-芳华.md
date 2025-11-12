@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 芳华(2014) 4K 60FPS 高码率 国语中字 24.2G
+title: 芳华
 description: 电影 - 芳华
 keywords: 芳华,电影,夸克网盘
 category: 电影
 ---
 
-# 芳华(2014) 4K 60FPS 高码率 国语中字 24.2G
+# 芳华
 
 > 更新时间：2025-11-04
 > 分类：影视资源 / 电影

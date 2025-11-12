@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 政权 The Regime (2024) 1080P 内嵌中英字幕
+title: 政权 The Regime
 description: 剧集 - 政权 The Regime
 keywords: 政权 The Regime,剧集,夸克网盘
 category: 剧集
 ---
 
-# 政权 The Regime (2024) 1080P 内嵌中英字幕
+# 政权 The Regime
 
 > 更新时间：2025-11-05
 > 分类：影视资源 / 剧集

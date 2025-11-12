@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 群星（2024）4K HDR 杜比视界 高码率 外挂中英特效字幕
+title: 群星
 description: 剧集 - 群星
 keywords: 群星,剧集,夸克网盘
 category: 剧集
 ---
 
-# 群星（2024）4K HDR 杜比视界 高码率 外挂中英特效字幕
+# 群星
 
 > 更新时间：2025-11-06
 > 分类：影视资源 / 剧集

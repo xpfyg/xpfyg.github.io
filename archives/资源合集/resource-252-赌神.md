@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 赌神 (1989) 4K 60FPS 高码率 内嵌中字
+title: 赌神
 description: 电影 - 赌神
 keywords: 赌神,电影,夸克网盘
 category: 电影
 ---
 
-# 赌神 (1989) 4K 60FPS 高码率 内嵌中字
+# 赌神
 
 > 更新时间：2025-11-05
 > 分类：影视资源 / 电影

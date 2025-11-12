@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 奥林匹斯的陷落 (2013) 4K SDR
+title: 奥林匹斯的陷落
 description: 电影 - 奥林匹斯的陷落
 keywords: 奥林匹斯的陷落,电影,夸克网盘
 category: 电影
 ---
 
-# 奥林匹斯的陷落 (2013) 4K SDR
+# 奥林匹斯的陷落
 
 > 更新时间：2025-11-05
 > 分类：影视资源 / 电影

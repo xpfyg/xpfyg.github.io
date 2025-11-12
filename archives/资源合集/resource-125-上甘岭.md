@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 上.甘.岭（2024）
+title: 上甘岭
 description: 电影 - 上甘岭
 keywords: 上甘岭,电影,夸克网盘
 category: 电影
 ---
 
-# 上.甘.岭（2024）
+# 上甘岭
 
 > 更新时间：2025-11-04
 > 分类：影视资源 / 电影

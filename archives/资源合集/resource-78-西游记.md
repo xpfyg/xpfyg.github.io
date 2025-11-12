@@ -1,12 +1,12 @@
 ---
 layout: default
-title: X 西游记 (1999) 动画版 4K 全52集
+title: 西游记
 description: 剧集 - 西游记
 keywords: 西游记,剧集,夸克网盘
 category: 剧集
 ---
 
-# X 西游记 (1999) 动画版 4K 全52集
+# 西游记
 
 > 更新时间：2025-11-04
 > 分类：影视资源 / 剧集

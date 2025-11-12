@@ -1,12 +1,12 @@
 ---
 layout: default
-title: [布达拉宫].The.Potala.Palace.2024.S01.2160p.50fps.WEB-DL.HEVC.DV.DDP.2Audio
+title: 布达拉宫
 description: 剧集 - 布达拉宫
 keywords: 布达拉宫,剧集,夸克网盘
 category: 剧集
 ---
 
-# [布达拉宫].The.Potala.Palace.2024.S01.2160p.50fps.WEB-DL.HEVC.DV.DDP.2Audio
+# 布达拉宫
 
 > 更新时间：2025-11-04
 > 分类：影视资源 / 剧集

@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 《信条》 4K REMUX原盘 杜比视界 国英双音 特效字幕
+title: 信条
 description: 电影 - 信条
 keywords: 信条,电影,夸克网盘
 category: 电影
 ---
 
-# 《信条》 4K REMUX原盘 杜比视界 国英双音 特效字幕
+# 信条
 
 > 更新时间：2025-11-06
 > 分类：影视资源 / 电影

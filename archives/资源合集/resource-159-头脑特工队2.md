@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 头丨脑丨特丨工丨队丨2 (2024) 4K DV DDP5.1 Atmos 外挂简英
+title: 头脑特工队2
 description: 电影 - 头脑特工队2
 keywords: 头脑特工队2,电影,夸克网盘
 category: 电影
 ---
 
-# 头丨脑丨特丨工丨队丨2 (2024) 4K DV DDP5.1 Atmos 外挂简英
+# 头脑特工队2
 
 > 更新时间：2025-11-04
 > 分类：影视资源 / 电影

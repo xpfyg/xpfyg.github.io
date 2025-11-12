@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 花木兰(2020) 4K HDR 外挂中字
+title: 花木兰
 description: 电影 - 花木兰
 keywords: 花木兰,电影,夸克网盘
 category: 电影
 ---
 
-# 花木兰(2020) 4K HDR 外挂中字
+# 花木兰
 
 > 更新时间：2025-11-06
 > 分类：影视资源 / 电影

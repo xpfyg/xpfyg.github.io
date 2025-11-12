@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 银河写手（2024）4K 高码率 60帧 DTS5.1
+title: 银河写手
 description: 电影 - 银河写手
 keywords: 银河写手,电影,夸克网盘
 category: 电影
 ---
 
-# 银河写手（2024）4K 高码率 60帧 DTS5.1
+# 银河写手
 
 > 更新时间：2025-11-04
 > 分类：影视资源 / 电影

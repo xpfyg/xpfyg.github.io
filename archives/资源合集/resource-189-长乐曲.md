@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 长｜乐｜曲 (2024)
+title: 长乐曲
 description: 剧集 - 长乐曲
 keywords: 长乐曲,剧集,夸克网盘
 category: 剧集
 ---
 
-# 长｜乐｜曲 (2024)
+# 长乐曲
 
 > 更新时间：2025-11-04
 > 分类：影视资源 / 剧集

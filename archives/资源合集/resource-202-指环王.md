@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 指环王 The Lord of the Rings 1-3 (2001-2003)
+title: 指环王
 description: 电影 - 指环王
 keywords: 指环王,电影,夸克网盘
 category: 电影
 ---
 
-# 指环王 The Lord of the Rings 1-3 (2001-2003)
+# 指环王
 
 > 更新时间：2025-11-04
 > 分类：影视资源 / 电影

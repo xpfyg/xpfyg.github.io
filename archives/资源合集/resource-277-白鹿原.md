@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 白鹿原 (2017) WEB-DL.4K 高码 全77集 国语中字 203G
+title: 白鹿原
 description: 剧集 - 白鹿原
 keywords: 白鹿原,剧集,夸克网盘
 category: 剧集
 ---
 
-# 白鹿原 (2017) WEB-DL.4K 高码 全77集 国语中字 203G
+# 白鹿原
 
 > 更新时间：2025-11-11
 > 分类：影视资源 / 剧集

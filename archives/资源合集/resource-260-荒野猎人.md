@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 荒野猎人 4K原盘REMUX 内封字幕
+title: 荒野猎人
 description: 电影 - 荒野猎人
 keywords: 荒野猎人,电影,夸克网盘
 category: 电影
 ---
 
-# 荒野猎人 4K原盘REMUX 内封字幕
+# 荒野猎人
 
 > 更新时间：2025-11-06
 > 分类：影视资源 / 电影

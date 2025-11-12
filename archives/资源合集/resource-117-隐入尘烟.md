@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 隐入尘烟 (2022) 4K
+title: 隐入尘烟
 description: 电影 - 隐入尘烟
 keywords: 隐入尘烟,电影,夸克网盘
 category: 电影
 ---
 
-# 隐入尘烟 (2022) 4K
+# 隐入尘烟
 
 > 更新时间：2025-11-04
 > 分类：影视资源 / 电影

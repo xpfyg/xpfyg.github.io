@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 无声蛙鸣（2024）
+title: 无声蛙鸣
 description: 电影 - 无声蛙鸣
 keywords: 无声蛙鸣,电影,夸克网盘
 category: 电影
 ---
 
-# 无声蛙鸣（2024）
+# 无声蛙鸣
 
 > 更新时间：2025-11-04
 > 分类：影视资源 / 电影

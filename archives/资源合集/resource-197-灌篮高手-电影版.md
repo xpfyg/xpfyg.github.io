@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 灌篮高手 电影版 (2022) 4K REMUX 国日双语中字
+title: 灌篮高手 电影版
 description: 电影 - 灌篮高手 电影版
 keywords: 灌篮高手 电影版,电影,夸克网盘
 category: 电影
 ---
 
-# 灌篮高手 电影版 (2022) 4K REMUX 国日双语中字
+# 灌篮高手 电影版
 
 > 更新时间：2025-11-11
 > 分类：影视资源 / 电影

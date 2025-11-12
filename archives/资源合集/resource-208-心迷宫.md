@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 心迷宫 (2014) 4K  高码
+title: 心迷宫
 description: 电影 - 心迷宫
 keywords: 心迷宫,电影,夸克网盘
 category: 电影
 ---
 
-# 心迷宫 (2014) 4K  高码
+# 心迷宫
 
 > 更新时间：2025-11-04
 > 分类：影视资源 / 电影

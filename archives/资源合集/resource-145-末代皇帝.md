@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 末代皇帝 (1987) 4K HDR 蓝光 外挂双语字幕
+title: 末代皇帝
 description: 电影 - 末代皇帝
 keywords: 末代皇帝,电影,夸克网盘
 category: 电影
 ---
 
-# 末代皇帝 (1987) 4K HDR 蓝光 外挂双语字幕
+# 末代皇帝
 
 > 更新时间：2025-11-04
 > 分类：影视资源 / 电影

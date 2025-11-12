@@ -1,12 +1,12 @@
 ---
 layout: default
-title: D 大时代（1992） 国语双语音轨 高清
+title: 大时代
 description: 剧集 - 大时代
 keywords: 大时代,剧集,夸克网盘
 category: 剧集
 ---
 
-# D 大时代（1992） 国语双语音轨 高清
+# 大时代
 
 > 更新时间：2025-11-04
 > 分类：影视资源 / 剧集

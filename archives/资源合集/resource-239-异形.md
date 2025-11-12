@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 异形.6部合集.  国英双语中英特效
+title: 异形
 description: 电影 - 异形
 keywords: 异形,电影,夸克网盘
 category: 电影
 ---
 
-# 异形.6部合集.  国英双语中英特效
+# 异形
 
 > 更新时间：2025-11-04
 > 分类：影视资源 / 电影

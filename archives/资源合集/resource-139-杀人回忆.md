@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 杀人回忆 韩国 4K原盘REMUX 内封字幕
+title: 杀人回忆
 description: 电影 - 杀人回忆
 keywords: 杀人回忆,电影,夸克网盘
 category: 电影
 ---
 
-# 杀人回忆 韩国 4K原盘REMUX 内封字幕
+# 杀人回忆
 
 > 更新时间：2025-11-04
 > 分类：影视资源 / 电影

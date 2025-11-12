@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 破墓（2024）内封简中特效字幕
+title: 破墓
 description: 电影 - 破墓
 keywords: 破墓,电影,夸克网盘
 category: 电影
 ---
 
-# 破墓（2024）内封简中特效字幕
+# 破墓
 
 > 更新时间：2025-11-04
 > 分类：影视资源 / 电影

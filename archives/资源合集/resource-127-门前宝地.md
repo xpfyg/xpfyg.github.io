@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 门.前.宝.地（2024）
+title: 门前宝地
 description: 电影 - 门前宝地
 keywords: 门前宝地,电影,夸克网盘
 category: 电影
 ---
 
-# 门.前.宝.地（2024）
+# 门前宝地
 
 > 更新时间：2025-11-04
 > 分类：影视资源 / 电影

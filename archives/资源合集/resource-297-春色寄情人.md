@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 春色寄情人（2024）
+title: 春色寄情人
 description: 剧集 - 春色寄情人
 keywords: 春色寄情人,剧集,夸克网盘
 category: 剧集
 ---
 
-# 春色寄情人（2024）
+# 春色寄情人
 
 > 更新时间：2025-11-05
 > 分类：影视资源 / 剧集

@@ -1,12 +1,12 @@
 ---
 layout: default
-title: G-干脆面
+title: 干脆杀了他算了
 description: 电影 - 干脆杀了他算了
 keywords: 干脆杀了他算了,电影,夸克网盘
 category: 电影
 ---
 
-# G-干脆面
+# 干脆杀了他算了
 
 > 更新时间：2025-11-04
 > 分类：影视资源 / 电影
