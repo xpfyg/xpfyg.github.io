@@ -1,12 +1,12 @@
 ---
 layout: default
-title: FC游戏合集
-description: 资源 - FC游戏合集
-keywords: FC游戏合集,,夸克网盘
+title: FC游戏合集 - 免费夸克网盘资源分享
+description: FC游戏合集 资源，提供免费夸克网盘分享链接，支持在线观看和高速下载。
+keywords: FC游戏合集,资源,夸克网盘,网盘资源,免费下载,在线观看
 category: 影视资源
 ---
 
-# FC游戏合集
+# FC游戏合集 - 免费夸克网盘资源分享
 
 > 更新时间：2025-11-03
 > 分类：影视资源 / 合集

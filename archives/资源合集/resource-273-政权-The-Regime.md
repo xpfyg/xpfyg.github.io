@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 政权 The Regime
-description: 剧集 - 政权 The Regime
-keywords: 政权 The Regime,剧集,夸克网盘
+title: 政权 The Regime - 免费夸克网盘资源分享
+description: 政权 The Regime - 本剧会讲诉一个现代欧洲政权在一年之内开始瓦解的故事，温丝莱特出演新晋上任的总理；。免费夸克网盘资源分享，在线观看下载。
+keywords: 政权 The Regime,剧集,夸克网盘,网盘资源,免费下载,在线观看,政权 The Regime (2024) 1080P 内嵌中英字幕,政权,2024
 category: 剧集
 ---
 
-# 政权 The Regime
+# 政权 The Regime - 免费夸克网盘资源分享
 
 > 更新时间：2025-11-05
 > 分类：影视资源 / 剧集
