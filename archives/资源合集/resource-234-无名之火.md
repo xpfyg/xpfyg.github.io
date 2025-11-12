@@ -1,0 +1,89 @@
+---
+layout: default
+title: 无名之火（2024） 4K高码率 60帧率版 剧情 喜剧(1)
+description: 剧集 - 无名之火
+keywords: 无名之火,剧集,夸克网盘
+category: 剧集
+---
+
+# 无名之火（2024） 4K高码率 60帧率版 剧情 喜剧(1)
+
+> 更新时间：2025-11-04
+> 分类：影视资源 / 剧集
+> 网盘类型：夸克网盘
+> 浏览次数：0
+> 分享次数：0
+
+## 资源信息
+
+
+### 影视详情
+
+<div class="movie-info">
+  
+  <img src="https://image.tmdb.org/t/p/w500/6aseemI5Qa29q91lxNa6sdhKQo9.jpg" alt="无名之火" class="poster" />
+  
+
+  **片名**：无名之火
+  **年份**：2024
+  **评分**：⭐ 8.0/10
+  **简介**：薛铭（贾冰 饰）本是个胸无大志的人，因为一次酒后救火成了小城里的大英雄。但薛铭知道自己是假的，真正的救人者生命垂危。良心的谴责让薛铭毅然说出实情，他从大英雄变成了大骗子，而薛铭则决定利用热度为真英雄筹款，终于也成了自己的英雄。
+</div>
+
+
+## 资源链接
+
+**资源名称**：无名之火
+
+**别名**：无名之火（2024） 4K高码率 60帧率版 剧情 喜剧(1)
+
+
+
+### 获取方式
+
+<div class="download-section">
+  <a href="https://pan.quark.cn/s/aa7f6d00ef60" class="download-btn" onclick="trackClick(234)">
+    🔗 点击获取资源
+  </a>
+</div>
+
+> ⚠️ 提示：点击上方按钮将跳转到网盘分享页面
+> 📋 如提示需要提取码，请查看分享页面说明
+
+## 相关推荐
+
+
+- [长｜乐｜曲 (2024)](/resources/resource-189-长乐曲.html) - 剧集
+
+- [打黑.Black.Storm.2024.2160p.WEB-DL.H265.EDR.DDP5.1.Atmos](/resources/resource-194-打黑.html) - 剧集
+
+- [俗女养成记](/resources/resource-193-俗女养成记.html) - 剧集
+
+- [边水往事](/resources/resource-199-边水往事.html) - 剧集
+
+- [群星（2024）4K HDR 杜比视界 高码率 外挂中英特效字幕](/resources/resource-187-群星.html) - 剧集
+
+
+---
+
+<div class="stats-info">
+  <small>
+    本页面浏览：<span id="page-views">0</span> 次
+    资源点击：<span id="click-count">0</span> 次
+  </small>
+</div>
+
+<script>
+function trackClick(resourceId) {
+  fetch('/api/track_click/' + resourceId, {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json'
+    }
+  }).then(response => {
+    if (response.ok) {
+      document.getElementById('click-count').textContent = parseInt(document.getElementById('click-count').textContent) + 1;
+    }
+  });
+}
+</script>
