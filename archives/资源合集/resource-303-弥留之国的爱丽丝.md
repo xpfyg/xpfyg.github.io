@@ -2,7 +2,7 @@
 title: 弥留之国的爱丽丝 - 免费夸克网盘资源分享
 description: 弥留之国的爱丽丝 - 一位漫无目标的游戏玩家和两位好友发现他们身处平行世界中的东京。为了生存下来，他们必须在一系列残忍的游戏中展开较量。。免费夸克网盘资源分享，在线观看下载。
 keywords: 弥留之国的爱丽丝,剧集,夸克网盘,网盘资源,免费下载,在线观看,弥.留.之.国.的.爱.丽.丝（2025）,2020
-date: 2025-11-12 15:44:21
+date: 2025-11-12 15:53:58
 updated: 2025-11-12
 category: 剧集
 tags:
@@ -404,6 +404,9 @@ body::before {
         <span class="badge">📁 剧集</span>
         <span class="badge">☁️ 夸克网盘</span>
         
+        <span class="badge">🎬 悬疑、剧情、动作冒险</span>
+        
+        
       </div>
 
       
@@ -483,6 +486,10 @@ body::before {
       <div class="info-label">分类</div>
       <div class="info-value">影视资源 / 剧集</div>
     </div>
+    <div class="info-row">
+      <div class="info-label">类型</div>
+      <div class="info-value">悬疑、剧情、动作冒险</div>
+    </div>
     
     <div class="info-row">
       <div class="info-label">年份</div>
@@ -555,7 +562,7 @@ body::before {
 <div class="footer-info">
   <p>
     📝 资源ID: 303 |
-    ⏰ 生成时间: 2025-11-12 15:44:21 |
+    ⏰ 生成时间: 2025-11-12 15:53:58 |
     🔄 最后更新: 2025-11-12
   </p>
   <p style="margin-top: 10px; font-size: 0.85em;">
@@ -632,7 +639,7 @@ body::before {
   "url": "https://xpfyg.github.io/archives/资源合集/resource-303-弥留之国的爱丽丝.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-12",
-  "dateCreated": "2025-11-12 15:44:21",
+  "dateCreated": "2025-11-12 15:53:58",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -710,7 +717,7 @@ body::before {
   
   "image": "https://image.tmdb.org/t/p/w500/ycBDes9DHFbfQZ3K676TTbEcfFX.jpg",
   
-  "datePublished": "2025-11-12 15:44:21",
+  "datePublished": "2025-11-12 15:53:58",
   "dateModified": "2025-11-12",
   "author": {
     "@type": "Organization",
