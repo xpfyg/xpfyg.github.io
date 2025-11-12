@@ -2,7 +2,7 @@
 title: 弥留之国的爱丽丝 - 免费夸克网盘资源分享
 description: 弥留之国的爱丽丝 - 一位漫无目标的游戏玩家和两位好友发现他们身处平行世界中的东京。为了生存下来，他们必须在一系列残忍的游戏中展开较量。。免费夸克网盘资源分享，在线观看下载。
 keywords: 弥留之国的爱丽丝,剧集,夸克网盘,网盘资源,免费下载,在线观看,弥.留.之.国.的.爱.丽.丝（2025）,2020
-date: 2025-11-12 15:08:00
+date: 2025-11-12 15:44:21
 updated: 2025-11-12
 category: 剧集
 tags:
@@ -33,11 +33,35 @@ twitter:image: https://image.tmdb.org/t/p/w500/ycBDes9DHFbfQZ3K676TTbEcfFX.jpg
 
 <style>
 /* TMDB 风格的页面样式 */
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  min-height: 100vh;
+  position: relative;
+}
+
+body::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background:
+    radial-gradient(circle at 20% 50%, rgba(120, 119, 198, 0.3) 0%, transparent 50%),
+    radial-gradient(circle at 80% 80%, rgba(255, 119, 198, 0.2) 0%, transparent 50%),
+    radial-gradient(circle at 40% 20%, rgba(138, 180, 248, 0.2) 0%, transparent 50%);
+  z-index: -1;
+}
+
 .resource-container {
   max-width: 1200px;
   margin: 0 auto;
   padding: 20px;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  position: relative;
+  z-index: 1;
 }
 
 .hero-section {
@@ -47,6 +71,8 @@ twitter:image: https://image.tmdb.org/t/p/w500/ycBDes9DHFbfQZ3K676TTbEcfFX.jpg
   margin-bottom: 30px;
   color: white;
   box-shadow: 0 8px 24px rgba(0,0,0,0.15);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
 }
 
 .hero-content {
@@ -164,11 +190,13 @@ twitter:image: https://image.tmdb.org/t/p/w500/ycBDes9DHFbfQZ3K676TTbEcfFX.jpg
 }
 
 .content-section {
-  background: white;
+  background: rgba(255, 255, 255, 0.95);
   border-radius: 12px;
   padding: 30px;
   margin-bottom: 20px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.5);
 }
 
 .section-title {
@@ -192,9 +220,12 @@ twitter:image: https://image.tmdb.org/t/p/w500/ycBDes9DHFbfQZ3K676TTbEcfFX.jpg
 .download-section {
   text-align: center;
   padding: 40px;
-  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  background: linear-gradient(135deg, rgba(245, 247, 250, 0.95) 0%, rgba(195, 207, 226, 0.9) 100%);
   border-radius: 12px;
   margin: 30px 0;
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  box-shadow: 0 4px 16px rgba(0,0,0,0.1);
 }
 
 .download-btn {
@@ -222,12 +253,14 @@ twitter:image: https://image.tmdb.org/t/p/w500/ycBDes9DHFbfQZ3K676TTbEcfFX.jpg
 }
 
 .tips-box {
-  background: #fff3cd;
+  background: rgba(255, 243, 205, 0.95);
   border-left: 4px solid #ffc107;
   padding: 15px 20px;
   margin: 20px 0;
   border-radius: 6px;
   color: #856404;
+  backdrop-filter: blur(5px);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
 }
 
 .tips-box ul {
@@ -247,17 +280,18 @@ twitter:image: https://image.tmdb.org/t/p/w500/ycBDes9DHFbfQZ3K676TTbEcfFX.jpg
 }
 
 .related-item {
-  background: #f8f9fa;
+  background: rgba(248, 249, 250, 0.8);
   padding: 15px;
   border-radius: 8px;
   text-decoration: none;
   color: #0a2540;
   transition: all 0.3s ease;
-  border: 2px solid transparent;
+  border: 2px solid rgba(255, 255, 255, 0.5);
+  backdrop-filter: blur(5px);
 }
 
 .related-item:hover {
-  background: white;
+  background: rgba(255, 255, 255, 0.95);
   border-color: #667eea;
   box-shadow: 0 4px 12px rgba(0,0,0,0.1);
   transform: translateY(-2px);
@@ -289,10 +323,13 @@ twitter:image: https://image.tmdb.org/t/p/w500/ycBDes9DHFbfQZ3K676TTbEcfFX.jpg
 .footer-info {
   text-align: center;
   padding: 20px;
-  color: #6c757d;
+  color: rgba(255, 255, 255, 0.9);
   font-size: 0.9em;
-  border-top: 1px solid #e9ecef;
+  border-top: 1px solid rgba(255, 255, 255, 0.2);
   margin-top: 40px;
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 8px;
+  backdrop-filter: blur(5px);
 }
 
 .info-table {
@@ -518,7 +555,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/ycBDes9DHFbfQZ3K676TTbEcfFX.jpg
 <div class="footer-info">
   <p>
     📝 资源ID: 303 |
-    ⏰ 生成时间: 2025-11-12 15:08:00 |
+    ⏰ 生成时间: 2025-11-12 15:44:21 |
     🔄 最后更新: 2025-11-12
   </p>
   <p style="margin-top: 10px; font-size: 0.85em;">
@@ -595,7 +632,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/ycBDes9DHFbfQZ3K676TTbEcfFX.jpg
   "url": "https://xpfyg.github.io/archives/资源合集/resource-303-弥留之国的爱丽丝.html",
   "inLanguage": "zh-CN",
   "dateModified": "2025-11-12",
-  "dateCreated": "2025-11-12 15:08:00",
+  "dateCreated": "2025-11-12 15:44:21",
   "author": {
     "@type": "Organization",
     "name": "资源分享站",
@@ -673,7 +710,7 @@ twitter:image: https://image.tmdb.org/t/p/w500/ycBDes9DHFbfQZ3K676TTbEcfFX.jpg
   
   "image": "https://image.tmdb.org/t/p/w500/ycBDes9DHFbfQZ3K676TTbEcfFX.jpg",
   
-  "datePublished": "2025-11-12 15:08:00",
+  "datePublished": "2025-11-12 15:44:21",
   "dateModified": "2025-11-12",
   "author": {
     "@type": "Organization",
