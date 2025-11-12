@@ -1,0 +1,14 @@
+# robots.txt for resource sharing site
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://xpfyg.github.io/sitemap.xml
+
+# Disallow sensitive paths
+Disallow: /api/
+Disallow: /admin/
+Disallow: /login
+
+# Crawl-delay
+Crawl-delay: 1
